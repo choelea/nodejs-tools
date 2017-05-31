@@ -16,7 +16,6 @@ var lineReader = readline.createInterface({
 });
 
 lineReader.on('line', function (line) {
-    if (line.indexOf(argv.targetStr) >= 0) {
-        console.log(line);
-    }
+    line.
+    console.log(decodeURIComponent(JSON.parse(line)));    
 });
