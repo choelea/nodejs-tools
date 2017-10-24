@@ -1,6 +1,7 @@
 const fs = require('fs');
 const readline = require('readline');
 const path = require('path');
+const uuid = require('uuid/v1');
 
 var argv = require('yargs')
     .usage('Usage: $0  [options]')
@@ -14,8 +15,11 @@ var argv = require('yargs')
 var lineReader = readline.createInterface({
     input: fs.createReadStream("" + argv.file)
 });
+var writable = fs.createWriteStream('D:\\tmp\\'+uuid());
 
 lineReader.on('line', function (line) {
-    line.
-    console.log(decodeURIComponent(JSON.parse(line)));    
+    if (line.indexOf(argv.targetStr) > -1) {
+        console.log(line + "\n")
+        writable.write(line + "\n");
+    }
 });
