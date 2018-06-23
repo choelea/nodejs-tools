@@ -5,7 +5,10 @@
 		"cate2Zh": "烷烃(9850)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Hydrocarbon & Derivatives",
-		"cate2En": "Alkanes"
+		"cate2En": "Alkanes",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-hydrocarbon-derivatives",
+		"cate2Code": "organic-chemicals-hydrocarbon-derivatives-alkanes"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -13,7 +16,10 @@
 		"cate2Zh": "烯烃(1996)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Hydrocarbon & Derivatives",
-		"cate2En": "Alkenes"
+		"cate2En": "Alkenes",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-hydrocarbon-derivatives",
+		"cate2Code": "organic-chemicals-hydrocarbon-derivatives-alkenes"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -21,7 +27,10 @@
 		"cate2Zh": "其它(947)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Hydrocarbon & Derivatives",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-hydrocarbon-derivatives",
+		"cate2Code": "organic-chemicals-hydrocarbon-derivatives-others"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -29,7 +38,10 @@
 		"cate2Zh": "炔烃(286)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Hydrocarbon & Derivatives",
-		"cate2En": "Alkynes"
+		"cate2En": "Alkynes",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-hydrocarbon-derivatives",
+		"cate2Code": "organic-chemicals-hydrocarbon-derivatives-alkynes"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -37,7 +49,10 @@
 		"cate2Zh": "环烷烃(208)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Hydrocarbon & Derivatives",
-		"cate2En": "Cycloalkanes"
+		"cate2En": "Cycloalkanes",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-hydrocarbon-derivatives",
+		"cate2Code": "organic-chemicals-hydrocarbon-derivatives-cycloalkanes"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -45,7 +60,10 @@
 		"cate2Zh": "环烯烃(29)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Hydrocarbon & Derivatives",
-		"cate2En": "Cyclenes"
+		"cate2En": "Cyclenes",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-hydrocarbon-derivatives",
+		"cate2Code": "organic-chemicals-hydrocarbon-derivatives-cyclenes"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -53,7 +71,10 @@
 		"cate2Zh": "二烯烃(22)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Hydrocarbon & Derivatives",
-		"cate2En": "Alkadienes"
+		"cate2En": "Alkadienes",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-hydrocarbon-derivatives",
+		"cate2Code": "organic-chemicals-hydrocarbon-derivatives-alkadienes"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -61,7 +82,10 @@
 		"cate2Zh": "环炔烃(9)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Hydrocarbon & Derivatives",
-		"cate2En": "Cycloalkynes"
+		"cate2En": "Cycloalkynes",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-hydrocarbon-derivatives",
+		"cate2Code": "organic-chemicals-hydrocarbon-derivatives-cycloalkynes"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -69,7 +93,10 @@
 		"cate2Zh": "醇类(12209)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Alcohols & Phenols & Ethers",
-		"cate2En": "Alcohols"
+		"cate2En": "Alcohols",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-alcohols-phenols---ethers",
+		"cate2Code": "organic-chemicals-alcohols-phenols---ethers-alcohols"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -77,7 +104,10 @@
 		"cate2Zh": "醚类(5234)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Alcohols & Phenols & Ethers",
-		"cate2En": "Ethers"
+		"cate2En": "Ethers",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-alcohols-phenols---ethers",
+		"cate2Code": "organic-chemicals-alcohols-phenols---ethers-ethers"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -85,7 +115,10 @@
 		"cate2Zh": "酚类(3523)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Alcohols & Phenols & Ethers",
-		"cate2En": "Phenols"
+		"cate2En": "Phenols",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-alcohols-phenols---ethers",
+		"cate2Code": "organic-chemicals-alcohols-phenols---ethers-phenols"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -93,7 +126,10 @@
 		"cate2Zh": "其它(582)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Alcohols & Phenols & Ethers",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-alcohols-phenols---ethers",
+		"cate2Code": "organic-chemicals-alcohols-phenols---ethers-others"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -101,7 +137,10 @@
 		"cate2Zh": "酮类(5105)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Aldehydes & Ketones & Quinones",
-		"cate2En": "Ketones"
+		"cate2En": "Ketones",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-aldehydes-ketones---quinones",
+		"cate2Code": "organic-chemicals-aldehydes-ketones---quinones-ketones"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -109,7 +148,10 @@
 		"cate2Zh": "醛类(3862)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Aldehydes & Ketones & Quinones",
-		"cate2En": "Aldehydes"
+		"cate2En": "Aldehydes",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-aldehydes-ketones---quinones",
+		"cate2Code": "organic-chemicals-aldehydes-ketones---quinones-aldehydes"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -117,7 +159,10 @@
 		"cate2Zh": "醌类(441)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Aldehydes & Ketones & Quinones",
-		"cate2En": "Quinones"
+		"cate2En": "Quinones",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-aldehydes-ketones---quinones",
+		"cate2Code": "organic-chemicals-aldehydes-ketones---quinones-quinones"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -125,7 +170,10 @@
 		"cate2Zh": "其它(251)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Aldehydes & Ketones & Quinones",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-aldehydes-ketones---quinones",
+		"cate2Code": "organic-chemicals-aldehydes-ketones---quinones-others"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -133,7 +181,10 @@
 		"cate2Zh": "羧酸(10933)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Carboxylic Acids & Derivatives",
-		"cate2En": "Carboxylic Acids"
+		"cate2En": "Carboxylic Acids",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-carboxylic-acids-derivatives",
+		"cate2Code": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -141,7 +192,10 @@
 		"cate2Zh": "羧酸衍生物(5854)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Carboxylic Acids & Derivatives",
-		"cate2En": "Carboxylic Acid Derivatives"
+		"cate2En": "Carboxylic Acid Derivatives",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-carboxylic-acids-derivatives",
+		"cate2Code": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acid-derivatives"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -149,7 +203,10 @@
 		"cate2Zh": "有机酸酐(884)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Carboxylic Acids & Derivatives",
-		"cate2En": "Carboxylic Acid Anhydrides"
+		"cate2En": "Carboxylic Acid Anhydrides",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-carboxylic-acids-derivatives",
+		"cate2Code": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acid-anhydrides"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -157,7 +214,10 @@
 		"cate2Zh": "其它(880)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Carboxylic Acids & Derivatives",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-carboxylic-acids-derivatives",
+		"cate2Code": "organic-chemicals-carboxylic-acids-derivatives-others"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -165,7 +225,10 @@
 		"cate2Zh": "有机酸酯类(15930)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Ester & Derivatives",
-		"cate2En": "Organic Acid Esters"
+		"cate2En": "Organic Acid Esters",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-ester-derivatives",
+		"cate2Code": "organic-chemicals-ester-derivatives-organic-acid-esters"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -173,7 +236,10 @@
 		"cate2Zh": "其它(1694)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Ester & Derivatives",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-ester-derivatives",
+		"cate2Code": "organic-chemicals-ester-derivatives-others"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -181,7 +247,10 @@
 		"cate2Zh": "无机酸酯类(1338)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Ester & Derivatives",
-		"cate2En": "Inorganic Acid Esters"
+		"cate2En": "Inorganic Acid Esters",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-ester-derivatives",
+		"cate2Code": "organic-chemicals-ester-derivatives-inorganic-acid-esters"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -189,7 +258,10 @@
 		"cate2Zh": "含氟的有机物(2590)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Halides",
-		"cate2En": "Fluorine-Containing Organic Compounds"
+		"cate2En": "Fluorine-Containing Organic Compounds",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-halides",
+		"cate2Code": "organic-chemicals-halides-fluorine-containing-organic-compounds"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -197,7 +269,10 @@
 		"cate2Zh": "含氯的有机物(2131)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Halides",
-		"cate2En": "Chlorine-Containing Organic Compounds"
+		"cate2En": "Chlorine-Containing Organic Compounds",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-halides",
+		"cate2Code": "organic-chemicals-halides-chlorine-containing-organic-compounds"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -205,7 +280,10 @@
 		"cate2Zh": "含溴的有机物(1624)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Halides",
-		"cate2En": "Bromine-Containing Organic Compounds"
+		"cate2En": "Bromine-Containing Organic Compounds",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-halides",
+		"cate2Code": "organic-chemicals-halides-bromine-containing-organic-compounds"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -213,7 +291,10 @@
 		"cate2Zh": "含碘的有机物(136)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Halides",
-		"cate2En": "Iodine-Containing Organic Compounds"
+		"cate2En": "Iodine-Containing Organic Compounds",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-halides",
+		"cate2Code": "organic-chemicals-halides-iodine-containing-organic-compounds"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -221,7 +302,10 @@
 		"cate2Zh": "其它(94)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Halides",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-halides",
+		"cate2Code": "organic-chemicals-halides-others"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -229,7 +313,10 @@
 		"cate2Zh": "胺基类(4063)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Nitrogen Compounds",
-		"cate2En": "Amino Compounds"
+		"cate2En": "Amino Compounds",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-nitrogen-compounds",
+		"cate2Code": "organic-chemicals-nitrogen-compounds-amino-compounds"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -237,7 +324,10 @@
 		"cate2Zh": "其它(716)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Nitrogen Compounds",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-nitrogen-compounds",
+		"cate2Code": "organic-chemicals-nitrogen-compounds-others"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -245,7 +335,10 @@
 		"cate2Zh": "腈类(603)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Nitrogen Compounds",
-		"cate2En": "Nitrile Compounds"
+		"cate2En": "Nitrile Compounds",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-nitrogen-compounds",
+		"cate2Code": "organic-chemicals-nitrogen-compounds-nitrile-compounds"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -253,7 +346,10 @@
 		"cate2Zh": "硝基类(286)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Nitrogen Compounds",
-		"cate2En": "Nitro Compounds"
+		"cate2En": "Nitro Compounds",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-nitrogen-compounds",
+		"cate2Code": "organic-chemicals-nitrogen-compounds-nitro-compounds"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -261,7 +357,10 @@
 		"cate2Zh": "肟、脲类(280)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Nitrogen Compounds",
-		"cate2En": "Oximes and Ureas"
+		"cate2En": "Oximes and Ureas",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-nitrogen-compounds",
+		"cate2Code": "organic-chemicals-nitrogen-compounds-oximes-and-ureas"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -269,7 +368,10 @@
 		"cate2Zh": "重氮、偶氮、叠氮(171)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Nitrogen Compounds",
-		"cate2En": "Diazos, Azos, and Azides"
+		"cate2En": "Diazos, Azos, and Azides",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-nitrogen-compounds",
+		"cate2Code": "organic-chemicals-nitrogen-compounds-diazos-azos-and-azides"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -277,7 +379,10 @@
 		"cate2Zh": "亚胺基类(128)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Nitrogen Compounds",
-		"cate2En": "Imine Bases"
+		"cate2En": "Imine Bases",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-nitrogen-compounds",
+		"cate2Code": "organic-chemicals-nitrogen-compounds-imine-bases"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -285,7 +390,10 @@
 		"cate2Zh": "联氨类(121)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Nitrogen Compounds",
-		"cate2En": "Hydrazines"
+		"cate2En": "Hydrazines",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-nitrogen-compounds",
+		"cate2Code": "organic-chemicals-nitrogen-compounds-hydrazines"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -293,7 +401,10 @@
 		"cate2Zh": "亚硝基类(39)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Nitrogen Compounds",
-		"cate2En": "Nitroso Compounds"
+		"cate2En": "Nitroso Compounds",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-nitrogen-compounds",
+		"cate2Code": "organic-chemicals-nitrogen-compounds-nitroso-compounds"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -301,7 +412,10 @@
 		"cate2Zh": "含硅的有机化合物(1031)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Elemento-Organic Compounds",
-		"cate2En": "Organosilicon Compounds"
+		"cate2En": "Organosilicon Compounds",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-elemento-organic-compounds",
+		"cate2Code": "organic-chemicals-elemento-organic-compounds-organosilicon-compounds"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -309,7 +423,10 @@
 		"cate2Zh": "其它(1015)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Elemento-Organic Compounds",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-elemento-organic-compounds",
+		"cate2Code": "organic-chemicals-elemento-organic-compounds-others"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -317,7 +434,10 @@
 		"cate2Zh": "含硫的有机化合物(749)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Elemento-Organic Compounds",
-		"cate2En": "Organosulfur Compounds"
+		"cate2En": "Organosulfur Compounds",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-elemento-organic-compounds",
+		"cate2Code": "organic-chemicals-elemento-organic-compounds-organosulfur-compounds"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -325,7 +445,10 @@
 		"cate2Zh": "含磷的有机化合物(486)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Elemento-Organic Compounds",
-		"cate2En": "Organophosphorus Compounds"
+		"cate2En": "Organophosphorus Compounds",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-elemento-organic-compounds",
+		"cate2Code": "organic-chemicals-elemento-organic-compounds-organophosphorus-compounds"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -333,7 +456,10 @@
 		"cate2Zh": "稠杂环(2518)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Heterocyclic Compounds",
-		"cate2En": "Fused Heterocycles"
+		"cate2En": "Fused Heterocycles",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-heterocyclic-compounds",
+		"cate2Code": "organic-chemicals-heterocyclic-compounds-fused-heterocycles"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -341,7 +467,10 @@
 		"cate2Zh": "六元杂环(1867)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Heterocyclic Compounds",
-		"cate2En": "Six-membered Heterocycles"
+		"cate2En": "Six-membered Heterocycles",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-heterocyclic-compounds",
+		"cate2Code": "organic-chemicals-heterocyclic-compounds-six-membered-heterocycles"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -349,7 +478,10 @@
 		"cate2Zh": "五元杂环(1397)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Heterocyclic Compounds",
-		"cate2En": "Five-membered Heterocycles"
+		"cate2En": "Five-membered Heterocycles",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-heterocyclic-compounds",
+		"cate2Code": "organic-chemicals-heterocyclic-compounds-five-membered-heterocycles"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -357,7 +489,10 @@
 		"cate2Zh": "七元杂环(420)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Heterocyclic Compounds",
-		"cate2En": "Seven-membered Heterocycles"
+		"cate2En": "Seven-membered Heterocycles",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-heterocyclic-compounds",
+		"cate2Code": "organic-chemicals-heterocyclic-compounds-seven-membered-heterocycles"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -365,7 +500,10 @@
 		"cate2Zh": "三元杂环(330)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Heterocyclic Compounds",
-		"cate2En": "Ternary Heterocycles"
+		"cate2En": "Ternary Heterocycles",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-heterocyclic-compounds",
+		"cate2Code": "organic-chemicals-heterocyclic-compounds-ternary-heterocycles"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -373,7 +511,10 @@
 		"cate2Zh": "四元杂环(147)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Heterocyclic Compounds",
-		"cate2En": "Four-membered Heterocycles"
+		"cate2En": "Four-membered Heterocycles",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-heterocyclic-compounds",
+		"cate2Code": "organic-chemicals-heterocyclic-compounds-four-membered-heterocycles"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -381,7 +522,10 @@
 		"cate2Zh": "有机钠盐(1946)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Organic Salts",
-		"cate2En": "Organic Sodium Salts"
+		"cate2En": "Organic Sodium Salts",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-organic-salts",
+		"cate2Code": "organic-chemicals-organic-salts-organic-sodium-salts"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -389,7 +533,10 @@
 		"cate2Zh": "其它(1679)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Organic Salts",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-organic-salts",
+		"cate2Code": "organic-chemicals-organic-salts-others"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -397,7 +544,10 @@
 		"cate2Zh": "有机铵盐(860)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Organic Salts",
-		"cate2En": "Organic Ammonium Salts"
+		"cate2En": "Organic Ammonium Salts",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-organic-salts",
+		"cate2Code": "organic-chemicals-organic-salts-organic-ammonium-salts"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -405,7 +555,10 @@
 		"cate2Zh": "有机钾盐(455)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Organic Salts",
-		"cate2En": "Organic Potassium salts"
+		"cate2En": "Organic Potassium salts",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-organic-salts",
+		"cate2Code": "organic-chemicals-organic-salts-organic-potassium-salts"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -413,7 +566,10 @@
 		"cate2Zh": "有机钙盐(187)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Organic Salts",
-		"cate2En": "Organic Calcium salts"
+		"cate2En": "Organic Calcium salts",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-organic-salts",
+		"cate2Code": "organic-chemicals-organic-salts-organic-calcium-salts"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -421,7 +577,10 @@
 		"cate2Zh": "有机锂盐(187)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Organic Salts",
-		"cate2En": "Organic Lithium Salts"
+		"cate2En": "Organic Lithium Salts",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-organic-salts",
+		"cate2Code": "organic-chemicals-organic-salts-organic-lithium-salts"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -429,7 +588,10 @@
 		"cate2Zh": "有机复盐(165)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Organic Salts",
-		"cate2En": "Organic Double Salts"
+		"cate2En": "Organic Double Salts",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-organic-salts",
+		"cate2Code": "organic-chemicals-organic-salts-organic-double-salts"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -437,7 +599,10 @@
 		"cate2Zh": "有机镁盐(125)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Organic Salts",
-		"cate2En": "Organic Magnesium Salts"
+		"cate2En": "Organic Magnesium Salts",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-organic-salts",
+		"cate2Code": "organic-chemicals-organic-salts-organic-magnesium-salts"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -445,7 +610,10 @@
 		"cate2Zh": "有机铝盐(118)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Organic Salts",
-		"cate2En": "Organic Aluminum Salts"
+		"cate2En": "Organic Aluminum Salts",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-organic-salts",
+		"cate2Code": "organic-chemicals-organic-salts-organic-aluminum-salts"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -453,7 +621,10 @@
 		"cate2Zh": "有机铜盐(77)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Organic Salts",
-		"cate2En": "Organic Copper Salts"
+		"cate2En": "Organic Copper Salts",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-organic-salts",
+		"cate2Code": "organic-chemicals-organic-salts-organic-copper-salts"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -461,7 +632,10 @@
 		"cate2Zh": "有机钴盐(35)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Organic Salts",
-		"cate2En": "Organic Cobalt salts"
+		"cate2En": "Organic Cobalt salts",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-organic-salts",
+		"cate2Code": "organic-chemicals-organic-salts-organic-cobalt-salts"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -469,7 +643,10 @@
 		"cate2Zh": "苯系(3667)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Aroma Compounds",
-		"cate2En": "Benzene Series"
+		"cate2En": "Benzene Series",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-aroma-compounds",
+		"cate2Code": "organic-chemicals-aroma-compounds-benzene-series"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -477,7 +654,10 @@
 		"cate2Zh": "具杂环的芳香族（468）",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Aroma Compounds",
-		"cate2En": "Heterocyclic Aromatic Hydrocarbons"
+		"cate2En": "Heterocyclic Aromatic Hydrocarbons",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-aroma-compounds",
+		"cate2Code": "organic-chemicals-aroma-compounds-heterocyclic-aromatic-hydrocarbons"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -485,7 +665,10 @@
 		"cate2Zh": "萘系(197)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Aroma Compounds",
-		"cate2En": "Naphthalene Series"
+		"cate2En": "Naphthalene Series",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-aroma-compounds",
+		"cate2Code": "organic-chemicals-aroma-compounds-naphthalene-series"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -493,7 +676,10 @@
 		"cate2Zh": "其他(332)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Aroma Compounds",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-aroma-compounds",
+		"cate2Code": "organic-chemicals-aroma-compounds-others"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -501,7 +687,10 @@
 		"cate2Zh": "其它(1496)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Carbohydrate",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-carbohydrate",
+		"cate2Code": "organic-chemicals-carbohydrate-others"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -509,7 +698,10 @@
 		"cate2Zh": "纤维素类(1072)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Carbohydrate",
-		"cate2En": "Cellulose"
+		"cate2En": "Cellulose",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-carbohydrate",
+		"cate2Code": "organic-chemicals-carbohydrate-cellulose"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -517,7 +709,10 @@
 		"cate2Zh": "单糖(657)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Carbohydrate",
-		"cate2En": "Monosaccharides"
+		"cate2En": "Monosaccharides",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-carbohydrate",
+		"cate2Code": "organic-chemicals-carbohydrate-monosaccharides"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -525,7 +720,10 @@
 		"cate2Zh": "多糖(209)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Carbohydrate",
-		"cate2En": "Polysaccharides"
+		"cate2En": "Polysaccharides",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-carbohydrate",
+		"cate2Code": "organic-chemicals-carbohydrate-polysaccharides"
 	},
 	{
 		"cate0Zh": "有机原料",
@@ -533,85 +731,114 @@
 		"cate2Zh": "双糖(12)",
 		"cate0En": "Organic Chemicals",
 		"cate1En": "Carbohydrate",
-		"cate2En": "Disaccharides"
+		"cate2En": "Disaccharides",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-carbohydrate",
+		"cate2Code": "organic-chemicals-carbohydrate-disaccharides"
 	},
 	{
 		"cate0Zh": "有机原料",
 		"cate1Zh": "其他(178890)",
 		"cate0En": "Organic Chemicals",
-		"cate1En": "Others"
+		"cate1En": "Others",
+		"cate0Code": "organic-chemicals",
+		"cate1Code": "organic-chemicals-others"
 	},
 	{
 		"cate0Zh": "无机化工",
 		"cate1Zh": "无机盐(31233)",
 		"cate0En": "Inorganic Chemicals",
-		"cate1En": "Inorganic Salts"
+		"cate1En": "Inorganic Salts",
+		"cate0Code": "inorganic-chemicals",
+		"cate1Code": "inorganic-chemicals-inorganic-salts"
 	},
 	{
 		"cate0Zh": "无机化工",
 		"cate1Zh": "其它(13970)",
 		"cate0En": "Inorganic Chemicals",
-		"cate1En": "Others"
+		"cate1En": "Others",
+		"cate0Code": "inorganic-chemicals",
+		"cate1Code": "inorganic-chemicals-others"
 	},
 	{
 		"cate0Zh": "无机化工",
 		"cate1Zh": "无机酸(9485)",
 		"cate0En": "Inorganic Chemicals",
-		"cate1En": "Inorganic Acids"
+		"cate1En": "Inorganic Acids",
+		"cate0Code": "inorganic-chemicals",
+		"cate1Code": "inorganic-chemicals-inorganic-acids"
 	},
 	{
 		"cate0Zh": "无机化工",
 		"cate1Zh": "氧化物(8720)",
 		"cate0En": "Inorganic Chemicals",
-		"cate1En": "Oxides"
+		"cate1En": "Oxides",
+		"cate0Code": "inorganic-chemicals",
+		"cate1Code": "inorganic-chemicals-oxides"
 	},
 	{
 		"cate0Zh": "无机化工",
 		"cate1Zh": "无机碱(6370)",
 		"cate0En": "Inorganic Chemicals",
-		"cate1En": "Inorganic Bases"
+		"cate1En": "Inorganic Bases",
+		"cate0Code": "inorganic-chemicals",
+		"cate1Code": "inorganic-chemicals-inorganic-bases"
 	},
 	{
 		"cate0Zh": "无机化工",
 		"cate1Zh": "单质元素(4781)",
 		"cate0En": "Inorganic Chemicals",
-		"cate1En": "Elementary Substances"
+		"cate1En": "Elementary Substances",
+		"cate0Code": "inorganic-chemicals",
+		"cate1Code": "inorganic-chemicals-elementary-substances"
 	},
 	{
 		"cate0Zh": "中间体",
 		"cate1Zh": "医药中间体(1066262)",
 		"cate0En": "Organic Intermediates",
-		"cate1En": "Pharmaceutical Intermediates"
+		"cate1En": "Pharmaceutical Intermediates",
+		"cate0Code": "organic-intermediates",
+		"cate1Code": "organic-intermediates-pharmaceutical-intermediates"
 	},
 	{
 		"cate0Zh": "中间体",
 		"cate1Zh": "其它中间体(218968)",
 		"cate0En": "Organic Intermediates",
-		"cate1En": "Others"
+		"cate1En": "Others",
+		"cate0Code": "organic-intermediates",
+		"cate1Code": "organic-intermediates-others"
 	},
 	{
 		"cate0Zh": "中间体",
 		"cate1Zh": "合成材料中间体(84168)",
 		"cate0En": "Organic Intermediates",
-		"cate1En": "Syntheses Material Intermediates"
+		"cate1En": "Syntheses Material Intermediates",
+		"cate0Code": "organic-intermediates",
+		"cate1Code": "organic-intermediates-syntheses-material-intermediates"
 	},
 	{
 		"cate0Zh": "中间体",
 		"cate1Zh": "农药中间体(12774)",
 		"cate0En": "Organic Intermediates",
-		"cate1En": "Agrochemical Intermediates"
+		"cate1En": "Agrochemical Intermediates",
+		"cate0Code": "organic-intermediates",
+		"cate1Code": "organic-intermediates-agrochemical-intermediates"
 	},
 	{
 		"cate0Zh": "中间体",
 		"cate1Zh": "香精和香料中间体(8853)",
 		"cate0En": "Organic Intermediates",
-		"cate1En": "Flavor & Fragrance Intermediates"
+		"cate1En": "Flavor & Fragrance Intermediates",
+		"cate0Code": "organic-intermediates",
+		"cate1Code": "organic-intermediates-flavor-fragrance-intermediates"
 	},
 	{
 		"cate0Zh": "中间体",
 		"cate1Zh": "染料中间体(5983)",
 		"cate0En": "Organic Intermediates",
-		"cate1En": "Dyestuff Intermediates"
+		"cate1En": "Dyestuff Intermediates",
+		"cate0Code": "organic-intermediates",
+		"cate1Code": "organic-intermediates-dyestuff-intermediates"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -619,7 +846,10 @@
 		"cate2Zh": "机械、冶金用助剂(10570)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Auxiliaries for Machinery, Metallurgy"
+		"cate2En": "Auxiliaries for Machinery, Metallurgy",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-auxiliaries-for-machinery-metallurgy"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -627,7 +857,10 @@
 		"cate2Zh": "印染助剂(8568)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Textile Auxiliaries"
+		"cate2En": "Textile Auxiliaries",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -635,7 +868,10 @@
 		"cate2Zh": "混凝土添加剂(8472)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Concrete Additives"
+		"cate2En": "Concrete Additives",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-concrete-additives"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -643,7 +879,10 @@
 		"cate2Zh": "表面活性剂（非家(6992)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Surfactants"
+		"cate2En": "Surfactants",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-surfactants"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -651,7 +890,10 @@
 		"cate2Zh": "塑料助剂(4367)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Plastic Additives"
+		"cate2En": "Plastic Additives",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -659,7 +901,10 @@
 		"cate2Zh": "纸张用添加剂(3127)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Paper Chemicals"
+		"cate2En": "Paper Chemicals",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-paper-chemicals"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -667,7 +912,10 @@
 		"cate2Zh": "吸附剂(2102)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Adsorbent"
+		"cate2En": "Adsorbent",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-adsorbent"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -675,7 +923,10 @@
 		"cate2Zh": "橡胶助剂(1734)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Rubber Chemicals"
+		"cate2En": "Rubber Chemicals",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-rubber-chemicals"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -683,7 +934,10 @@
 		"cate2Zh": "电子工业专用化学(1390)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Electronics Chemicals"
+		"cate2En": "Electronics Chemicals",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-electronics-chemicals"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -691,7 +945,10 @@
 		"cate2Zh": "皮革助剂(1325)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Leather Chemicals"
+		"cate2En": "Leather Chemicals",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-leather-chemicals"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -699,7 +956,10 @@
 		"cate2Zh": "油田用化学品(1217)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Petroleum Additives"
+		"cate2En": "Petroleum Additives",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-petroleum-additives"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -707,7 +967,10 @@
 		"cate2Zh": "高分子聚合物添加(929)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Polymer Additives"
+		"cate2En": "Polymer Additives",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-polymer-additives"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -715,7 +978,10 @@
 		"cate2Zh": "炭黑（橡胶制品的(646)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Carbon Black"
+		"cate2En": "Carbon Black",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-carbon-black"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -723,7 +989,10 @@
 		"cate2Zh": "油品添加剂(490)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Oil Additives"
+		"cate2En": "Oil Additives",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-oil-additives"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -731,7 +1000,10 @@
 		"cate2Zh": "农药用助剂(450)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Pesticide Additives"
+		"cate2En": "Pesticide Additives",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-pesticide-additives"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -739,7 +1011,10 @@
 		"cate2Zh": "其他",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Chemical Auxiliary Agent",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-chemical-auxiliary-agent",
+		"cate2Code": "catalyst-and-auxiliary-chemical-auxiliary-agent-others"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -747,7 +1022,10 @@
 		"cate2Zh": "其它工业催化剂(6723)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Catalysts",
-		"cate2En": "Other Industrial Catalysts"
+		"cate2En": "Other Industrial Catalysts",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-catalysts",
+		"cate2Code": "catalyst-and-auxiliary-catalysts-other-industrial-catalysts"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -755,7 +1033,10 @@
 		"cate2Zh": "贵金属催化剂(4200)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Catalysts",
-		"cate2En": "Precious Metal Catalysts"
+		"cate2En": "Precious Metal Catalysts",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-catalysts",
+		"cate2Code": "catalyst-and-auxiliary-catalysts-precious-metal-catalysts"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -763,7 +1044,10 @@
 		"cate2Zh": "氧化物催化剂(621)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Catalysts",
-		"cate2En": "Oxide Catalysts"
+		"cate2En": "Oxide Catalysts",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-catalysts",
+		"cate2Code": "catalyst-and-auxiliary-catalysts-oxide-catalysts"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -771,7 +1055,10 @@
 		"cate2Zh": "分子筛(553)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Catalysts",
-		"cate2En": "Molecular Sieve Catalysts"
+		"cate2En": "Molecular Sieve Catalysts",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-catalysts",
+		"cate2Code": "catalyst-and-auxiliary-catalysts-molecular-sieve-catalysts"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -779,7 +1066,10 @@
 		"cate2Zh": "硫化物催化剂(358)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Catalysts",
-		"cate2En": "Sulfide Catalysts"
+		"cate2En": "Sulfide Catalysts",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-catalysts",
+		"cate2Code": "catalyst-and-auxiliary-catalysts-sulfide-catalysts"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -787,7 +1077,10 @@
 		"cate2Zh": "酸碱催化剂(235)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Catalysts",
-		"cate2En": "Acid-Base Catalysts"
+		"cate2En": "Acid-Base Catalysts",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-catalysts",
+		"cate2Code": "catalyst-and-auxiliary-catalysts-acid-base-catalysts"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -795,7 +1088,10 @@
 		"cate2Zh": "酶(194)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Catalysts",
-		"cate2En": "Enzyme Catalysts"
+		"cate2En": "Enzyme Catalysts",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-catalysts",
+		"cate2Code": "catalyst-and-auxiliary-catalysts-enzyme-catalysts"
 	},
 	{
 		"cate0Zh": "催化剂及助剂",
@@ -803,7 +1099,10 @@
 		"cate2Zh": "茂金属催化剂(183)",
 		"cate0En": "Catalyst and Auxiliary",
 		"cate1En": "Catalysts",
-		"cate2En": "Metallocene Catalysts"
+		"cate2En": "Metallocene Catalysts",
+		"cate0Code": "catalyst-and-auxiliary",
+		"cate1Code": "catalyst-and-auxiliary-catalysts",
+		"cate2Code": "catalyst-and-auxiliary-catalysts-metallocene-catalysts"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -811,7 +1110,10 @@
 		"cate2Zh": "工程塑料原料(878947)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Plastics Raw Materials",
-		"cate2En": "Engineering Plastics Raw Material"
+		"cate2En": "Engineering Plastics Raw Material",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-plastics-raw-materials",
+		"cate2Code": "rubber-raw-materials-plastics-raw-materials-engineering-plastics-raw-material"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -819,7 +1121,10 @@
 		"cate2Zh": "通用塑料原料(343767)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Plastics Raw Materials",
-		"cate2En": "Universal Plastics Raw Material"
+		"cate2En": "Universal Plastics Raw Material",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-plastics-raw-materials",
+		"cate2Code": "rubber-raw-materials-plastics-raw-materials-universal-plastics-raw-material"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -827,7 +1132,10 @@
 		"cate2Zh": "热塑性弹性体(102426)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Plastics Raw Materials",
-		"cate2En": "TPE"
+		"cate2En": "TPE",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-plastics-raw-materials",
+		"cate2Code": "rubber-raw-materials-plastics-raw-materials-tpe"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -835,7 +1143,10 @@
 		"cate2Zh": "合金塑料(4350)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Plastics Raw Materials",
-		"cate2En": "Alloy Plastics"
+		"cate2En": "Alloy Plastics",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-plastics-raw-materials",
+		"cate2Code": "rubber-raw-materials-plastics-raw-materials-alloy-plastics"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -843,7 +1154,10 @@
 		"cate2Zh": "其它塑料原料(1673)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Plastics Raw Materials",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-plastics-raw-materials",
+		"cate2Code": "rubber-raw-materials-plastics-raw-materials-others"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -851,7 +1165,10 @@
 		"cate2Zh": "特种工程塑料(684)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Plastics Raw Materials",
-		"cate2En": "Special Engineering Plastics"
+		"cate2En": "Special Engineering Plastics",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-plastics-raw-materials",
+		"cate2Code": "rubber-raw-materials-plastics-raw-materials-special-engineering-plastics"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -859,7 +1176,10 @@
 		"cate2Zh": "高温工程塑料(655)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Plastics Raw Materials",
-		"cate2En": "High Temperature Plastics"
+		"cate2En": "High Temperature Plastics",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-plastics-raw-materials",
+		"cate2Code": "rubber-raw-materials-plastics-raw-materials-high-temperature-plastics"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -867,7 +1187,10 @@
 		"cate2Zh": "再生塑料(316)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Plastics Raw Materials",
-		"cate2En": "Recycled Plastics"
+		"cate2En": "Recycled Plastics",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-plastics-raw-materials",
+		"cate2Code": "rubber-raw-materials-plastics-raw-materials-recycled-plastics"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -875,7 +1198,10 @@
 		"cate2Zh": "其它橡胶(6926)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-others"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -883,7 +1209,10 @@
 		"cate2Zh": "硅橡胶(4583)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Silicone Rubber"
+		"cate2En": "Silicone Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-silicone-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -891,7 +1220,10 @@
 		"cate2Zh": "天然橡胶(4054)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Natural Rubber"
+		"cate2En": "Natural Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-natural-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -899,7 +1231,10 @@
 		"cate2Zh": "丁腈橡胶(1035)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "NBR"
+		"cate2En": "NBR",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-nbr"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -907,7 +1242,10 @@
 		"cate2Zh": "乙丙橡胶(722)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Ethylene Propylene Rubber"
+		"cate2En": "Ethylene Propylene Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-ethylene-propylene-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -915,7 +1253,10 @@
 		"cate2Zh": "聚氨酯橡胶(622)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Polyurethane Rubber"
+		"cate2En": "Polyurethane Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-polyurethane-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -923,7 +1264,10 @@
 		"cate2Zh": "氯丁橡胶(576)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "CR"
+		"cate2En": "CR",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-cr"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -931,7 +1275,10 @@
 		"cate2Zh": "氟橡胶(403)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Furuoro Rubber"
+		"cate2En": "Furuoro Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-furuoro-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -939,7 +1286,10 @@
 		"cate2Zh": "丁苯橡胶(388)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "SBR"
+		"cate2En": "SBR",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-sbr"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -947,7 +1297,10 @@
 		"cate2Zh": "丁基橡胶(315)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Butyl Rubber"
+		"cate2En": "Butyl Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-butyl-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -955,7 +1308,10 @@
 		"cate2Zh": "聚硫橡胶(219)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Polysulfide Rubber"
+		"cate2En": "Polysulfide Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-polysulfide-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -963,7 +1319,10 @@
 		"cate2Zh": "顺丁橡胶(132)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Butadiene Rubber"
+		"cate2En": "Butadiene Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-butadiene-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -971,7 +1330,10 @@
 		"cate2Zh": "氯化聚乙烯橡胶(108)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Chlorinated Polyethylene Rubber"
+		"cate2En": "Chlorinated Polyethylene Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-chlorinated-polyethylene-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -979,7 +1341,10 @@
 		"cate2Zh": "聚丙烯酸酯橡胶(85)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Polyacrylate Rubber"
+		"cate2En": "Polyacrylate Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-polyacrylate-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -987,7 +1352,10 @@
 		"cate2Zh": "异戊橡胶(75)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Isoprene Rubber"
+		"cate2En": "Isoprene Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-isoprene-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -995,7 +1363,10 @@
 		"cate2Zh": "氯醚橡胶(71)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Epichlorohydrin Rubber"
+		"cate2En": "Epichlorohydrin Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-epichlorohydrin-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1003,7 +1374,10 @@
 		"cate2Zh": "氯磺化聚乙烯橡胶(13)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Chlorosulfonated Polyethylene Rubber"
+		"cate2En": "Chlorosulfonated Polyethylene Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-chlorosulfonated-polyethylene-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1011,13 +1385,18 @@
 		"cate2Zh": "丁吡橡胶(8)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Rubber Raw Materials",
-		"cate2En": "Butadiene-Vinyl Pyridine Rubber"
+		"cate2En": "Butadiene-Vinyl Pyridine Rubber",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-rubber-raw-materials",
+		"cate2Code": "rubber-raw-materials-rubber-raw-materials-butadiene-vinyl-pyridine-rubber"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
 		"cate1Zh": "其它聚合物(12456)",
 		"cate0En": "Rubber Raw Materials",
-		"cate1En": "Others Polymers"
+		"cate1En": "Others Polymers",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-others-polymers"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1025,7 +1404,10 @@
 		"cate2Zh": "其它助剂(5533)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Auxiliaries",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-auxiliaries",
+		"cate2Code": "rubber-raw-materials-auxiliaries-others"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1033,7 +1415,10 @@
 		"cate2Zh": "增塑剂(2000)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Auxiliaries",
-		"cate2En": "Plasticizer"
+		"cate2En": "Plasticizer",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-auxiliaries",
+		"cate2Code": "rubber-raw-materials-auxiliaries-plasticizer"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1041,7 +1426,10 @@
 		"cate2Zh": "阻燃剂(1405)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Auxiliaries",
-		"cate2En": "Flame Retardant"
+		"cate2En": "Flame Retardant",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-auxiliaries",
+		"cate2Code": "rubber-raw-materials-auxiliaries-flame-retardant"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1049,7 +1437,10 @@
 		"cate2Zh": "光稳定剂(1176)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Auxiliaries",
-		"cate2En": "Light Stabilizer"
+		"cate2En": "Light Stabilizer",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-auxiliaries",
+		"cate2Code": "rubber-raw-materials-auxiliaries-light-stabilizer"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1057,7 +1448,10 @@
 		"cate2Zh": "润滑剂(905)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Auxiliaries",
-		"cate2En": "Lubricant"
+		"cate2En": "Lubricant",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-auxiliaries",
+		"cate2Code": "rubber-raw-materials-auxiliaries-lubricant"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1065,7 +1459,10 @@
 		"cate2Zh": "抗氧剂(725)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Auxiliaries",
-		"cate2En": "Antioxidant"
+		"cate2En": "Antioxidant",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-auxiliaries",
+		"cate2Code": "rubber-raw-materials-auxiliaries-antioxidant"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1073,7 +1470,10 @@
 		"cate2Zh": "热稳定剂(423)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Auxiliaries",
-		"cate2En": "Heat Stabilizer"
+		"cate2En": "Heat Stabilizer",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-auxiliaries",
+		"cate2Code": "rubber-raw-materials-auxiliaries-heat-stabilizer"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1081,7 +1481,10 @@
 		"cate2Zh": "发泡剂(266)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Auxiliaries",
-		"cate2En": "Foaming Agent"
+		"cate2En": "Foaming Agent",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-auxiliaries",
+		"cate2Code": "rubber-raw-materials-auxiliaries-foaming-agent"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1089,7 +1492,10 @@
 		"cate2Zh": "增强剂(251)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Auxiliaries",
-		"cate2En": "Reinforcing Agent"
+		"cate2En": "Reinforcing Agent",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-auxiliaries",
+		"cate2Code": "rubber-raw-materials-auxiliaries-reinforcing-agent"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1097,7 +1503,10 @@
 		"cate2Zh": "填充剂(182)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Auxiliaries",
-		"cate2En": "Filler"
+		"cate2En": "Filler",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-auxiliaries",
+		"cate2Code": "rubber-raw-materials-auxiliaries-filler"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1105,7 +1514,10 @@
 		"cate2Zh": "抗冲改性剂(140)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Auxiliaries",
-		"cate2En": "Impact Modifier"
+		"cate2En": "Impact Modifier",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-auxiliaries",
+		"cate2Code": "rubber-raw-materials-auxiliaries-impact-modifier"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1113,7 +1525,10 @@
 		"cate2Zh": "橡胶配合剂(130)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Auxiliaries",
-		"cate2En": "Rubber Ingredient"
+		"cate2En": "Rubber Ingredient",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-auxiliaries",
+		"cate2Code": "rubber-raw-materials-auxiliaries-rubber-ingredient"
 	},
 	{
 		"cate0Zh": "塑料橡胶",
@@ -1121,7 +1536,10 @@
 		"cate2Zh": "抗静电剂(102)",
 		"cate0En": "Rubber Raw Materials",
 		"cate1En": "Auxiliaries",
-		"cate2En": "Antistatic Agent"
+		"cate2En": "Antistatic Agent",
+		"cate0Code": "rubber-raw-materials",
+		"cate1Code": "rubber-raw-materials-auxiliaries",
+		"cate2Code": "rubber-raw-materials-auxiliaries-antistatic-agent"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1129,7 +1547,10 @@
 		"cate2Zh": "建筑涂料(36741)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Coatings",
-		"cate2En": "Building Coatings"
+		"cate2En": "Building Coatings",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-coatings",
+		"cate2Code": "paint-and-coatings-coatings-building-coatings"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1137,7 +1558,10 @@
 		"cate2Zh": "通用涂料(22329)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Coatings",
-		"cate2En": "Universal Coatings"
+		"cate2En": "Universal Coatings",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-coatings",
+		"cate2Code": "paint-and-coatings-coatings-universal-coatings"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1145,7 +1569,10 @@
 		"cate2Zh": "其它涂料(17911)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Coatings",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-coatings",
+		"cate2Code": "paint-and-coatings-coatings-others"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1153,7 +1580,10 @@
 		"cate2Zh": "路用涂料(1261)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Coatings",
-		"cate2En": "Road Coatings"
+		"cate2En": "Road Coatings",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-coatings",
+		"cate2Code": "paint-and-coatings-coatings-road-coatings"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1161,7 +1591,10 @@
 		"cate2Zh": "木器涂料(1097)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Coatings",
-		"cate2En": "Wood Coatings"
+		"cate2En": "Wood Coatings",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-coatings",
+		"cate2Code": "paint-and-coatings-coatings-wood-coatings"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1169,7 +1602,10 @@
 		"cate2Zh": "轻工涂料(979)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Coatings",
-		"cate2En": "Light Industry Coatings"
+		"cate2En": "Light Industry Coatings",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-coatings",
+		"cate2Code": "paint-and-coatings-coatings-light-industry-coatings"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1177,7 +1613,10 @@
 		"cate2Zh": "汽车涂料(671)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Coatings",
-		"cate2En": "Car Paint"
+		"cate2En": "Car Paint",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-coatings",
+		"cate2Code": "paint-and-coatings-coatings-car-paint"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1185,7 +1624,10 @@
 		"cate2Zh": "船舶涂料(436)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Coatings",
-		"cate2En": "Boat Paint"
+		"cate2En": "Boat Paint",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-coatings",
+		"cate2Code": "paint-and-coatings-coatings-boat-paint"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1193,7 +1635,10 @@
 		"cate2Zh": "其它漆类(3814)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-others"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1201,7 +1646,10 @@
 		"cate2Zh": "环氧树脂漆类(3799)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Epoxy Resin Paints"
+		"cate2En": "Epoxy Resin Paints",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-epoxy-resin-paints"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1209,7 +1657,10 @@
 		"cate2Zh": "丙烯酸漆类(821)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Acrylic Paints"
+		"cate2En": "Acrylic Paints",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-acrylic-paints"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1217,7 +1668,10 @@
 		"cate2Zh": "醇酸树脂漆类(552)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Alkyd Resin Paints"
+		"cate2En": "Alkyd Resin Paints",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-alkyd-resin-paints"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1225,7 +1679,10 @@
 		"cate2Zh": "酚醛树脂漆类(543)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Phenolic Resin Paints"
+		"cate2En": "Phenolic Resin Paints",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-phenolic-resin-paints"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1233,7 +1690,10 @@
 		"cate2Zh": "聚氨酯漆类(478)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Polyurethane Paints"
+		"cate2En": "Polyurethane Paints",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-polyurethane-paints"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1241,7 +1701,10 @@
 		"cate2Zh": "聚酯漆类(444)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Polyester Paints"
+		"cate2En": "Polyester Paints",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-polyester-paints"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1249,7 +1712,10 @@
 		"cate2Zh": "橡胶漆类(316)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Rubber Paints"
+		"cate2En": "Rubber Paints",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-rubber-paints"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1257,7 +1723,10 @@
 		"cate2Zh": "氨基树脂漆类(219)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Amino Resin Paints"
+		"cate2En": "Amino Resin Paints",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-amino-resin-paints"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1265,7 +1734,10 @@
 		"cate2Zh": "沥青漆类(197)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Asphalt Paints"
+		"cate2En": "Asphalt Paints",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-asphalt-paints"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1273,7 +1745,10 @@
 		"cate2Zh": "油脂漆类(188)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Oil-Based Paints"
+		"cate2En": "Oil-Based Paints",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-oil-based-paints"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1281,7 +1756,10 @@
 		"cate2Zh": "过氯乙烯漆类(99)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Perchloroethylene Paints"
+		"cate2En": "Perchloroethylene Paints",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-perchloroethylene-paints"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1289,7 +1767,10 @@
 		"cate2Zh": "元素有机漆类(76)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Element Organic Paints"
+		"cate2En": "Element Organic Paints",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-element-organic-paints"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
@@ -1297,25 +1778,34 @@
 		"cate2Zh": "烯烃树脂漆类(36)",
 		"cate0En": "Paint and Coatings",
 		"cate1En": "Paints",
-		"cate2En": "Olefin Resin Paints"
+		"cate2En": "Olefin Resin Paints",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-paints",
+		"cate2Code": "paint-and-coatings-paints-olefin-resin-paints"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
 		"cate1Zh": "油墨(7102)",
 		"cate0En": "Paint and Coatings",
-		"cate1En": "Inks"
+		"cate1En": "Inks",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-inks"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
 		"cate1Zh": "其它(4089)",
 		"cate0En": "Paint and Coatings",
-		"cate1En": "Others"
+		"cate1En": "Others",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-others"
 	},
 	{
 		"cate0Zh": "涂料与油漆",
 		"cate1Zh": "腻子(848)",
 		"cate0En": "Paint and Coatings",
-		"cate1En": "Putties"
+		"cate1En": "Putties",
+		"cate0Code": "paint-and-coatings",
+		"cate1Code": "paint-and-coatings-putties"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1323,7 +1813,10 @@
 		"cate2Zh": "颜料黄(2018)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Pigments",
-		"cate2En": "Pigment Yellow"
+		"cate2En": "Pigment Yellow",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-pigments",
+		"cate2Code": "dyes-and-pigments-pigments-pigment-yellow"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1331,7 +1824,10 @@
 		"cate2Zh": "颜料白(1975)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Pigments",
-		"cate2En": "Pigment White"
+		"cate2En": "Pigment White",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-pigments",
+		"cate2Code": "dyes-and-pigments-pigments-pigment-white"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1339,7 +1835,10 @@
 		"cate2Zh": "颜料红(1464)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Pigments",
-		"cate2En": "Pigment Red"
+		"cate2En": "Pigment Red",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-pigments",
+		"cate2Code": "dyes-and-pigments-pigments-pigment-red"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1347,7 +1846,10 @@
 		"cate2Zh": "金属颜料(1184)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Pigments",
-		"cate2En": "Metallic Pigments"
+		"cate2En": "Metallic Pigments",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-pigments",
+		"cate2Code": "dyes-and-pigments-pigments-metallic-pigments"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1355,7 +1857,10 @@
 		"cate2Zh": "颜料黑(1088)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Pigments",
-		"cate2En": "Pigment Black"
+		"cate2En": "Pigment Black",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-pigments",
+		"cate2Code": "dyes-and-pigments-pigments-pigment-black"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1363,7 +1868,10 @@
 		"cate2Zh": "珠光颜料(837)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Pigments",
-		"cate2En": "Pearlescent Pigments"
+		"cate2En": "Pearlescent Pigments",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-pigments",
+		"cate2Code": "dyes-and-pigments-pigments-pearlescent-pigments"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1371,7 +1879,10 @@
 		"cate2Zh": "颜料蓝(568)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Pigments",
-		"cate2En": "Pigment Blue"
+		"cate2En": "Pigment Blue",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-pigments",
+		"cate2Code": "dyes-and-pigments-pigments-pigment-blue"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1379,7 +1890,10 @@
 		"cate2Zh": "颜料绿(529)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Pigments",
-		"cate2En": "Pigment Green"
+		"cate2En": "Pigment Green",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-pigments",
+		"cate2Code": "dyes-and-pigments-pigments-pigment-green"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1387,7 +1901,10 @@
 		"cate2Zh": "颜料橘黄(256)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Pigments",
-		"cate2En": "Pigment Orange"
+		"cate2En": "Pigment Orange",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-pigments",
+		"cate2Code": "dyes-and-pigments-pigments-pigment-orange"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1395,7 +1912,10 @@
 		"cate2Zh": "颜料紫(251)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Pigments",
-		"cate2En": "Pigment Violet"
+		"cate2En": "Pigment Violet",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-pigments",
+		"cate2Code": "dyes-and-pigments-pigments-pigment-violet"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1403,7 +1923,10 @@
 		"cate2Zh": "颜料棕(120)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Pigments",
-		"cate2En": "Pigment Brown"
+		"cate2En": "Pigment Brown",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-pigments",
+		"cate2Code": "dyes-and-pigments-pigments-pigment-brown"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1411,7 +1934,10 @@
 		"cate2Zh": "分散染料(1711)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Disperse Dyes"
+		"cate2En": "Disperse Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-disperse-dyes"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1419,7 +1945,10 @@
 		"cate2Zh": "酸性染料(1591)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Acid Dyes"
+		"cate2En": "Acid Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-acid-dyes"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1427,7 +1956,10 @@
 		"cate2Zh": "其它染料(1261)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Other Dyes"
+		"cate2En": "Other Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-other-dyes"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1435,7 +1967,10 @@
 		"cate2Zh": "活性染料(842)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Reactive Dyes"
+		"cate2En": "Reactive Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-reactive-dyes"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1443,7 +1978,10 @@
 		"cate2Zh": "直接染料(839)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Direct Dyes"
+		"cate2En": "Direct Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-direct-dyes"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1451,7 +1989,10 @@
 		"cate2Zh": "油溶染料(402)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Oil-soluble Dyes"
+		"cate2En": "Oil-soluble Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-oil-soluble-dyes"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1459,7 +2000,10 @@
 		"cate2Zh": "碱性染料(370)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Basic Dyes"
+		"cate2En": "Basic Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-basic-dyes"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1467,7 +2011,10 @@
 		"cate2Zh": "硫化染料(247)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Sulphur Dyes"
+		"cate2En": "Sulphur Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-sulphur-dyes"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1475,7 +2022,10 @@
 		"cate2Zh": "冰染染料(194)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Azoic Dyes"
+		"cate2En": "Azoic Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-azoic-dyes"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1483,7 +2033,10 @@
 		"cate2Zh": "还原染料(126)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Vat Dyes"
+		"cate2En": "Vat Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-vat-dyes"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1491,7 +2044,10 @@
 		"cate2Zh": "中性染料(78)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Neutral Dyes"
+		"cate2En": "Neutral Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-neutral-dyes"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1499,7 +2055,10 @@
 		"cate2Zh": "氧化染料(65)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Oxidation Dyes"
+		"cate2En": "Oxidation Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-oxidation-dyes"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1507,7 +2066,10 @@
 		"cate2Zh": "有机染料",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Organic Dyes"
+		"cate2En": "Organic Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-organic-dyes"
 	},
 	{
 		"cate0Zh": "染料及颜料",
@@ -1515,49 +2077,66 @@
 		"cate2Zh": "缩聚染料(6)",
 		"cate0En": "Dyes and Pigments",
 		"cate1En": "Dyes",
-		"cate2En": "Polycondense Dyes"
+		"cate2En": "Polycondense Dyes",
+		"cate0Code": "dyes-and-pigments",
+		"cate1Code": "dyes-and-pigments-dyes",
+		"cate2Code": "dyes-and-pigments-dyes-polycondense-dyes"
 	},
 	{
 		"cate0Zh": "化学纤维",
 		"cate1Zh": "涤纶",
 		"cate0En": "Chemical Fiber",
-		"cate1En": "Polyester"
+		"cate1En": "Polyester",
+		"cate0Code": "chemical-fiber",
+		"cate1Code": "chemical-fiber-polyester"
 	},
 	{
 		"cate0Zh": "化学纤维",
 		"cate1Zh": "绵纶",
 		"cate0En": "Chemical Fiber",
-		"cate1En": "Nylon"
+		"cate1En": "Nylon",
+		"cate0Code": "chemical-fiber",
+		"cate1Code": "chemical-fiber-nylon"
 	},
 	{
 		"cate0Zh": "化学纤维",
 		"cate1Zh": "晴纶",
 		"cate0En": "Chemical Fiber",
-		"cate1En": "Orlon"
+		"cate1En": "Orlon",
+		"cate0Code": "chemical-fiber",
+		"cate1Code": "chemical-fiber-orlon"
 	},
 	{
 		"cate0Zh": "化学纤维",
 		"cate1Zh": "维纶",
 		"cate0En": "Chemical Fiber",
-		"cate1En": "Vinylon"
+		"cate1En": "Vinylon",
+		"cate0Code": "chemical-fiber",
+		"cate1Code": "chemical-fiber-vinylon"
 	},
 	{
 		"cate0Zh": "化学纤维",
 		"cate1Zh": "氨纶",
 		"cate0En": "Chemical Fiber",
-		"cate1En": "Spandex"
+		"cate1En": "Spandex",
+		"cate0Code": "chemical-fiber",
+		"cate1Code": "chemical-fiber-spandex"
 	},
 	{
 		"cate0Zh": "化学纤维",
 		"cate1Zh": "氯纶",
 		"cate0En": "Chemical Fiber",
-		"cate1En": "PVC"
+		"cate1En": "PVC",
+		"cate0Code": "chemical-fiber",
+		"cate1Code": "chemical-fiber-pvc"
 	},
 	{
 		"cate0Zh": "化学纤维",
 		"cate1Zh": "其他",
 		"cate0En": "Chemical Fiber",
-		"cate1En": "Others"
+		"cate1En": "Others",
+		"cate0Code": "chemical-fiber",
+		"cate1Code": "chemical-fiber-others"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1565,7 +2144,10 @@
 		"cate2Zh": "其他化学药(290951)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "API",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-api",
+		"cate2Code": "pharmaceuticals-and-biochemicals-api-others"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1573,7 +2155,10 @@
 		"cate2Zh": "循环系统药(19873)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "API",
-		"cate2En": "Circulatory System"
+		"cate2En": "Circulatory System",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-api",
+		"cate2Code": "pharmaceuticals-and-biochemicals-api-circulatory-system"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1581,7 +2166,10 @@
 		"cate2Zh": "有关激素类药(17601)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "API",
-		"cate2En": "Hormones and Synthetic Substitutes"
+		"cate2En": "Hormones and Synthetic Substitutes",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-api",
+		"cate2Code": "pharmaceuticals-and-biochemicals-api-hormones-and-synthetic-substitutes"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1589,7 +2177,10 @@
 		"cate2Zh": "消炎药(16554)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "API",
-		"cate2En": "Anti-inflammatory Drugs"
+		"cate2En": "Anti-inflammatory Drugs",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-api",
+		"cate2Code": "pharmaceuticals-and-biochemicals-api-anti-inflammatory-drugs"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1597,7 +2188,10 @@
 		"cate2Zh": "神经系统药(13587)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "API",
-		"cate2En": "Nervous System/Brain"
+		"cate2En": "Nervous System/Brain",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-api",
+		"cate2Code": "pharmaceuticals-and-biochemicals-api-nervous-system-brain"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1605,7 +2199,10 @@
 		"cate2Zh": "抗肿瘤药(11587)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "API",
-		"cate2En": "Antineoplastic"
+		"cate2En": "Antineoplastic",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-api",
+		"cate2Code": "pharmaceuticals-and-biochemicals-api-antineoplastic"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1613,7 +2210,10 @@
 		"cate2Zh": "维生素、矿物质(7075)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "API",
-		"cate2En": "Vitamins, Minerals"
+		"cate2En": "Vitamins, Minerals",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-api",
+		"cate2Code": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1621,7 +2221,10 @@
 		"cate2Zh": "消化系统药(5663)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "API",
-		"cate2En": "Digestive System"
+		"cate2En": "Digestive System",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-api",
+		"cate2Code": "pharmaceuticals-and-biochemicals-api-digestive-system"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1629,7 +2232,10 @@
 		"cate2Zh": "皮肤科药(3755)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "API",
-		"cate2En": "Skin"
+		"cate2En": "Skin",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-api",
+		"cate2Code": "pharmaceuticals-and-biochemicals-api-skin"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1637,7 +2243,10 @@
 		"cate2Zh": "呼吸系统药(3611)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "API",
-		"cate2En": "Respiratory system"
+		"cate2En": "Respiratory system",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-api",
+		"cate2Code": "pharmaceuticals-and-biochemicals-api-respiratory-system"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1645,7 +2254,10 @@
 		"cate2Zh": "五官科药(2680)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "API",
-		"cate2En": "Eye & Otolaryngology"
+		"cate2En": "Eye & Otolaryngology",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-api",
+		"cate2Code": "pharmaceuticals-and-biochemicals-api-eye-otolaryngology"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1653,7 +2265,10 @@
 		"cate2Zh": "抗寄生虫药(2425)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "API",
-		"cate2En": "Antiparasitic"
+		"cate2En": "Antiparasitic",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-api",
+		"cate2Code": "pharmaceuticals-and-biochemicals-api-antiparasitic"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1661,7 +2276,10 @@
 		"cate2Zh": "泌尿与生殖药(2030)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "API",
-		"cate2En": "Genitourinary System"
+		"cate2En": "Genitourinary System",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-api",
+		"cate2Code": "pharmaceuticals-and-biochemicals-api-genitourinary-system"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1669,7 +2287,10 @@
 		"cate2Zh": "植物提取物(177232)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Herbal Extracts & Biological Products",
-		"cate2En": "Herbal Extract"
+		"cate2En": "Herbal Extract",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products",
+		"cate2Code": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1677,7 +2298,10 @@
 		"cate2Zh": "其它(2622)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Herbal Extracts & Biological Products",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products",
+		"cate2Code": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-others"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1685,7 +2309,10 @@
 		"cate2Zh": "生物制品(1824)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Herbal Extracts & Biological Products",
-		"cate2En": "Biological Products"
+		"cate2En": "Biological Products",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products",
+		"cate2Code": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-biological-products"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1693,7 +2320,10 @@
 		"cate2Zh": "兽用化学药品(5954)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Veterinary Drugs",
-		"cate2En": "Veterinary Chemicals"
+		"cate2En": "Veterinary Chemicals",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-veterinary-drugs",
+		"cate2Code": "pharmaceuticals-and-biochemicals-veterinary-drugs-veterinary-chemicals"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1701,7 +2331,10 @@
 		"cate2Zh": "其它(3262)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Veterinary Drugs",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-veterinary-drugs",
+		"cate2Code": "pharmaceuticals-and-biochemicals-veterinary-drugs-others"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1709,7 +2342,10 @@
 		"cate2Zh": "治疗用兽用生物制(1764)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Veterinary Drugs",
-		"cate2En": "Therapeutic"
+		"cate2En": "Therapeutic",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-veterinary-drugs",
+		"cate2Code": "pharmaceuticals-and-biochemicals-veterinary-drugs-therapeutic"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1717,7 +2353,10 @@
 		"cate2Zh": "预防用兽用生物制(996)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Veterinary Drugs",
-		"cate2En": "Prophylactic"
+		"cate2En": "Prophylactic",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-veterinary-drugs",
+		"cate2Code": "pharmaceuticals-and-biochemicals-veterinary-drugs-prophylactic"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1725,7 +2364,10 @@
 		"cate2Zh": "中兽药、天然药物(751)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Veterinary Drugs",
-		"cate2En": "Chinese Herbal Medicines and Natural Medicines"
+		"cate2En": "Chinese Herbal Medicines and Natural Medicines",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-veterinary-drugs",
+		"cate2Code": "pharmaceuticals-and-biochemicals-veterinary-drugs-chinese-herbal-medicines-and-natural-medicines"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1733,7 +2375,10 @@
 		"cate2Zh": "兽用消毒剂(289)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Veterinary Drugs",
-		"cate2En": "Veterinary Disinfectants"
+		"cate2En": "Veterinary Disinfectants",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-veterinary-drugs",
+		"cate2Code": "pharmaceuticals-and-biochemicals-veterinary-drugs-veterinary-disinfectants"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1741,7 +2386,10 @@
 		"cate2Zh": "兽医诊断制品(244)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Veterinary Drugs",
-		"cate2En": "Diagnostic Products"
+		"cate2En": "Diagnostic Products",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-veterinary-drugs",
+		"cate2Code": "pharmaceuticals-and-biochemicals-veterinary-drugs-diagnostic-products"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1749,7 +2397,10 @@
 		"cate2Zh": "其他(9179)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Pharmaceutical Excipients",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients",
+		"cate2Code": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-others"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1757,7 +2408,10 @@
 		"cate2Zh": "增溶剂(1451)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Pharmaceutical Excipients",
-		"cate2En": "Solubilizer"
+		"cate2En": "Solubilizer",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients",
+		"cate2Code": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-solubilizer"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1765,7 +2419,10 @@
 		"cate2Zh": "包衣材料(1055)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Pharmaceutical Excipients",
-		"cate2En": "Coating Substance"
+		"cate2En": "Coating Substance",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients",
+		"cate2Code": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-coating-substance"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1773,7 +2430,10 @@
 		"cate2Zh": "栓剂(155)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Pharmaceutical Excipients",
-		"cate2En": "Suppositories"
+		"cate2En": "Suppositories",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients",
+		"cate2Code": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-suppositories"
 	},
 	{
 		"cate0Zh": "生物医药",
@@ -1781,55 +2441,74 @@
 		"cate2Zh": "滴丸(61)",
 		"cate0En": "Pharmaceuticals and Biochemicals",
 		"cate1En": "Pharmaceutical Excipients",
-		"cate2En": "Dripping Pills"
+		"cate2En": "Dripping Pills",
+		"cate0Code": "pharmaceuticals-and-biochemicals",
+		"cate1Code": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients",
+		"cate2Code": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-dripping-pills"
 	},
 	{
 		"cate0Zh": "植物提取物",
 		"cate1Zh": "其他(101780)",
 		"cate0En": "Plant Extracts",
-		"cate1En": "Others"
+		"cate1En": "Others",
+		"cate0Code": "plant-extracts",
+		"cate1Code": "plant-extracts-others"
 	},
 	{
 		"cate0Zh": "植物提取物",
 		"cate1Zh": "甙类(14592)",
 		"cate0En": "Plant Extracts",
-		"cate1En": "Glycosides"
+		"cate1En": "Glycosides",
+		"cate0Code": "plant-extracts",
+		"cate1Code": "plant-extracts-glycosides"
 	},
 	{
 		"cate0Zh": "植物提取物",
 		"cate1Zh": "黄酮(7592)",
 		"cate0En": "Plant Extracts",
-		"cate1En": "Flavonoids"
+		"cate1En": "Flavonoids",
+		"cate0Code": "plant-extracts",
+		"cate1Code": "plant-extracts-flavonoids"
 	},
 	{
 		"cate0Zh": "植物提取物",
 		"cate1Zh": "生物碱(6346)",
 		"cate0En": "Plant Extracts",
-		"cate1En": "Alkaloids"
+		"cate1En": "Alkaloids",
+		"cate0Code": "plant-extracts",
+		"cate1Code": "plant-extracts-alkaloids"
 	},
 	{
 		"cate0Zh": "植物提取物",
 		"cate1Zh": "多糖类(5438)",
 		"cate0En": "Plant Extracts",
-		"cate1En": "Polysaccharides"
+		"cate1En": "Polysaccharides",
+		"cate0Code": "plant-extracts",
+		"cate1Code": "plant-extracts-polysaccharides"
 	},
 	{
 		"cate0Zh": "植物提取物",
 		"cate1Zh": "酸类(3457)",
 		"cate0En": "Plant Extracts",
-		"cate1En": "Acids"
+		"cate1En": "Acids",
+		"cate0Code": "plant-extracts",
+		"cate1Code": "plant-extracts-acids"
 	},
 	{
 		"cate0Zh": "植物提取物",
 		"cate1Zh": "多酚类(3352)",
 		"cate0En": "Plant Extracts",
-		"cate1En": "Polyphenols"
+		"cate1En": "Polyphenols",
+		"cate0Code": "plant-extracts",
+		"cate1Code": "plant-extracts-polyphenols"
 	},
 	{
 		"cate0Zh": "植物提取物",
 		"cate1Zh": "萜类(821)",
 		"cate0En": "Plant Extracts",
-		"cate1En": "Terpenoids"
+		"cate1En": "Terpenoids",
+		"cate0Code": "plant-extracts",
+		"cate1Code": "plant-extracts-terpenoids"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1837,7 +2516,10 @@
 		"cate2Zh": "营养强化剂(114041)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Nutrition Enhancers"
+		"cate2En": "Nutrition Enhancers",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-nutrition-enhancers"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1845,7 +2527,10 @@
 		"cate2Zh": "增稠剂(56585)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Thickeners"
+		"cate2En": "Thickeners",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-thickeners"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1853,7 +2538,10 @@
 		"cate2Zh": "甜味剂(51224)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Sweeteners"
+		"cate2En": "Sweeteners",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-sweeteners"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1861,7 +2549,10 @@
 		"cate2Zh": "其它(47869)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-others"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1869,7 +2560,10 @@
 		"cate2Zh": "着色剂(37231)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Food Colorants"
+		"cate2En": "Food Colorants",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-food-colorants"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1877,7 +2571,10 @@
 		"cate2Zh": "防腐剂(27948)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Preservatives"
+		"cate2En": "Preservatives",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-preservatives"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1885,7 +2582,10 @@
 		"cate2Zh": "抗氧化剂(20215)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Antioxidants"
+		"cate2En": "Antioxidants",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-antioxidants"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1893,7 +2593,10 @@
 		"cate2Zh": "增味剂(20189)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Flavour Enhancers"
+		"cate2En": "Flavour Enhancers",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-flavour-enhancers"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1901,7 +2604,10 @@
 		"cate2Zh": "酶制剂(19878)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Enzyme Preparations"
+		"cate2En": "Enzyme Preparations",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-enzyme-preparations"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1909,7 +2615,10 @@
 		"cate2Zh": "酸度调节剂(15571)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Acidity Regulators"
+		"cate2En": "Acidity Regulators",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-acidity-regulators"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1917,7 +2626,10 @@
 		"cate2Zh": "乳化剂(14775)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Emulsifiers"
+		"cate2En": "Emulsifiers",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-emulsifiers"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1925,7 +2637,10 @@
 		"cate2Zh": "水分保持剂(4460)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Humectants"
+		"cate2En": "Humectants",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-humectants"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1933,7 +2648,10 @@
 		"cate2Zh": "漂白剂(3689)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Bleaching Agents"
+		"cate2En": "Bleaching Agents",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-bleaching-agents"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1941,7 +2659,10 @@
 		"cate2Zh": "稳定和凝固剂(3005)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Stabilizers & Coagulators"
+		"cate2En": "Stabilizers & Coagulators",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-stabilizers-coagulators"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1949,7 +2670,10 @@
 		"cate2Zh": "抗结剂(2366)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Anticaking Agent"
+		"cate2En": "Anticaking Agent",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-anticaking-agent"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1957,7 +2681,10 @@
 		"cate2Zh": "膨松剂(1140)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Bulking Agents"
+		"cate2En": "Bulking Agents",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-bulking-agents"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1965,7 +2692,10 @@
 		"cate2Zh": "面粉处理剂(890)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Flour Treatment Agents"
+		"cate2En": "Flour Treatment Agents",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-flour-treatment-agents"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1973,7 +2703,10 @@
 		"cate2Zh": "消泡剂(745)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Antifoaming Agents"
+		"cate2En": "Antifoaming Agents",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-antifoaming-agents"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1981,7 +2714,10 @@
 		"cate2Zh": "护色剂(685)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Colour Retention Agents"
+		"cate2En": "Colour Retention Agents",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-colour-retention-agents"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1989,7 +2725,10 @@
 		"cate2Zh": "被膜剂(249)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Coating agents"
+		"cate2En": "Coating agents",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-coating-agents"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -1997,7 +2736,10 @@
 		"cate2Zh": "胶姆糖基础剂(107)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Food Ingredients",
-		"cate2En": "Chewing Gum Bases"
+		"cate2En": "Chewing Gum Bases",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-food-ingredients",
+		"cate2Code": "food-feed-additives-food-ingredients-chewing-gum-bases"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -2005,7 +2747,10 @@
 		"cate2Zh": "矿物元素及其络合物",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Feed Additive",
-		"cate2En": "Minerals and Their Chelates"
+		"cate2En": "Minerals and Their Chelates",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-feed-additive",
+		"cate2Code": "food-feed-additives-feed-additive-minerals-and-their-chelates"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -2013,7 +2758,10 @@
 		"cate2Zh": "维生素类(1473)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Feed Additive",
-		"cate2En": "Vitamins"
+		"cate2En": "Vitamins",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-feed-additive",
+		"cate2Code": "food-feed-additives-feed-additive-vitamins"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -2021,7 +2769,10 @@
 		"cate2Zh": "氨基酸与小肽类(1318)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Feed Additive",
-		"cate2En": "Amino acids & Peptides"
+		"cate2En": "Amino acids & Peptides",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-feed-additive",
+		"cate2Code": "food-feed-additives-feed-additive-amino-acids-peptides"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -2029,7 +2780,10 @@
 		"cate2Zh": "非蛋白氮类(68)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Feed Additive",
-		"cate2En": "Non-Protein Nitrogen"
+		"cate2En": "Non-Protein Nitrogen",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-feed-additive",
+		"cate2Code": "food-feed-additives-feed-additive-non-protein-nitrogen"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -2037,7 +2791,10 @@
 		"cate2Zh": "其它(11561)",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Feed Additive",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-feed-additive",
+		"cate2Code": "food-feed-additives-feed-additive-others"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -2045,7 +2802,10 @@
 		"cate2Zh": "酶制剂",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Feed Additive",
-		"cate2En": "Enzymes"
+		"cate2En": "Enzymes",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-feed-additive",
+		"cate2Code": "food-feed-additives-feed-additive-enzymes"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -2053,7 +2813,10 @@
 		"cate2Zh": "微生物",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Feed Additive",
-		"cate2En": "Live Microorganisms"
+		"cate2En": "Live Microorganisms",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-feed-additive",
+		"cate2Code": "food-feed-additives-feed-additive-live-microorganisms"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -2061,7 +2824,10 @@
 		"cate2Zh": "抗氧化剂",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Feed Additive",
-		"cate2En": "Antioxidants"
+		"cate2En": "Antioxidants",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-feed-additive",
+		"cate2Code": "food-feed-additives-feed-additive-antioxidants"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -2069,7 +2835,10 @@
 		"cate2Zh": "防腐剂、防霉剂、酸度调节剂",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Feed Additive",
-		"cate2En": "Preservatives,Acidity Regulators"
+		"cate2En": "Preservatives,Acidity Regulators",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-feed-additive",
+		"cate2Code": "food-feed-additives-feed-additive-preservatives-acidity-regulators"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -2077,7 +2846,10 @@
 		"cate2Zh": "着色剂",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Feed Additive",
-		"cate2En": "Colouring Agents"
+		"cate2En": "Colouring Agents",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-feed-additive",
+		"cate2Code": "food-feed-additives-feed-additive-colouring-agents"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -2085,7 +2857,10 @@
 		"cate2Zh": "调味剂和香料",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Feed Additive",
-		"cate2En": "Seasonings, Flavoring Agents"
+		"cate2En": "Seasonings, Flavoring Agents",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-feed-additive",
+		"cate2Code": "food-feed-additives-feed-additive-seasonings-flavoring-agents"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -2093,7 +2868,10 @@
 		"cate2Zh": "粘结剂、抗结块剂、稳定剂、乳化剂",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Feed Additive",
-		"cate2En": "Binders, Anticaking Agents and Stabilizers"
+		"cate2En": "Binders, Anticaking Agents and Stabilizers",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-feed-additive",
+		"cate2Code": "food-feed-additives-feed-additive-binders-anticaking-agents-and-stabilizers"
 	},
 	{
 		"cate0Zh": "食品和饲料添加剂",
@@ -2101,7 +2879,10 @@
 		"cate2Zh": "多糖和寡糖",
 		"cate0En": "Food & Feed Additives",
 		"cate1En": "Feed Additive",
-		"cate2En": "Polysaccharides and Oligosaccharides"
+		"cate2En": "Polysaccharides and Oligosaccharides",
+		"cate0Code": "food-feed-additives",
+		"cate1Code": "food-feed-additives-feed-additive",
+		"cate2Code": "food-feed-additives-feed-additive-polysaccharides-and-oligosaccharides"
 	},
 	{
 		"cate0Zh": "香精与香料",
@@ -2109,7 +2890,10 @@
 		"cate2Zh": "合成香料(13974)",
 		"cate0En": "Flavour & Fragrance",
 		"cate1En": "Spices",
-		"cate2En": "Synthetic Spices"
+		"cate2En": "Synthetic Spices",
+		"cate0Code": "flavour-fragrance",
+		"cate1Code": "flavour-fragrance-spices",
+		"cate2Code": "flavour-fragrance-spices-synthetic-spices"
 	},
 	{
 		"cate0Zh": "香精与香料",
@@ -2117,7 +2901,10 @@
 		"cate2Zh": "植物性天然香料",
 		"cate0En": "Flavour & Fragrance",
 		"cate1En": "Spices",
-		"cate2En": "Flora Natural Perfume"
+		"cate2En": "Flora Natural Perfume",
+		"cate0Code": "flavour-fragrance",
+		"cate1Code": "flavour-fragrance-spices",
+		"cate2Code": "flavour-fragrance-spices-flora-natural-perfume"
 	},
 	{
 		"cate0Zh": "香精与香料",
@@ -2125,7 +2912,10 @@
 		"cate2Zh": "动物性天然香料",
 		"cate0En": "Flavour & Fragrance",
 		"cate1En": "Spices",
-		"cate2En": "Fauna Natural Perfume"
+		"cate2En": "Fauna Natural Perfume",
+		"cate0Code": "flavour-fragrance",
+		"cate1Code": "flavour-fragrance-spices",
+		"cate2Code": "flavour-fragrance-spices-fauna-natural-perfume"
 	},
 	{
 		"cate0Zh": "香精与香料",
@@ -2133,7 +2923,10 @@
 		"cate2Zh": "水溶性香精(10130)",
 		"cate0En": "Flavour & Fragrance",
 		"cate1En": "Flavors and Essences",
-		"cate2En": "Water-soluble Flavors"
+		"cate2En": "Water-soluble Flavors",
+		"cate0Code": "flavour-fragrance",
+		"cate1Code": "flavour-fragrance-flavors-and-essences",
+		"cate2Code": "flavour-fragrance-flavors-and-essences-water-soluble-flavors"
 	},
 	{
 		"cate0Zh": "香精与香料",
@@ -2141,7 +2934,10 @@
 		"cate2Zh": "粉末香精(4473)",
 		"cate0En": "Flavour & Fragrance",
 		"cate1En": "Flavors and Essences",
-		"cate2En": "Powdered Flavors"
+		"cate2En": "Powdered Flavors",
+		"cate0Code": "flavour-fragrance",
+		"cate1Code": "flavour-fragrance-flavors-and-essences",
+		"cate2Code": "flavour-fragrance-flavors-and-essences-powdered-flavors"
 	},
 	{
 		"cate0Zh": "香精与香料",
@@ -2149,7 +2945,10 @@
 		"cate2Zh": "油溶性香精(3082)",
 		"cate0En": "Flavour & Fragrance",
 		"cate1En": "Flavors and Essences",
-		"cate2En": "Oil-soluble Flavors"
+		"cate2En": "Oil-soluble Flavors",
+		"cate0Code": "flavour-fragrance",
+		"cate1Code": "flavour-fragrance-flavors-and-essences",
+		"cate2Code": "flavour-fragrance-flavors-and-essences-oil-soluble-flavors"
 	},
 	{
 		"cate0Zh": "香精与香料",
@@ -2157,7 +2956,10 @@
 		"cate2Zh": "乳化香精(321)",
 		"cate0En": "Flavour & Fragrance",
 		"cate1En": "Flavors and Essences",
-		"cate2En": "Emulsifying Essences"
+		"cate2En": "Emulsifying Essences",
+		"cate0Code": "flavour-fragrance",
+		"cate1Code": "flavour-fragrance-flavors-and-essences",
+		"cate2Code": "flavour-fragrance-flavors-and-essences-emulsifying-essences"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2165,7 +2967,10 @@
 		"cate2Zh": "杀虫剂(6711)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Insecticides"
+		"cate2En": "Insecticides",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-insecticides"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2173,7 +2978,10 @@
 		"cate2Zh": "其它农药(4311)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-others"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2181,7 +2989,10 @@
 		"cate2Zh": "除草剂(4132)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Herbicides"
+		"cate2En": "Herbicides",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-herbicides"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2189,7 +3000,10 @@
 		"cate2Zh": "杀菌剂(3717)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Fungicides"
+		"cate2En": "Fungicides",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-fungicides"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2197,7 +3011,10 @@
 		"cate2Zh": "植物生长调节剂(3011)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Plant Growth Regulators"
+		"cate2En": "Plant Growth Regulators",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-plant-growth-regulators"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2205,7 +3022,10 @@
 		"cate2Zh": "生物农药(922)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Biopesticides"
+		"cate2En": "Biopesticides",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-biopesticides"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2213,7 +3033,10 @@
 		"cate2Zh": "杀螨剂(388)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Acaricides"
+		"cate2En": "Acaricides",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-acaricides"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2221,7 +3044,10 @@
 		"cate2Zh": "杀线虫剂(109)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Nematicides"
+		"cate2En": "Nematicides",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-nematicides"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2229,7 +3055,10 @@
 		"cate2Zh": "除草剂解毒剂(104)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Herbicide Safeners"
+		"cate2En": "Herbicide Safeners",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-herbicide-safeners"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2237,7 +3066,10 @@
 		"cate2Zh": "杀虫剂增效剂(70)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Synergists"
+		"cate2En": "Synergists",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-synergists"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2245,7 +3077,10 @@
 		"cate2Zh": "种子处理剂(42)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Seed Treatments"
+		"cate2En": "Seed Treatments",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-seed-treatments"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2253,7 +3088,10 @@
 		"cate2Zh": "杀鼠剂(36)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Rodenticides"
+		"cate2En": "Rodenticides",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-rodenticides"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2261,7 +3099,10 @@
 		"cate2Zh": "杀藻剂(32)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Algicides"
+		"cate2En": "Algicides",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-algicides"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2269,7 +3110,10 @@
 		"cate2Zh": "杀软体动物剂(24)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Pesticides",
-		"cate2En": "Molluscicides"
+		"cate2En": "Molluscicides",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-pesticides",
+		"cate2Code": "agrochemicals-pesticides-molluscicides"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2277,7 +3121,10 @@
 		"cate2Zh": "有机肥料(1383)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Fertilizers",
-		"cate2En": "Organic Fertilizers"
+		"cate2En": "Organic Fertilizers",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-fertilizers",
+		"cate2Code": "agrochemicals-fertilizers-organic-fertilizers"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2285,7 +3132,10 @@
 		"cate2Zh": "其它(719)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Fertilizers",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-fertilizers",
+		"cate2Code": "agrochemicals-fertilizers-others"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2293,7 +3143,10 @@
 		"cate2Zh": "叶面肥(479)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Fertilizers",
-		"cate2En": "Foliar Fertilizers"
+		"cate2En": "Foliar Fertilizers",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-fertilizers",
+		"cate2Code": "agrochemicals-fertilizers-foliar-fertilizers"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2301,7 +3154,10 @@
 		"cate2Zh": "氮肥(453)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Fertilizers",
-		"cate2En": "Nitrogen Fertilizers"
+		"cate2En": "Nitrogen Fertilizers",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-fertilizers",
+		"cate2Code": "agrochemicals-fertilizers-nitrogen-fertilizers"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2309,7 +3165,10 @@
 		"cate2Zh": "微量元素肥料(425)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Fertilizers",
-		"cate2En": "Trace Element Fertilizers"
+		"cate2En": "Trace Element Fertilizers",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-fertilizers",
+		"cate2Code": "agrochemicals-fertilizers-trace-element-fertilizers"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2317,7 +3176,10 @@
 		"cate2Zh": "微生物肥料(316)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Fertilizers",
-		"cate2En": "Microbial fertilizers"
+		"cate2En": "Microbial fertilizers",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-fertilizers",
+		"cate2Code": "agrochemicals-fertilizers-microbial-fertilizers"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2325,7 +3187,10 @@
 		"cate2Zh": "复合肥料(271)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Fertilizers",
-		"cate2En": "Compound Fertilizers"
+		"cate2En": "Compound Fertilizers",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-fertilizers",
+		"cate2Code": "agrochemicals-fertilizers-compound-fertilizers"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2333,7 +3198,10 @@
 		"cate2Zh": "土壤改良活性剂(171)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Fertilizers",
-		"cate2En": "Soil Amendments"
+		"cate2En": "Soil Amendments",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-fertilizers",
+		"cate2Code": "agrochemicals-fertilizers-soil-amendments"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2341,7 +3209,10 @@
 		"cate2Zh": "营养液肥(166)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Fertilizers",
-		"cate2En": "Nutrient Solutions"
+		"cate2En": "Nutrient Solutions",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-fertilizers",
+		"cate2Code": "agrochemicals-fertilizers-nutrient-solutions"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2349,7 +3220,10 @@
 		"cate2Zh": "钾肥(162)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Fertilizers",
-		"cate2En": "Potassium Fertilizers"
+		"cate2En": "Potassium Fertilizers",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-fertilizers",
+		"cate2Code": "agrochemicals-fertilizers-potassium-fertilizers"
 	},
 	{
 		"cate0Zh": "农用化学品",
@@ -2357,19 +3231,26 @@
 		"cate2Zh": "磷肥(88)",
 		"cate0En": "Agrochemicals",
 		"cate1En": "Fertilizers",
-		"cate2En": "Phosphorus Fertilizers"
+		"cate2En": "Phosphorus Fertilizers",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-fertilizers",
+		"cate2Code": "agrochemicals-fertilizers-phosphorus-fertilizers"
 	},
 	{
 		"cate0Zh": "农用化学品",
 		"cate1Zh": "其它(3615)",
 		"cate0En": "Agrochemicals",
-		"cate1En": "Others"
+		"cate1En": "Others",
+		"cate0Code": "agrochemicals",
+		"cate1Code": "agrochemicals-others"
 	},
 	{
 		"cate0Zh": "日用化工",
 		"cate1Zh": "化妆品类(11062)",
 		"cate0En": "Daily Chemicals",
-		"cate1En": "Cosmetic Raw Materials"
+		"cate1En": "Cosmetic Raw Materials",
+		"cate0Code": "daily-chemicals",
+		"cate1Code": "daily-chemicals-cosmetic-raw-materials"
 	},
 	{
 		"cate0Zh": "日用化工",
@@ -2377,7 +3258,10 @@
 		"cate2Zh": "洗涤剂(4967)",
 		"cate0En": "Daily Chemicals",
 		"cate1En": "Detergent",
-		"cate2En": "Cleaning Agent"
+		"cate2En": "Cleaning Agent",
+		"cate0Code": "daily-chemicals",
+		"cate1Code": "daily-chemicals-detergent",
+		"cate2Code": "daily-chemicals-detergent-cleaning-agent"
 	},
 	{
 		"cate0Zh": "日用化工",
@@ -2385,7 +3269,10 @@
 		"cate2Zh": "肥皂类(563)",
 		"cate0En": "Daily Chemicals",
 		"cate1En": "Detergent",
-		"cate2En": "Sapones"
+		"cate2En": "Sapones",
+		"cate0Code": "daily-chemicals",
+		"cate1Code": "daily-chemicals-detergent",
+		"cate2Code": "daily-chemicals-detergent-sapones"
 	},
 	{
 		"cate0Zh": "日用化工",
@@ -2393,55 +3280,74 @@
 		"cate2Zh": "其它(9158)",
 		"cate0En": "Daily Chemicals",
 		"cate1En": "Detergent",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "daily-chemicals",
+		"cate1Code": "daily-chemicals-detergent",
+		"cate2Code": "daily-chemicals-detergent-others"
 	},
 	{
 		"cate0Zh": "日用化工",
 		"cate1Zh": "口腔清洁类",
 		"cate0En": "Daily Chemicals",
-		"cate1En": "Dental Cleanser"
+		"cate1En": "Dental Cleanser",
+		"cate0Code": "daily-chemicals",
+		"cate1Code": "daily-chemicals-dental-cleanser"
 	},
 	{
 		"cate0Zh": "日用化工",
 		"cate1Zh": "其它(25544)",
 		"cate0En": "Daily Chemicals",
-		"cate1En": "Others"
+		"cate1En": "Others",
+		"cate0Code": "daily-chemicals",
+		"cate1Code": "daily-chemicals-others"
 	},
 	{
 		"cate0Zh": "水处理剂",
 		"cate1Zh": "絮凝剂",
 		"cate0En": "Water Treatment Chemicals",
-		"cate1En": "Flocculants"
+		"cate1En": "Flocculants",
+		"cate0Code": "water-treatment-chemicals",
+		"cate1Code": "water-treatment-chemicals-flocculants"
 	},
 	{
 		"cate0Zh": "水处理剂",
 		"cate1Zh": "杀菌灭藻剂",
 		"cate0En": "Water Treatment Chemicals",
-		"cate1En": "Bactericides and Algicides"
+		"cate1En": "Bactericides and Algicides",
+		"cate0Code": "water-treatment-chemicals",
+		"cate1Code": "water-treatment-chemicals-bactericides-and-algicides"
 	},
 	{
 		"cate0Zh": "水处理剂",
 		"cate1Zh": "缓蚀剂",
 		"cate0En": "Water Treatment Chemicals",
-		"cate1En": "Corrosion Inhibitors"
+		"cate1En": "Corrosion Inhibitors",
+		"cate0Code": "water-treatment-chemicals",
+		"cate1Code": "water-treatment-chemicals-corrosion-inhibitors"
 	},
 	{
 		"cate0Zh": "水处理剂",
 		"cate1Zh": "清洗剂",
 		"cate0En": "Water Treatment Chemicals",
-		"cate1En": "Cleaning Agents"
+		"cate1En": "Cleaning Agents",
+		"cate0Code": "water-treatment-chemicals",
+		"cate1Code": "water-treatment-chemicals-cleaning-agents"
 	},
 	{
 		"cate0Zh": "水处理剂",
 		"cate1Zh": "阻垢分散剂",
 		"cate0En": "Water Treatment Chemicals",
-		"cate1En": "Dispersants"
+		"cate1En": "Dispersants",
+		"cate0Code": "water-treatment-chemicals",
+		"cate1Code": "water-treatment-chemicals-dispersants"
 	},
 	{
 		"cate0Zh": "水处理剂",
 		"cate1Zh": "其他",
 		"cate0En": "Water Treatment Chemicals",
-		"cate1En": "Others"
+		"cate1En": "Others",
+		"cate0Code": "water-treatment-chemicals",
+		"cate1Code": "water-treatment-chemicals-others"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2449,7 +3355,10 @@
 		"cate2Zh": "磷酸盐类(49)",
 		"cate0En": "Adhesives",
 		"cate1En": "Inorganic Adhesives",
-		"cate2En": "Phosphates"
+		"cate2En": "Phosphates",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-inorganic-adhesives",
+		"cate2Code": "adhesives-inorganic-adhesives-phosphates"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2457,7 +3366,10 @@
 		"cate2Zh": "硼酸盐类(64)",
 		"cate0En": "Adhesives",
 		"cate1En": "Inorganic Adhesives",
-		"cate2En": "Borates"
+		"cate2En": "Borates",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-inorganic-adhesives",
+		"cate2Code": "adhesives-inorganic-adhesives-borates"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2465,7 +3377,10 @@
 		"cate2Zh": "低熔点金属类(129)",
 		"cate0En": "Adhesives",
 		"cate1En": "Inorganic Adhesives",
-		"cate2En": "Low Melting Point Metal"
+		"cate2En": "Low Melting Point Metal",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-inorganic-adhesives",
+		"cate2Code": "adhesives-inorganic-adhesives-low-melting-point-metal"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2473,7 +3388,10 @@
 		"cate2Zh": "陶瓷类(199)",
 		"cate0En": "Adhesives",
 		"cate1En": "Inorganic Adhesives",
-		"cate2En": "Ceramics"
+		"cate2En": "Ceramics",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-inorganic-adhesives",
+		"cate2Code": "adhesives-inorganic-adhesives-ceramics"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2481,7 +3399,10 @@
 		"cate2Zh": "硅酸盐类(638)",
 		"cate0En": "Adhesives",
 		"cate1En": "Inorganic Adhesives",
-		"cate2En": "Silicates"
+		"cate2En": "Silicates",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-inorganic-adhesives",
+		"cate2Code": "adhesives-inorganic-adhesives-silicates"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2489,7 +3410,10 @@
 		"cate2Zh": "其它无机胶粘剂(3604)",
 		"cate0En": "Adhesives",
 		"cate1En": "Inorganic Adhesives",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-inorganic-adhesives",
+		"cate2Code": "adhesives-inorganic-adhesives-others"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2497,7 +3421,10 @@
 		"cate2Zh": "淀粉系类(318)",
 		"cate0En": "Adhesives",
 		"cate1En": "Organic Adhesives",
-		"cate2En": "Starch"
+		"cate2En": "Starch",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-organic-adhesives",
+		"cate2Code": "adhesives-organic-adhesives-starch"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2505,7 +3432,10 @@
 		"cate2Zh": "蛋白系类(222)",
 		"cate0En": "Adhesives",
 		"cate1En": "Organic Adhesives",
-		"cate2En": "Proteins"
+		"cate2En": "Proteins",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-organic-adhesives",
+		"cate2Code": "adhesives-organic-adhesives-proteins"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2513,7 +3443,10 @@
 		"cate2Zh": "天然树脂系类(1900)",
 		"cate0En": "Adhesives",
 		"cate1En": "Organic Adhesives",
-		"cate2En": "Natural resins"
+		"cate2En": "Natural resins",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-organic-adhesives",
+		"cate2Code": "adhesives-organic-adhesives-natural-resins"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2521,7 +3454,10 @@
 		"cate2Zh": "天然橡胶系类(681)",
 		"cate0En": "Adhesives",
 		"cate1En": "Organic Adhesives",
-		"cate2En": "Natural Rubbers"
+		"cate2En": "Natural Rubbers",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-organic-adhesives",
+		"cate2Code": "adhesives-organic-adhesives-natural-rubbers"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2529,7 +3465,10 @@
 		"cate2Zh": "沥青系类(211)",
 		"cate0En": "Adhesives",
 		"cate1En": "Organic Adhesives",
-		"cate2En": "Asphalt"
+		"cate2En": "Asphalt",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-organic-adhesives",
+		"cate2Code": "adhesives-organic-adhesives-asphalt"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2537,7 +3476,10 @@
 		"cate2Zh": "其它类型胶粘剂(40172)",
 		"cate0En": "Adhesives",
 		"cate1En": "Organic Adhesives",
-		"cate2En": "Others"
+		"cate2En": "Others",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-organic-adhesives",
+		"cate2Code": "adhesives-organic-adhesives-others"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2545,7 +3487,10 @@
 		"cate2Zh": "复合型胶粘剂(11630)",
 		"cate0En": "Adhesives",
 		"cate1En": "Organic Adhesives",
-		"cate2En": "Compound Adhesive"
+		"cate2En": "Compound Adhesive",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-organic-adhesives",
+		"cate2Code": "adhesives-organic-adhesives-compound-adhesive"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2553,7 +3498,10 @@
 		"cate2Zh": "合成橡胶型胶粘剂(3079)",
 		"cate0En": "Adhesives",
 		"cate1En": "Organic Adhesives",
-		"cate2En": "Synthetic rubber adhesive"
+		"cate2En": "Synthetic rubber adhesive",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-organic-adhesives",
+		"cate2Code": "adhesives-organic-adhesives-synthetic-rubber-adhesive"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2561,7 +3509,10 @@
 		"cate2Zh": "热固性树脂型胶粘(2538)",
 		"cate0En": "Adhesives",
 		"cate1En": "Organic Adhesives",
-		"cate2En": "Thermosetting Resin"
+		"cate2En": "Thermosetting Resin",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-organic-adhesives",
+		"cate2Code": "adhesives-organic-adhesives-thermosetting-resin"
 	},
 	{
 		"cate0Zh": "粘胶剂",
@@ -2569,402 +3520,537 @@
 		"cate2Zh": "热塑性树脂型胶粘",
 		"cate0En": "Adhesives",
 		"cate1En": "Organic Adhesives",
-		"cate2En": "Thermoplastic Resin"
+		"cate2En": "Thermoplastic Resin",
+		"cate0Code": "adhesives",
+		"cate1Code": "adhesives-organic-adhesives",
+		"cate2Code": "adhesives-organic-adhesives-thermoplastic-resin"
 	},
 	{
 		"cate0Zh": "其他",
 		"cate1Zh": "有机胶粘剂(62616)",
 		"cate0En": "Others",
-		"cate1En": "Organic Adhesives"
+		"cate1En": "Organic Adhesives",
+		"cate0Code": "others",
+		"cate1Code": "others-organic-adhesives"
 	},
 	{
 		"cate0Zh": "石油化工",
 		"cate1Zh": "其他",
 		"cate0En": "Petrochemicals",
-		"cate1En": "Others"
+		"cate1En": "Others",
+		"cate0Code": "petrochemicals",
+		"cate1Code": "petrochemicals-others"
 	},
 	{
 		"cate0Zh": "石油化工",
 		"cate1Zh": "石油产品添加剂(4899)",
 		"cate0En": "Petrochemicals",
-		"cate1En": "Additives for Petroleum Product"
+		"cate1En": "Additives for Petroleum Product",
+		"cate0Code": "petrochemicals",
+		"cate1Code": "petrochemicals-additives-for-petroleum-product"
 	},
 	{
 		"cate0Zh": "石油化工",
 		"cate1Zh": "燃料油(3579)",
 		"cate0En": "Petrochemicals",
-		"cate1En": "Fuel"
+		"cate1En": "Fuel",
+		"cate0Code": "petrochemicals",
+		"cate1Code": "petrochemicals-fuel"
 	},
 	{
 		"cate0Zh": "石油化工",
 		"cate1Zh": "标准样品及其它(3039)",
 		"cate0En": "Petrochemicals",
-		"cate1En": "Standard Samples"
+		"cate1En": "Standard Samples",
+		"cate0Code": "petrochemicals",
+		"cate1Code": "petrochemicals-standard-samples"
 	},
 	{
 		"cate0Zh": "石油化工",
 		"cate1Zh": "原油(2656)",
 		"cate0En": "Petrochemicals",
-		"cate1En": "Crude oil"
+		"cate1En": "Crude oil",
+		"cate0Code": "petrochemicals",
+		"cate1Code": "petrochemicals-crude-oil"
 	},
 	{
 		"cate0Zh": "石油化工",
 		"cate1Zh": "溶剂油(2630)",
 		"cate0En": "Petrochemicals",
-		"cate1En": "Solvent oil"
+		"cate1En": "Solvent oil",
+		"cate0Code": "petrochemicals",
+		"cate1Code": "petrochemicals-solvent-oil"
 	},
 	{
 		"cate0Zh": "石油化工",
 		"cate1Zh": "工艺用油(1737)",
 		"cate0En": "Petrochemicals",
-		"cate1En": "Process Oil"
+		"cate1En": "Process Oil",
+		"cate0Code": "petrochemicals",
+		"cate1Code": "petrochemicals-process-oil"
 	},
 	{
 		"cate0Zh": "石油化工",
 		"cate1Zh": "石油蜡(1549)",
 		"cate0En": "Petrochemicals",
-		"cate1En": "Waxes"
+		"cate1En": "Waxes",
+		"cate0Code": "petrochemicals",
+		"cate1Code": "petrochemicals-waxes"
 	},
 	{
 		"cate0Zh": "石油化工",
 		"cate1Zh": "石油沥青(972)",
 		"cate0En": "Petrochemicals",
-		"cate1En": "Asphalt"
+		"cate1En": "Asphalt",
+		"cate0Code": "petrochemicals",
+		"cate1Code": "petrochemicals-asphalt"
 	},
 	{
 		"cate0Zh": "石油化工",
 		"cate1Zh": "炼厂气体(612)",
 		"cate0En": "Petrochemicals",
-		"cate1En": "Refinery gas"
+		"cate1En": "Refinery gas",
+		"cate0Code": "petrochemicals",
+		"cate1Code": "petrochemicals-refinery-gas"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "ELISA试剂盒(477609)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "ELISA Kit"
+		"cate1En": "ELISA Kit",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-elisa-kit"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "生化与分子生物学(331815)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Biochemistry & Molecular Biology"
+		"cate1En": "Biochemistry & Molecular Biology",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-biochemistry-molecular-biology"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "一般分析试剂(267131)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "General Analytical Reagent"
+		"cate1En": "General Analytical Reagent",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-general-analytical-reagent"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "标准品/对照品(262301)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Standards/Reference Substances"
+		"cate1En": "Standards/Reference Substances",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-standards-reference-substances"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "高纯有机试剂(236548)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "High Purity Organic Reagents"
+		"cate1En": "High Purity Organic Reagents",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-high-purity-organic-reagents"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "一般有机试剂(193585)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "General Organic Reagents"
+		"cate1En": "General Organic Reagents",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-general-organic-reagents"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "其他试剂(178535)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Others"
+		"cate1En": "Others",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-others"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "生物化学(147387)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Biochemical agents"
+		"cate1En": "Biochemical agents",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-biochemical-agents"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "抗体(120168)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Antibodies"
+		"cate1En": "Antibodies",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-antibodies"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "专用化学品(76113)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Specialty Chemicals"
+		"cate1En": "Specialty Chemicals",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-specialty-chemicals"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "细胞培养(68536)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Reagents for Cell Culture"
+		"cate1En": "Reagents for Cell Culture",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-reagents-for-cell-culture"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "一般无机试剂(47257)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "General Inorganic Reagents"
+		"cate1En": "General Inorganic Reagents",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-general-inorganic-reagents"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "微生物(38387)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Microorganism"
+		"cate1En": "Microorganism",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-microorganism"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "蛋白检测(27881)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Protein Detection"
+		"cate1En": "Protein Detection",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-protein-detection"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "临床检测试剂(23081)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Clinical Detection Reagents"
+		"cate1En": "Clinical Detection Reagents",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-clinical-detection-reagents"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "仪器分析用试剂(18649)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Reagent for Instrumental Analysis"
+		"cate1En": "Reagent for Instrumental Analysis",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-reagent-for-instrumental-analysis"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "蛋白质/抗原/多肽(16684)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Proteins/Antigens/Polypeptides"
+		"cate1En": "Proteins/Antigens/Polypeptides",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-proteins-antigens-polypeptides"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "高纯无机试剂(9669)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "High Purity Inorganic Reagents"
+		"cate1En": "High Purity Inorganic Reagents",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-high-purity-inorganic-reagents"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "细胞生物学检测(7116)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Reagents for Detection of Celluar Biology"
+		"cate1En": "Reagents for Detection of Celluar Biology",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-reagents-for-detection-of-celluar-biology"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "酶(5513)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Enzymes"
+		"cate1En": "Enzymes",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-enzymes"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "免疫检测(5332)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Immunological Detection"
+		"cate1En": "Immunological Detection",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-immunological-detection"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "检验试剂(4320)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Diagnostic Reagents"
+		"cate1En": "Diagnostic Reagents",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-diagnostic-reagents"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "同位素试剂(2140)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Isotope Reagents"
+		"cate1En": "Isotope Reagents",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-isotope-reagents"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "克隆与表达(999)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Cloning and Expression"
+		"cate1En": "Cloning and Expression",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-cloning-and-expression"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "蛋白分析(781)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Protein Analysis"
+		"cate1En": "Protein Analysis",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-protein-analysis"
 	},
 	{
 		"cate0Zh": "化学试剂",
 		"cate1Zh": "动物/植物(746)",
 		"cate0En": "Chemical Reagents",
-		"cate1En": "Animals/Plants"
+		"cate1En": "Animals/Plants",
+		"cate0Code": "chemical-reagents",
+		"cate1Code": "chemical-reagents-animals-plants"
 	},
 	{
 		"cate0Zh": "化工仪器",
 		"cate1Zh": "电子电工仪器(127683)",
 		"cate0En": "Chemical Apparatus",
-		"cate1En": "Electronic Electrical Apparatus"
+		"cate1En": "Electronic Electrical Apparatus",
+		"cate0Code": "chemical-apparatus",
+		"cate1Code": "chemical-apparatus-electronic-electrical-apparatus"
 	},
 	{
 		"cate0Zh": "化工仪器",
 		"cate1Zh": "实验仪器设备(92476)",
 		"cate0En": "Chemical Apparatus",
-		"cate1En": "Experimental Equipment"
+		"cate1En": "Experimental Equipment",
+		"cate0Code": "chemical-apparatus",
+		"cate1Code": "chemical-apparatus-experimental-equipment"
 	},
 	{
 		"cate0Zh": "化工仪器",
 		"cate1Zh": "行业专用仪器(78996)",
 		"cate0En": "Chemical Apparatus",
-		"cate1En": "Industry-specific Instruments"
+		"cate1En": "Industry-specific Instruments",
+		"cate0Code": "chemical-apparatus",
+		"cate1Code": "chemical-apparatus-industry-specific-instruments"
 	},
 	{
 		"cate0Zh": "化工仪器",
 		"cate1Zh": "通用分析仪器(44453)",
 		"cate0En": "Chemical Apparatus",
-		"cate1En": "Universal Analysis Instruments"
+		"cate1En": "Universal Analysis Instruments",
+		"cate0Code": "chemical-apparatus",
+		"cate1Code": "chemical-apparatus-universal-analysis-instruments"
 	},
 	{
 		"cate0Zh": "化工仪器",
 		"cate1Zh": "物理特性分析仪器(36438)",
 		"cate0En": "Chemical Apparatus",
-		"cate1En": "Physical Property Analysis Instrument"
+		"cate1En": "Physical Property Analysis Instrument",
+		"cate0Code": "chemical-apparatus",
+		"cate1Code": "chemical-apparatus-physical-property-analysis-instrument"
 	},
 	{
 		"cate0Zh": "化工仪器",
 		"cate1Zh": "生化分析仪(8840)",
 		"cate0En": "Chemical Apparatus",
-		"cate1En": "Biochemical Analyzer"
+		"cate1En": "Biochemical Analyzer",
+		"cate0Code": "chemical-apparatus",
+		"cate1Code": "chemical-apparatus-biochemical-analyzer"
 	},
 	{
 		"cate0Zh": "化工仪器",
 		"cate1Zh": "生命科学(1757)",
 		"cate0En": "Chemical Apparatus",
-		"cate1En": "Life Science"
+		"cate1En": "Life Science",
+		"cate0Code": "chemical-apparatus",
+		"cate1Code": "chemical-apparatus-life-science"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "干燥机械(220553)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Drying Machinery"
+		"cate1En": "Drying Machinery",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-drying-machinery"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "环保设备(194018)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Machinery for Environmental Protection"
+		"cate1En": "Machinery for Environmental Protection",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-machinery-for-environmental-protection"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "泵阀类(127954)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Pumps/Valves"
+		"cate1En": "Pumps/Valves",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-pumps-valves"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "其他设备(56933)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Others"
+		"cate1En": "Others",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-others"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "分离设备(42748)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Separation Equipment/Splitter"
+		"cate1En": "Separation Equipment/Splitter",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-separation-equipment-splitter"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "辅助设备(34386)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Auxiliary Machinery"
+		"cate1En": "Auxiliary Machinery",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-auxiliary-machinery"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "输送设备(33024)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Conveying Machinery"
+		"cate1En": "Conveying Machinery",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-conveying-machinery"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "制冷设备(29176)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Refrigeration Machinery"
+		"cate1En": "Refrigeration Machinery",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-refrigeration-machinery"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "包装设备(21698)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Packaging Machinery"
+		"cate1En": "Packaging Machinery",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-packaging-machinery"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "混合设备(21454)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Mixing Machinery"
+		"cate1En": "Mixing Machinery",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-mixing-machinery"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "成套设备(21365)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Complete Equipment"
+		"cate1En": "Complete Equipment",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-complete-equipment"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "传热设备(20434)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Heat Exchange Equipment"
+		"cate1En": "Heat Exchange Equipment",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-heat-exchange-equipment"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "储运设备(14609)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Machinery for Storage and Transportation"
+		"cate1En": "Machinery for Storage and Transportation",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-machinery-for-storage-and-transportation"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "成型设备(14137)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Forming Machinery"
+		"cate1En": "Forming Machinery",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-forming-machinery"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "粉碎设备(14037)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Breaking Plant"
+		"cate1En": "Breaking Plant",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-breaking-plant"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "传质设备(8625)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Mass Transfer Apparatus"
+		"cate1En": "Mass Transfer Apparatus",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-mass-transfer-apparatus"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "真空设备(8155)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Vacuum Equipment"
+		"cate1En": "Vacuum Equipment",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-vacuum-equipment"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "反应设备(7547)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Reaction Equipment/Reaction Kettle"
+		"cate1En": "Reaction Equipment/Reaction Kettle",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-reaction-equipment-reaction-kettle"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "压力容器(7182)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Pressure Vessel"
+		"cate1En": "Pressure Vessel",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-pressure-vessel"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "制药设备(6385)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Pharmaceutical Equipment"
+		"cate1En": "Pharmaceutical Equipment",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-pharmaceutical-equipment"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "涂料专用设备(3360)",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Coating Equiment"
+		"cate1En": "Coating Equiment",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-coating-equiment"
 	},
 	{
 		"cate0Zh": "化工设备",
 		"cate1Zh": "橡胶塑料机械(3092",
 		"cate0En": "Chemical Machinery",
-		"cate1En": "Machinery for Rubber and Plastic"
+		"cate1En": "Machinery for Rubber and Plastic",
+		"cate0Code": "chemical-machinery",
+		"cate1Code": "chemical-machinery-machinery-for-rubber-and-plastic"
 	}]
 }

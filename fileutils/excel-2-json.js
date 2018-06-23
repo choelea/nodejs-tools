@@ -32,4 +32,14 @@ const result = excelToJson({
     },
     sheets: ['category']
 });
+// INSERT INTO okchem.ProductCategory (id,code, createdDate, lastModifiedDate, version, orders, grade, name, parent_id, generalRate, selfRate, treePath, image) 
+const id=0;
+
+result.category.forEach(element => {
+    element.cate0Code=element.cate0En.toLowerCase().replace(/\W/g, '-').replace('--','-').replace('--','-');
+    element.cate1Code=element.cate0Code +'-'+ element.cate1En.toLowerCase().replace(/\W/g, '-').replace('--','-').replace('--','-');
+    if(element.cate2En){
+        element.cate2Code=element.cate1Code + '-' + element.cate2En.toLowerCase().replace(/\W/g, '-').replace('--','-').replace('--','-');
+    }
+});
 writable.write(JSON.stringify(result))
