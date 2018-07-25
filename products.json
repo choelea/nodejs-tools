@@ -1,0 +1,7146 @@
+{
+	"product": [{
+		"id": "isobornyl-acrylate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "phenoxy-terminated-carbonate-oligomer-of-tetrabrom",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "hot-melt-adhesive-cx-s308",
+		"cate": "adhesives-organic-adhesives-thermoplastic-resin"
+	},
+	{
+		"id": "hot-melt-adhesive-cx-g106",
+		"cate": "adhesives-organic-adhesives-thermoplastic-resin"
+	},
+	{
+		"id": "hot-melt-adhesive-cx-g147p",
+		"cate": "adhesives-organic-adhesives-thermoplastic-resin"
+	},
+	{
+		"id": "hot-melt-adhesive-cx-g111",
+		"cate": "adhesives-organic-adhesives-thermoplastic-resin"
+	},
+	{
+		"id": "hot-melt-adhesive-cx-g616",
+		"cate": "adhesives-organic-adhesives-thermoplastic-resin"
+	},
+	{
+		"id": "hot-melt-adhesive-cx-s304",
+		"cate": "adhesives-organic-adhesives-thermoplastic-resin"
+	},
+	{
+		"id": "hot-melt-adhesive-cx-s617",
+		"cate": "adhesives-organic-adhesives-thermoplastic-resin"
+	},
+	{
+		"id": "trichloromethane-002",
+		"cate": "organic-chemicals-halides-chlorine-containing-organic-compounds"
+	},
+	{
+		"id": "glutaraldehyde",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-aldehydes"
+	},
+	{
+		"id": "glutaraldehyde-technical",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-aldehydes"
+	},
+	{
+		"id": "diglycidyl-12-cyclohexanedicarboxylate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "polymethylvinylethermaleic-acid-mixed-salts-copolymer",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "polymethylvinylethermaleic-anhydride-copolymer",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "n-propyl-vinyl-ether",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-ethers"
+	},
+	{
+		"id": "sebs-501t",
+		"cate": "rubber-raw-materials-plastics-raw-materials-tpe"
+	},
+	{
+		"id": "sebs-501",
+		"cate": "rubber-raw-materials-plastics-raw-materials-tpe"
+	},
+	{
+		"id": "potassium-phosphate-monobasic",
+		"cate": "agrochemicals-fertilizers-compound-fertilizers"
+	},
+	{
+		"id": "compound-fertilizer-22-5-13",
+		"cate": "agrochemicals-fertilizers-compound-fertilizers"
+	},
+	{
+		"id": "compound-fertilizer-27-135-0",
+		"cate": "agrochemicals-fertilizers-compound-fertilizers"
+	},
+	{
+		"id": "compound-fertilizer-26-9-9",
+		"cate": "agrochemicals-fertilizers-compound-fertilizers"
+	},
+	{
+		"id": "compound-fertilizer-15-5-25",
+		"cate": "agrochemicals-fertilizers-compound-fertilizers"
+	},
+	{
+		"id": "compound-fertilizer-15-15-15",
+		"cate": "agrochemicals-fertilizers-compound-fertilizers"
+	},
+	{
+		"id": "compound-fertilizer-16-6-20",
+		"cate": "agrochemicals-fertilizers-compound-fertilizers"
+	},
+	{
+		"id": "compound-fertilizer-22-9-9",
+		"cate": "agrochemicals-fertilizers-compound-fertilizers"
+	},
+	{
+		"id": "compound-fertilizer-25-10-5",
+		"cate": "agrochemicals-fertilizers-compound-fertilizers"
+	},
+	{
+		"id": "compound-fertilizer-28-6-0",
+		"cate": "agrochemicals-fertilizers-compound-fertilizers"
+	},
+	{
+		"id": "compound-fertilizer-30-6-0",
+		"cate": "agrochemicals-fertilizers-compound-fertilizers"
+	},
+	{
+		"id": "compound-fertilizer-20-26-0",
+		"cate": "agrochemicals-fertilizers-compound-fertilizers"
+	},
+	{
+		"id": "zinc-sulphate-monohydrate-powder002",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "zinc-sulphate-monohydrate-powder",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "zinc-sulphate-heptahydrate002",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "magnesium-sulphate-monohydrate",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "magnesium-sulphate-anhydrous",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "magnesium-sulphate-heptahydrate-995dry-grade011mm",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "edta-fe-01",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "edta-zn-01",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "edta-mn-01",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "edta-ca-01",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "edta-mg-01",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "edta-cu-01",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "eddha-fe-01",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "eddha-fe-6",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "edta-cu-15",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "edta-mg-6",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "edta-ca-10",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "edta-mn-13",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "edta-zn-15",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "edta-fe-13",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "mono-magnesium-sulphate-kieserite-01",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "ammonium-bicarbonate",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "urea",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "sodium-nitrate",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "urea-with-specification-for-arla-32",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "sodium-nitrate-01",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "mono-ammonium-phosphate-01",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "npk-20-20-20-01",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "ammonium-sulphate-01",
+		"cate": "inorganic-chemicals-inorganic-bases"
+	},
+	{
+		"id": "ammonium-sulphate-granular-01",
+		"cate": "inorganic-chemicals-inorganic-bases"
+	},
+	{
+		"id": "calcium-nitrate-01",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "potassium-nitrate-powder-01",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "potassium-nitrate-prill-01",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "mono-ammonium-phosphate-powder-map-01",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "mono-ammonium-phosphate-granular-map-01",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "mono-ammonium-phosphate-tech-grade-t-map-01",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "di-ammonium-phosphate-agri-grade-dap-01",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "di-ammonium-phosphate-tech-grade-t-dap-01",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "npk-15-15-30-01",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "npk-20-20-20",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "fulvic-acid-01",
+		"cate": "agrochemicals-fertilizers-organic-fertilizers"
+	},
+	{
+		"id": "humic-acid-01",
+		"cate": "agrochemicals-fertilizers-organic-fertilizers"
+	},
+	{
+		"id": "potassium-humate-01",
+		"cate": "agrochemicals-fertilizers-organic-fertilizers"
+	},
+	{
+		"id": "sodium-humate-01",
+		"cate": "agrochemicals-fertilizers-organic-fertilizers"
+	},
+	{
+		"id": "potassium-humate-95",
+		"cate": "agrochemicals-fertilizers-organic-fertilizers"
+	},
+	{
+		"id": "fulvic-acid-90",
+		"cate": "agrochemicals-fertilizers-organic-fertilizers"
+	},
+	{
+		"id": "phosphoric-acid-technical-grade",
+		"cate": "agrochemicals-fertilizers-phosphorus-fertilizers"
+	},
+	{
+		"id": "phosphoric-acid-food-grade",
+		"cate": "agrochemicals-fertilizers-phosphorus-fertilizers"
+	},
+	{
+		"id": "phosphoric-acid-electronic-grade",
+		"cate": "agrochemicals-fertilizers-phosphorus-fertilizers"
+	},
+	{
+		"id": "mono-potassium-phosphate-01",
+		"cate": "agrochemicals-fertilizers-phosphorus-fertilizers"
+	},
+	{
+		"id": "urea-phosphate-01",
+		"cate": "agrochemicals-fertilizers-phosphorus-fertilizers"
+	},
+	{
+		"id": "mono-potassium-phosphate-mkp-01",
+		"cate": "agrochemicals-fertilizers-phosphorus-fertilizers"
+	},
+	{
+		"id": "urea-phosphate-up-01",
+		"cate": "agrochemicals-fertilizers-phosphorus-fertilizers"
+	},
+	{
+		"id": "potassium-sulfate-agricultural-grade",
+		"cate": "agrochemicals-fertilizers-potassium-fertilizers"
+	},
+	{
+		"id": "potassium-sulphate",
+		"cate": "agrochemicals-fertilizers-potassium-fertilizers"
+	},
+	{
+		"id": "potassium-sulphate-powder-50",
+		"cate": "agrochemicals-fertilizers-potassium-fertilizers"
+	},
+	{
+		"id": "methyl-acetoacetate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "paraformaldehyde-001",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-aldehydes"
+	},
+	{
+		"id": "paraformaldehyde-002",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-aldehydes"
+	},
+	{
+		"id": "n-butanal",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-aldehydes"
+	},
+	{
+		"id": "methanol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "glycine-003",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "paraformaldehyde-003",
+		"cate": "agrochemicals-pesticides-others"
+	},
+	{
+		"id": "cyclopentadiene",
+		"cate": "agrochemicals-pesticides-others"
+	},
+	{
+		"id": "1133-tetramethoxypropane",
+		"cate": "agrochemicals-pesticides-others"
+	},
+	{
+		"id": "1133-tetraethoxypropane",
+		"cate": "agrochemicals-pesticides-others"
+	},
+	{
+		"id": "3-cyclohexene-1-carboxaldehyde",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-aldehydes"
+	},
+	{
+		"id": "methyl-1-propenyl-ether",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-ethers"
+	},
+	{
+		"id": "ethyl-1-propenyl-ether",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-ethers"
+	},
+	{
+		"id": "phosphorus-trichloride",
+		"cate": "agrochemicals-pesticides-herbicides"
+	},
+	{
+		"id": "sodium-cyanate",
+		"cate": "agrochemicals-pesticides-herbicides"
+	},
+	{
+		"id": "perchloroethylene",
+		"cate": "organic-chemicals-halides-chlorine-containing-organic-compounds"
+	},
+	{
+		"id": "arsenic-trioxide",
+		"cate": "inorganic-chemicals-oxides"
+	},
+	{
+		"id": "acrolein",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-aldehydes"
+	},
+	{
+		"id": "dodecyl-dimethyl-benzyl-ammonium-chloride",
+		"cate": "agrochemicals-pesticides-insecticides"
+	},
+	{
+		"id": "potassium-fulvate-01",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acid-derivatives"
+	},
+	{
+		"id": "potassium-fulvate-02",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acid-derivatives"
+	},
+	{
+		"id": "yellow-phosphorus",
+		"cate": "inorganic-chemicals-elementary-substances"
+	},
+	{
+		"id": "chromic-anhydride",
+		"cate": "inorganic-chemicals-oxides"
+	},
+	{
+		"id": "nylon-6",
+		"cate": "chemical-fiber-nylon"
+	},
+	{
+		"id": "calcium-chloride-dihydrate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "anhydrous-calcium-chloride",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "hpi706-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "hpi496-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "hpi486-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h403p-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h468p-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h458p-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h913c-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h486c-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h480c-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h815-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h457-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h480-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h467-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h658-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h665-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h563-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h539-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h577-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "h566-blended-polyol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "triisopropanolamine",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "ferronickel",
+		"cate": "inorganic-chemicals-elementary-substances"
+	},
+	{
+		"id": "hf-efficient-mortar-foaming-agent-01",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-concrete-additives"
+	},
+	{
+		"id": "calcium-formate-industry-grade",
+		"cate": "organic-chemicals-organic-salts-organic-calcium-salts"
+	},
+	{
+		"id": "hydrochloric-acid",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "sodium-tripolyphosphate-004",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "diisopropanolamine-99",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "2-phosphonobutane-124-tricarboxylic-acid",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acid-derivatives"
+	},
+	{
+		"id": "sodium-hexametaphosphate-003",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "sodium-dihydrogen-phosphate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "trisodium-phosphate-anhydrous",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "monoisopropanolamine",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "citronella-oil",
+		"cate": "plant-extracts-others"
+	},
+	{
+		"id": "sodium-alkyl-benzene-sulfonate-las-80-powder-completely-soluble",
+		"cate": "organic-chemicals-aroma-compounds-others"
+	},
+	{
+		"id": "sodium-alkyl-benzene-sulfonate-las-85-powder-completely-soluble",
+		"cate": "organic-chemicals-aroma-compounds-others"
+	},
+	{
+		"id": "sodium-alkyl-benzene-sulfonate-las-90-powder-completely-soluble",
+		"cate": "organic-chemicals-aroma-compounds-others"
+	},
+	{
+		"id": "calcium-hydroxide",
+		"cate": "inorganic-chemicals-inorganic-bases"
+	},
+	{
+		"id": "powder-sodium-linear-alkyl-benzene-sulfonate",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "sunamul-w-1620sodium-alcohol-ether-sulphate",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "laurylamine",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "linear-alkylbenzenesulphonic-acid",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acid-derivatives"
+	},
+	{
+		"id": "sodium-hydrosulphite-88",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "powder-sodium-linear-alkyl-benzene-sulfonate-01",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "polymethylvinylethermaleic-acid-half-esters-copolymer",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "rjs-1305-dimethiconol-and-cyclomethicone",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "rjs-1205-dimethiconeandcyclopentasiloxane",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "rjs-1301-dimethicone-and-dimethiconol",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "dimethiconolanddimethiconeandcyclomethicone",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "oleic-acid-high-pure",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "sodium-pyrophosphate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "l-malic-acid-001",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "eucalyptus-oil-002",
+		"cate": "plant-extracts-others"
+	},
+	{
+		"id": "enhanced-nipagin-sodium",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "polymethylvinylethermaleic-acidcopolymer",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "sodium-monofluorophosphate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "sodium-carboxymethyl-cellulose-cmc-naindustry-grade",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "sodium-carboxymethyl-cellulose-cmc-nacosmetic-grade",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "vitamin-e",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-phenols"
+	},
+	{
+		"id": "arbutin-002",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-phenols"
+	},
+	{
+		"id": "kojic-acid",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-ketones"
+	},
+	{
+		"id": "kojic-acid-dipalmitate",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-ketones"
+	},
+	{
+		"id": "arbutin-001",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-phenols"
+	},
+	{
+		"id": "rosin-third-grade",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "hydrogenated-oil",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "rosin-super-grade",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "rosin-first-grade",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "rosin-second-grade",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "taurine",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "ethanol-food-grade",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "methyl-p-hydroxybenzoate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "ethyl-p-hydroxybenzoate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "propyl-p-hydroxybenzoate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "butyl-p-hydroxybenzoate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "isopropyl-p-hydroxybenzoate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "sodium-methyl-p-hydroxybenzoate",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "sodium-ethyl-p-hydroxybenzoate",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "sodium-propyl-p-hydroxybenzoate",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "sodium-anisate",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "di-trimethylolpropane",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "propylene-glycol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "dipropylene-glycol-methyl-ether",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-ethers"
+	},
+	{
+		"id": "peppermint-oil-002",
+		"cate": "plant-extracts-others"
+	},
+	{
+		"id": "calcium-propionate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "nisin-from-streptococcus-lactis",
+		"cate": "organic-chemicals-nitrogen-compounds-others"
+	},
+	{
+		"id": "calcium-propionate-01",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "l-cysteine-hydrochloride-anhydrous",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "l-cysteine-hcl-monohydrate",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "caprylic-capric-triglycerride",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "stearic-acid",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "tetra-2-hexyldecanoate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "stearic-acid-01",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "isoborneol-second-grade",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "isoborneol-super-grade",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "isoborneol-first-grade",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "ortho-vanillin",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-aldehydes"
+	},
+	{
+		"id": "glyoxylic-acid-001",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "glyoxylic-acid-002",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "industrial-glycerol-top-grade",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "industrial-glycerol-first-grade",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "industrial-glycerol-second-grade",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "zinc-oxide-cosmetic-grade",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "cosmetic-grade-sericite",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "zinc-oxide-usp-grade",
+		"cate": "inorganic-chemicals-oxides"
+	},
+	{
+		"id": "zinc-stearate",
+		"cate": "organic-chemicals-organic-salts-others"
+	},
+	{
+		"id": "glyceryl-monostearate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "distilled-glycerin-monostearate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "sodium-lauryl-ether-sulphate",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "zinc-stearate-01",
+		"cate": "organic-chemicals-organic-salts-others"
+	},
+	{
+		"id": "sles",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "sles-70-01",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "sodium-carboxymethyl-cellulose-cmc-naoilfield-grade",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "2-acrylamido-2-methylpropane-sulfonic-acid",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "acrylamide-crystal",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "potassium-formate-for-oil-field-industry",
+		"cate": "organic-chemicals-organic-salts-organic-potassium-salts"
+	},
+	{
+		"id": "bishexamethylene-triamine-penta-methylene-phosphonic-acid",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "tetra-sodium-salt-of-amino-trimethylene-phosphonic-acid",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "hepta-sodium-salt-of-diethylene-triamine-penta-methylene-phosphonic-acid",
+		"cate": "organic-chemicals-organic-salts-organic-sodium-salts"
+	},
+	{
+		"id": "carbohydrazide",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "cyclohexylamine",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "methylcyclopentadienyl-manganese-tricarbonyl",
+		"cate": "organic-chemicals-organic-salts-others"
+	},
+	{
+		"id": "non-ionic-polyacrylamide",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "cationic-polyacrylamide",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "anionic-polyacrylamide",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "zwitter-ion-polyacrylamide",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "copper-chromite",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "sodium-alkyl-benzene-sulfonate-las-85-powder-regular",
+		"cate": "organic-chemicals-aroma-compounds-others"
+	},
+	{
+		"id": "diammonium-hydrogenphosphate-electronic-grade",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "ammonium-dihydrogen-phosphate-electronic-grade",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "ironiii-phosphate-dihydrate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "diammonium-hydrogenphosphate-technical-grade",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "hydrofluoric-acid-70",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "anhydrous-hydrofluoric-acid",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "ammonium-bifluoride-98",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "40fluoroboric-acid",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "50fluoroboric-acid",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "potassium-fluorozirconate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "45hexafluorozirconic-acid",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "40hexafluorozirconic-acid",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "45fluoroboric-acid",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "easy-clean-coating-rj-n9026",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkanes"
+	},
+	{
+		"id": "electronic-grade-coating-rj-n9201",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkanes"
+	},
+	{
+		"id": "methyltrichlorosilane",
+		"cate": "organic-chemicals-halides-chlorine-containing-organic-compounds"
+	},
+	{
+		"id": "phosphoric-acid-002",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "potassium-nitrate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "copper-pyrophosphate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "manganous-nitrate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "diaphragm-koh",
+		"cate": "inorganic-chemicals-inorganic-bases"
+	},
+	{
+		"id": "antimony-metal",
+		"cate": "inorganic-chemicals-elementary-substances"
+	},
+	{
+		"id": "potassium-nitrate-powder-52",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "potassium-nitrate-granular-01",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "sodium-fluoroborate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "ammonium-fluoroborate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "potassium-tetrafluoroborate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "acetone",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-ketones"
+	},
+	{
+		"id": "nitric-acid",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "refine-oxalic-acid",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "concentrated-nitric-acid",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "dilute-nitric-acid",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "methylene-fluoride",
+		"cate": "organic-chemicals-halides-fluorine-containing-organic-compounds"
+	},
+	{
+		"id": "camphene-super-grade",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkenes"
+	},
+	{
+		"id": "camphene-first-grade",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkenes"
+	},
+	{
+		"id": "camphene-second-grade",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkenes"
+	},
+	{
+		"id": "isobornyl-acetate-super-grade",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "isobornyl-acetatefirst-grade",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "dipentene-first-grade",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkenes"
+	},
+	{
+		"id": "dipentene-second-grade",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkenes"
+	},
+	{
+		"id": "ethyl-vanillin",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-aldehydes"
+	},
+	{
+		"id": "ethyl-propionate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "ethyl-butyrate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "hexanoic-acid",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "ethyl-caprylate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "tea-tree-oil",
+		"cate": "plant-extracts-others"
+	},
+	{
+		"id": "spearmint-oil",
+		"cate": "plant-extracts-others"
+	},
+	{
+		"id": "eugenol",
+		"cate": "plant-extracts-polyphenols"
+	},
+	{
+		"id": "clove-oil",
+		"cate": "plant-extracts-others"
+	},
+	{
+		"id": "methyl-cyclopentenolone",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-ketones"
+	},
+	{
+		"id": "ethyl-maltol-001",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-ketones"
+	},
+	{
+		"id": "l-leucine-001",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "l-leucine-002",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "beta-pinene-super-grade",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkenes"
+	},
+	{
+		"id": "beta-pinene-first-grade",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkenes"
+	},
+	{
+		"id": "beta-pinene-second-grade",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkenes"
+	},
+	{
+		"id": "alpha-pinene",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkenes"
+	},
+	{
+		"id": "o-aminoanisole",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-ethers"
+	},
+	{
+		"id": "isopropyl-acetate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "benzyl-chloride-001",
+		"cate": "organic-chemicals-aroma-compounds-benzene-series"
+	},
+	{
+		"id": "benzaldehyde",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-aldehydes"
+	},
+	{
+		"id": "benzyl-chloride-002",
+		"cate": "organic-chemicals-aroma-compounds-others"
+	},
+	{
+		"id": "isopropyl-acetate-ipac-01",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "benzaldehyde01",
+		"cate": "organic-intermediates-flavor-fragrance-intermediates"
+	},
+	{
+		"id": "dl-malic-acid",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "lactic-acid",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "phosphoric-acid-001",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "sodium-tripolyphosphate-003",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "sodium-tripolyphosphate-002",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "citric-acid-anhydrous-003",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "citric-acid-anhydrous-002",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "citric-acid-monohydrate-002",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "citric-acid-monohydrate-003",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "citric-acid-monohydrate-001",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "citric-acid-anhydrous-001",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "fumaric-acid-002",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "fumaric-acid-003",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "l-malic-acid-002",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "l-malic-acid-003",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "l-tartaric-acid",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "sodium-citrate-001",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "sodium-lactate-solution-001",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "sodium-citrate-002",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "sodium-bicarbonate-002",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "magnesium-phosphate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "fumaric-acid-cws",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "disodium-fumarate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "monosodium-fumarate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "edta-2na",
+		"cate": "food-feed-additives-food-ingredients-others"
+	},
+	{
+		"id": "dehydroacetic-acid-002",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "sodium-dehydroacetate-002",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sodium-acetate-anhydrous",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "sodium-gluconate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "calcium-citrate-001",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "tripotassium-phosphate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "monosodium-phosphate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "disodium-phosphate-004",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "sodium-propionate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "phosphoric-acid-85-food-grade-001",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "phosphoric-acid-85-food-grade-003",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "sodium-sesquicarbonate-dihydrate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "potassium-acetate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "potassium-metaphosphate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "calcium-sulphate-dihydrate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "sodium-carbonate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "blended-phosphate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "gluconic-acid",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "phosphoric-acid-005",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "sodium-gluconate-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "edta-2na-01",
+		"cate": "food-feed-additives-food-ingredients-others"
+	},
+	{
+		"id": "citric-acid-monohydrate-004",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "citric-acid-anhydrous-004",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "phosphoric-acid-85-food-grade-004",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "caustic-soda-99-flake-01",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "caustic-soda-99-granule-01",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "citric-acid-monohydrate-006",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "citric-acid-anhydrous-005",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "citric-acid-monohydrate-005",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "dipotassium-phosphate",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "disodium-pyrophosphate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "potassium-ferrocyanide-food-grand",
+		"cate": "food-feed-additives-feed-additive-binders-anticaking-agents-and-stabilizers"
+	},
+	{
+		"id": "silicon-dioxide",
+		"cate": "food-feed-additives-feed-additive-binders-anticaking-agents-and-stabilizers"
+	},
+	{
+		"id": "potassium-ferrocyanide-trihyrate",
+		"cate": "food-feed-additives-feed-additive-binders-anticaking-agents-and-stabilizers"
+	},
+	{
+		"id": "magnesium-stearate",
+		"cate": "food-feed-additives-food-ingredients-chewing-gum-bases"
+	},
+	{
+		"id": "microcrystaline-cellulose",
+		"cate": "food-feed-additives-feed-additive-binders-anticaking-agents-and-stabilizers"
+	},
+	{
+		"id": "trisodium-phosphate-anhydrous-food-grade",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "trisodium-phosphate-dodecahydrate-001",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "antifoam",
+		"cate": "food-feed-additives-food-ingredients-antifoaming-agents"
+	},
+	{
+		"id": "sodium-erythorbate",
+		"cate": "food-feed-additives-food-ingredients-antioxidants"
+	},
+	{
+		"id": "erythorbic-acid-001",
+		"cate": "food-feed-additives-food-ingredients-antioxidants"
+	},
+	{
+		"id": "erythorbic-acid-002",
+		"cate": "food-feed-additives-food-ingredients-antioxidants"
+	},
+	{
+		"id": "green-tea-extracttp98egeg45",
+		"cate": "plant-extracts-others"
+	},
+	{
+		"id": "sodium-trimetaphosphate",
+		"cate": "food-feed-additives-food-ingredients-antioxidants"
+	},
+	{
+		"id": "d-isoascorbic-acid",
+		"cate": "food-feed-additives-food-ingredients-antioxidants"
+	},
+	{
+		"id": "phytic-acid-dodecasodium-from-rice",
+		"cate": "food-feed-additives-food-ingredients-antioxidants"
+	},
+	{
+		"id": "tea-polyphenols",
+		"cate": "plant-extracts-polyphenols"
+	},
+	{
+		"id": "tert-butylhydroquinone",
+		"cate": "food-feed-additives-food-ingredients-antioxidants"
+	},
+	{
+		"id": "phytic-acid",
+		"cate": "food-feed-additives-food-ingredients-antioxidants"
+	},
+	{
+		"id": "ascorbyl-palmitate",
+		"cate": "food-feed-additives-food-ingredients-antioxidants"
+	},
+	{
+		"id": "sodium-erythorbate-002",
+		"cate": "food-feed-additives-food-ingredients-antioxidants"
+	},
+	{
+		"id": "sodium-metabisulfite",
+		"cate": "food-feed-additives-food-ingredients-bleaching-agents"
+	},
+	{
+		"id": "sodium-sulfite",
+		"cate": "food-feed-additives-food-ingredients-bleaching-agents"
+	},
+	{
+		"id": "sodium-hydrosulfite",
+		"cate": "food-feed-additives-food-ingredients-bleaching-agents"
+	},
+	{
+		"id": "potassium-phosphate-monobasic-food-grade",
+		"cate": "food-feed-additives-food-ingredients-bulking-agents"
+	},
+	{
+		"id": "sodium-bicarbonate-001",
+		"cate": "food-feed-additives-food-ingredients-bulking-agents"
+	},
+	{
+		"id": "porpylene-glycol-fatty-acid-ester",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "calcium-l-lactate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "potassium-bitartrate",
+		"cate": "food-feed-additives-food-ingredients-bulking-agents"
+	},
+	{
+		"id": "potassium-bicarbonate",
+		"cate": "food-feed-additives-food-ingredients-bulking-agents"
+	},
+	{
+		"id": "calcium-carbonate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "aluminium-ammonium-sulphate",
+		"cate": "food-feed-additives-food-ingredients-bulking-agents"
+	},
+	{
+		"id": "calcium-acid-pyrophosphate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "sodium-aluminium-phosphate",
+		"cate": "food-feed-additives-food-ingredients-bulking-agents"
+	},
+	{
+		"id": "diammonium-phosphate",
+		"cate": "food-feed-additives-food-ingredients-bulking-agents"
+	},
+	{
+		"id": "heavy-calcium-carbonate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "baking-powder",
+		"cate": "food-feed-additives-food-ingredients-bulking-agents"
+	},
+	{
+		"id": "biological-calcium-carbonate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "polyviny-acetate",
+		"cate": "food-feed-additives-food-ingredients-chewing-gum-bases"
+	},
+	{
+		"id": "maltodextrin-003",
+		"cate": "food-feed-additives-food-ingredients-coating-agents"
+	},
+	{
+		"id": "titanium-dioxide-food-grade",
+		"cate": "food-feed-additives-food-ingredients-coating-agents"
+	},
+	{
+		"id": "shellac",
+		"cate": "food-feed-additives-food-ingredients-coating-agents"
+	},
+	{
+		"id": "paraffin",
+		"cate": "food-feed-additives-food-ingredients-coating-agents"
+	},
+	{
+		"id": "morpholine-fatty-acid-salt",
+		"cate": "food-feed-additives-food-ingredients-coating-agents"
+	},
+	{
+		"id": "monascus-red",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "maltodextrin-004",
+		"cate": "food-feed-additives-food-ingredients-coating-agents"
+	},
+	{
+		"id": "maltodextrin-de-10-12",
+		"cate": "food-feed-additives-food-ingredients-coating-agents"
+	},
+	{
+		"id": "sodium-nitrite",
+		"cate": "food-feed-additives-food-ingredients-colour-retention-agents"
+	},
+	{
+		"id": "potassium-nitrite",
+		"cate": "food-feed-additives-food-ingredients-colour-retention-agents"
+	},
+	{
+		"id": "sodium-nitrite001",
+		"cate": "food-feed-additives-food-ingredients-colour-retention-agents"
+	},
+	{
+		"id": "sodium-nitrite-01",
+		"cate": "food-feed-additives-food-ingredients-colour-retention-agents"
+	},
+	{
+		"id": "sodium-hydrogen-phosphate-dodecahydrate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "tetrapotassium-pyrophosphate-food-grade",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "sodium-dihydrogen-phosphate-anhydrous-food-grade",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "sodium-hydrogen-phosphate-anhydrous-food-grade",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "sodium-dihydrogen-phosphate-dihydrate-food-grade",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "humectants",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "soy-protein-isolate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "disodium-phosphate-003",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "distilled-monoglyceride",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "pea-protein-80",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "tetrasodium-pyrophosphate-003",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "potassium-pyrophosphate-001",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "polyglycerol-esters-of-fatty-acids",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "glycerol-monolaurate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "monostearin",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "mono-sodium-phosphate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "diphosphoric-acid-trisodium-salt",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "sodium-pyrophosphate-food-grade",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "diacetyl-tartaric-acid-ester-of-monodiglycerides",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "sorbitan-monolaurate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "sorbitan-monopalmitate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "tween-60",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "tween-80",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "potassium-pyrophosphate-002",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "potassium-pyrophosphate-003",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "potassium-hydroxide",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "pea-fiber",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "polysorbate-20",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "polysorbate-40",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "distilled-glycerol-monolaurate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "brown-dextrin",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "diacetyl-tartaric-acid-esters-of-mono-and-diglycerides",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "sorbitan-trioleate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "polysorbate-81",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "polysorbate-61",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "polysorbate-21",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "potassium-stearate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "sodium-stearoyl-lactylate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "starch-sodium-octenylsuccinate",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "sorbitan-tristearate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "polysorbate-85",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "polysorbate-65",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "sorbitan-sesquioleate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "calcium-stearoyl-lactylate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "polyglycerol-polyricinoleate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "nottokinase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "papain",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "amylase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "pectinase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "bacterial-amylase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "pullulanase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "cellulase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "beta-amylase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "gluco-amylase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "lactase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "transglutaminase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "lipase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "xylanase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "glucose-oxidase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "complex-glucoamylase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "neutral-protease",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "acetolactate-decarboxylase",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "acid-protease",
+		"cate": "food-feed-additives-food-ingredients-enzyme-preparations"
+	},
+	{
+		"id": "l-lysine-sulphate-feed-grade",
+		"cate": "food-feed-additives-feed-additive-amino-acids-peptides"
+	},
+	{
+		"id": "l-valine-feed-grade",
+		"cate": "food-feed-additives-feed-additive-amino-acids-peptides"
+	},
+	{
+		"id": "corn-gluten-meal-feed-grade",
+		"cate": "food-feed-additives-feed-additive-amino-acids-peptides"
+	},
+	{
+		"id": "fermented-soybean-meal-a48",
+		"cate": "food-feed-additives-feed-additive-amino-acids-peptides"
+	},
+	{
+		"id": "fermented-soybean-meal-a50",
+		"cate": "food-feed-additives-feed-additive-amino-acids-peptides"
+	},
+	{
+		"id": "monoammonium-phosphate",
+		"cate": "food-feed-additives-feed-additive-non-protein-nitrogen"
+	},
+	{
+		"id": "vitamin-b1-003",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-lysine-hydrochloride-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-alanine",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "potassium-dihydrogen-phosphate",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "maltol-002",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "maltol-001",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "monosodium-glutamate-002",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "disodium-5-ribonucleotide",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "monosodium-glutamate-001",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "ketchup",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "vanillin-002",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "sodium-lactate-solution-002",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "vanillin-003",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "maltol-003",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "ethyl-maltol-002",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "aacetyl-hydroxyl-butyric-acid",
+		"cate": "organic-intermediates-flavor-fragrance-intermediates"
+	},
+	{
+		"id": "sorbitan-monostearate",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "cocoa-broken-kernel",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "alkalized-cocoa-powder",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "natural-cocoa-powder",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "dextrose-monohydrate-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-glutamic-acid",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "potassium-triphosphate-001",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "white-onion-powder",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "white-onion-flake",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "yellow-onion-flake",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "red-bell-pepper-granular",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "green-bell-pepper-granular",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "garlic-granular",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "garlic-flake-with-roots",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "maleic-acid",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "green-sliced-jalapinos",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "canned-tomato-paste",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "soy-sauce-powder",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "disodium-succinate",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "ammonium-chloride",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "isoamyl-alcohol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "monosodium-glutamate-003",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "dextrose-monohydrate-003",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "monosodium-glutamate-004",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "dextrose-monohydrate-004",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "2-naphthol",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "paprika-oleoresin",
+		"cate": "flavour-fragrance-spices-flora-natural-perfume"
+	},
+	{
+		"id": "geraniol",
+		"cate": "flavour-fragrance-spices-flora-natural-perfume"
+	},
+	{
+		"id": "butyl-butyrate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "benzyl-salicylate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "dimethylurea",
+		"cate": "organic-chemicals-nitrogen-compounds-oximes-and-ureas"
+	},
+	{
+		"id": "methyl-cedryl-ketone",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "cedryl-acetate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "linalool",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "delta-decalactone",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "alpha-terpineol",
+		"cate": "flavour-fragrance-flavors-and-essences-oil-soluble-flavors"
+	},
+	{
+		"id": "furanone",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "acetoin",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "dodecalactone",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "diacetyl",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "cinnamic-alcohol",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "capsicum-oleoresin",
+		"cate": "flavour-fragrance-spices-flora-natural-perfume"
+	},
+	{
+		"id": "menthol-crystals",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "benzyl-acetate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "benzyl-benzoate001",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "phenyl-ethyl-alcohol",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "methyl-cinnamate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "terpineol",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "anisaldehyde",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "methyl-anthranilate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "patchouli-oil",
+		"cate": "flavour-fragrance-flavors-and-essences-oil-soluble-flavors"
+	},
+	{
+		"id": "lactisole",
+		"cate": "flavour-fragrance-spices-flora-natural-perfume"
+	},
+	{
+		"id": "isovaleral",
+		"cate": "flavour-fragrance-spices-flora-natural-perfume"
+	},
+	{
+		"id": "isopentyl-salicylate",
+		"cate": "flavour-fragrance-flavors-and-essences-water-soluble-flavors"
+	},
+	{
+		"id": "isoamyl-butyrate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "indole",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "ethyl-isovalerate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "ethyl-caproate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "diprophylline",
+		"cate": "pharmaceuticals-and-biochemicals-api-respiratory-system"
+	},
+	{
+		"id": "dipentene",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "dihydrocoumarin",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "vanillin-isobutyrate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "terpinyl-acetate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "styrallyl-acetate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "coumarin",
+		"cate": "flavour-fragrance-spices-flora-natural-perfume"
+	},
+	{
+		"id": "styrallyl-propionate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "strawberry-aldehyde",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "citronellol",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "sandenol",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "rosalin",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "cedryl-methyl-ether",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "cedrol",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "raspberry-ketone",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "pine-oil",
+		"cate": "flavour-fragrance-flavors-and-essences-oil-soluble-flavors"
+	},
+	{
+		"id": "phenyl-ethyl-acetate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "phenyl-acetaldehyde",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "myrtenol",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "myrac-aldehyde",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "musk-ambrette",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "methyl-phenyl-carbinol",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "melonal",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "3-nitrobenzoic-acid",
+		"cate": "organic-chemicals-nitrogen-compounds-nitro-compounds"
+	},
+	{
+		"id": "longifolene",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "5-inosine-acid-disodium",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "vital-wheat-gluten-003",
+		"cate": "food-feed-additives-food-ingredients-flour-treatment-agents"
+	},
+	{
+		"id": "vital-wheat-gluten-001",
+		"cate": "food-feed-additives-food-ingredients-flour-treatment-agents"
+	},
+	{
+		"id": "magnesium-carbonate",
+		"cate": "food-feed-additives-food-ingredients-flour-treatment-agents"
+	},
+	{
+		"id": "vital-wheat-gluten-005",
+		"cate": "food-feed-additives-food-ingredients-flour-treatment-agents"
+	},
+	{
+		"id": "bread-improver",
+		"cate": "food-feed-additives-food-ingredients-flour-treatment-agents"
+	},
+	{
+		"id": "vital-wheat-gluten-004",
+		"cate": "food-feed-additives-food-ingredients-flour-treatment-agents"
+	},
+	{
+		"id": "vital-wheat-gluten-006",
+		"cate": "food-feed-additives-food-ingredients-flour-treatment-agents"
+	},
+	{
+		"id": "safflower-yellow",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "amaranth",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "carmine",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "caramel-color",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "chlorophyllin-copper-complex-sodium-salt",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "gardenia-yellow",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "grape-skin-red",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "vegetable-carbon-black",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "red-cabbage-color",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "gardenia-blue",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "cochineal",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "monascus-yellow",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "red-rice-red",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "carthamus-yellow",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "purple-sweet-potato-color",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "spirulina-blue",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "radish-red-color",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "lac-dye-red",
+		"cate": "food-feed-additives-food-ingredients-food-colorants"
+	},
+	{
+		"id": "trisodium-phosphate-dodecahydrate-food-grade",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "potassium-triphosphate-002",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "sodium-acid-pyrophosphate-001",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "sodium-acid-pyrophosphate-002",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "disodium-phosphate-001",
+		"cate": "food-feed-additives-food-ingredients-others"
+	},
+	{
+		"id": "disodium-phosphate-002",
+		"cate": "food-feed-additives-food-ingredients-others"
+	},
+	{
+		"id": "tetrasodium-pyrophosphate-001",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "sorbitol-002",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "trisodium-phosphate-dodecahydrate-002",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "compound-humectants",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "potassium-lactate",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "sodium-tripolyphosphate-005",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "sodium-tripolyphosphate-001",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "sodium-tripolyphosphate-006",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "sodium-tripolyphosphate-007",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "sodium-tripolyphosphate-008",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "ascorbic-acid-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "vitamin-b6",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "d-calcium-pantothenate-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "d-calcium-pantothenate-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "sodium-caseinate-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "sodium-caseinate-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-aspartic-acid-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-tryptophan-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-valine",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-lysine",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-carnitine-l-tartrate",
+		"cate": "food-feed-additives-feed-additive-amino-acids-peptides"
+	},
+	{
+		"id": "l-hydrotyproline",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "lactose",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "l-lysine-hydrochloride-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-threonine-003",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-tryptophan-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "maltodextrin-002",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "l-lysine-hcl",
+		"cate": "food-feed-additives-feed-additive-amino-acids-peptides"
+	},
+	{
+		"id": "glycine-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "glycine-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-arginine-hcl-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-arginine-hcl-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-cysteine-hcl-anhydrous-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-glutamine-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-glutamine-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-methionine-001",
+		"cate": "food-feed-additives-feed-additive-amino-acids-peptides"
+	},
+	{
+		"id": "l-methionine-002",
+		"cate": "food-feed-additives-feed-additive-amino-acids-peptides"
+	},
+	{
+		"id": "l-threonine-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-cysteine-hcl-anhydrous-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-threonine-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "dihydrocalcium-phosphate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "pea-protein",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "calcium-hydrogen-phosphate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "tricalcium-phosphate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "pea-dietary-fiber",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "konjac-gum-kj-30",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-gum-kj-22",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-gum-kp-30",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-fine-flour-km15",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-fine-flour-km8",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-fine-flour-km5",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-fine-flour-kf15",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-fine-flour-km3",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-fine-flour-kf12",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-fine-flour-kf3",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-fine-flour-kf6",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "riboflavin-5-phosphate-sodium",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "natamycin-002",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "disodium-hydrogenphosphate-dihydrate",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "first-pressing-pure-cocoa-butter-butter",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "pea-starch",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "deodorized-cocoa-butter-butter",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "non-dairy-creamer",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "dextrose-anhydrous",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "corn-gluten-meal",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "glucose-syrup",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "corn-starch",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "disodium-succinate-hexahydrate",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "l-arginine-hydrochloride",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "dl-methionine",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "dicalcium-phosphate-anhydrous",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "tri-magnesium-phosphate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "white-onion-granular",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "calcium-citrate-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "potassium-citrate",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "magnesium-citrate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "trisodium-citrate-dihydrate",
+		"cate": "food-feed-additives-food-ingredients-stabilizers-coagulators"
+	},
+	{
+		"id": "zinc-citrate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "tomato-granular",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "garlic-powder",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "potassium-chloride",
+		"cate": "agrochemicals-fertilizers-potassium-fertilizers"
+	},
+	{
+		"id": "sodium-diacetate",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "monocalcium-phosphate-anhydrous",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "sodium-ascorbate-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-aspartic-acid-003",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "rice-protein-80",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "folic-acid",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "calcium-gluconate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-threonic-acid-calcium-salt",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "zinc-sulphate",
+		"cate": "food-feed-additives-feed-additive-minerals-and-their-chelates"
+	},
+	{
+		"id": "vitamin-d3",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "magnesium-sulfate",
+		"cate": "food-feed-additives-feed-additive-minerals-and-their-chelates"
+	},
+	{
+		"id": "l-cysteine-base",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "ferric-ammonium-citrate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "edta-fena",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "calcium-citrate-malate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "vitamin-e-acetate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "ferrous-lactate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "calcium-glycinate",
+		"cate": "food-feed-additives-feed-additive-amino-acids-peptides"
+	},
+	{
+		"id": "potassium-gluconate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "zinc-glycinate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "ammonium-sulfate",
+		"cate": "agrochemicals-fertilizers-nitrogen-fertilizers"
+	},
+	{
+		"id": "phytosterol",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "d-alpha-tocopheryl-succinate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "d-alpha-tocopheryl-acetate",
+		"cate": "food-feed-additives-feed-additive-vitamins"
+	},
+	{
+		"id": "mixed-tocopherol",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "calcium-acetate",
+		"cate": "food-feed-additives-food-ingredients-stabilizers-coagulators"
+	},
+	{
+		"id": "betaine-anhydrous",
+		"cate": "food-feed-additives-feed-additive-vitamins"
+	},
+	{
+		"id": "hyaluronic-acid",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "concentrated-soy-protein",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "cobalt-gluconate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "sialic-acid",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "branched-chain-amino-acid",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "lithium-gluconate",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "ferrous-sulfate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "docosahexaenoic-acid",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "ferrous-gluconate-hydrate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "ascorbic-acid-003",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "ascorbic-acid-004",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "ascorbic-acid-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "ascorbic-acid-005",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "glycine-01",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "trisodium-citrate-01",
+		"cate": "food-feed-additives-food-ingredients-stabilizers-coagulators"
+	},
+	{
+		"id": "ascorbic-acid-02",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "glycine-02",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "calcium-hydroxide001",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "l-potassium-sodium-tartrate",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "methanthiol",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "piperonyl-butoxide",
+		"cate": "agrochemicals-pesticides-insecticides"
+	},
+	{
+		"id": "sodium-hyaluronate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "ammonium-lactate-solution",
+		"cate": "pharmaceuticals-and-biochemicals-api-skin"
+	},
+	{
+		"id": "dried-malt-extract",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-aspartate-sodium",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "natamycin-003",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sodium-benzoate-powder-001",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "l-sodium-lactate-001",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "l-sodium-lactate-002",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sorbic-acid-001",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sodium-hexametaphosphate-002",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "sodium-hexametaphosphate-001",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "sorbic-acid-002",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "natamycin-001",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "e-2-butenedioic-acid-dimethyl-ester",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "nisin",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "dehydroacetic-acid-001",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sodium-dehydroacetate-001",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sodium-ascorbate-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "methyl-o-benzoylbenzoate",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "isobutyl-p-hydroxybenzoate",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sodium-butyl-p-hydroxybenzoate",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "butylated-hydroxytoluene",
+		"cate": "food-feed-additives-food-ingredients-antioxidants"
+	},
+	{
+		"id": "potassium-metabisulfite",
+		"cate": "food-feed-additives-food-ingredients-antioxidants"
+	},
+	{
+		"id": "calcium-peroxide",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sodium-hypochlorite",
+		"cate": "food-feed-additives-food-ingredients-bleaching-agents"
+	},
+	{
+		"id": "potassium-sorbate-001",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "ammonium-acetate",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "edta-cana2",
+		"cate": "agrochemicals-fertilizers-trace-element-fertilizers"
+	},
+	{
+		"id": "benzoic-acid",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "cinnamic-aldehyde",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "benzyl-alcohol002",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sodium-benzoate-powder001",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "chitosan",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "polylysine-001",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "potassiun-sorbate-powder-001",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sodium-hexametaphosphate-004",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "potassium-sorbate",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sodium-benzoate002-001",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sodium-benzoate-001",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sodium-benzoate",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "sodium-benzoate-powder-003",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "potassiun-sorbate-powder-002",
+		"cate": "food-feed-additives-food-ingredients-preservatives"
+	},
+	{
+		"id": "polyvinylpolypyrrolidone-cross-linked-001",
+		"cate": "food-feed-additives-food-ingredients-coating-agents"
+	},
+	{
+		"id": "polyvinylpolypyrrolidone-cross-linked-002",
+		"cate": "food-feed-additives-food-ingredients-coating-agents"
+	},
+	{
+		"id": "tetrasodium-pyrophosphate-002",
+		"cate": "food-feed-additives-food-ingredients-emulsifiers"
+	},
+	{
+		"id": "glucono-delta-lactone",
+		"cate": "food-feed-additives-food-ingredients-stabilizers-coagulators"
+	},
+	{
+		"id": "magnesium-chloride-hexahydrate",
+		"cate": "food-feed-additives-food-ingredients-stabilizers-coagulators"
+	},
+	{
+		"id": "sucralose",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "acesulfame-k-002",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "aspartame-002",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "xylitol",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "d-ribose-002",
+		"cate": "plant-extracts-glycosides"
+	},
+	{
+		"id": "trehalose-dihydrate",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "acesulfame-k-001",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "aspartame-001",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "sodium-saccharin-002",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "sorbitol-001",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "sodium-cyclamate-001",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "sodium-saccharin-001",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "sodium-cyclamate-002",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "saccharin",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "spray-dried-sodium-saccharin",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "d-ribose-001",
+		"cate": "plant-extracts-glycosides"
+	},
+	{
+		"id": "stevioside",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "l-arabinose",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "sucralose-001",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "fructose",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "neohesperidin-dihydrochalcone",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "neotame",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "maltitol-syrup",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "erythritol",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "isomalto-oligosaccharide",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "polydextrose-fiber-iii",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "polydextrose-fiber-ii",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "polydextrose-fiber-i",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "isomaltulose",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "mannitol",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "betaine-hcl",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "liquid-malt-extract",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "high-fructose-corn-syrup",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "fructo-oligosaccharide",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "sucralose-003",
+		"cate": "food-feed-additives-food-ingredients-sweeteners"
+	},
+	{
+		"id": "glycerol-998-01",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "xanthan-gum-003",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "carrageenan-002",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "carrageenan-001",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "vital-wheat-gluten-002",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "maltodextrin-001",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "xanthan-gum-002",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-powder-001",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-powder-002",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-gum-001",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "konjac-gum-002",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "gelatin-001",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "gellan-gum-001",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "gelatin-002",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "gellan-gum-002",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "pectin",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "carboxyl-methyl-cellulose-001",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "carboxyl-methyl-cellulose-002",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "sodium-carboxymethyl-cellulose-cmc-na-food-grade",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "polydextrose",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "beta-cyclodextrin",
+		"cate": "food-feed-additives-food-ingredients-stabilizers-coagulators"
+	},
+	{
+		"id": "calcium-alginate",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "guar-gum",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "propylene-glycol-alginate",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "hydroxypropyl-methylcellulose",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "potassium-alginate",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "sodium-alginate",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "jelly-powder",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "xanthan-gum-004",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "xanthan-gum-001",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "xanthan-gum-005",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "xanthan-gum-006",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "xanthan-gum-007",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "xanthan-gum-008",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "xanthan-gum-009",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "xanthan-gum-oil-grade-80-mesh",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "xanthan-gum-40-mesh-01",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "xanthan-gum-40-mesh-02",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "melamine-002",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "matting-agent-for-leather-coating",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
+	},
+	{
+		"id": "polyphosphoric-acids",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "melamine-001",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "sodium-formate-001",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "sodium-hydrosulfide",
+		"cate": "dyes-and-pigments-dyes-sulphur-dyes"
+	},
+	{
+		"id": "sodium-sulphide",
+		"cate": "organic-intermediates-dyestuff-intermediates"
+	},
+	{
+		"id": "melamine-003",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "soudium-hydrosulfide",
+		"cate": "dyes-and-pigments-dyes-sulphur-dyes"
+	},
+	{
+		"id": "sodium-formate-002",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "grannular-sodium-formate",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "sodium-formate-industrial-grade",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "melamine-004",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "modified-glutaraldehyde",
+		"cate": "organic-intermediates-dyestuff-intermediates"
+	},
+	{
+		"id": "sodium-formate-003",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "glutaraldehyde-industrial-grade",
+		"cate": "paint-and-coatings-paints"
+	},
+	{
+		"id": "glutaraldehyde-low-methanol-grade",
+		"cate": "paint-and-coatings-paints"
+	},
+	{
+		"id": "glutaraldehyde-for-leather-tanning",
+		"cate": "paint-and-coatings-paints"
+	},
+	{
+		"id": "melamine-005",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "l-serine",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-arginine",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-tyrosine",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "erythromycin-thiocyanate",
+		"cate": "pharmaceuticals-and-biochemicals-api-others"
+	},
+	{
+		"id": "azithromycin",
+		"cate": "pharmaceuticals-and-biochemicals-api-others"
+	},
+	{
+		"id": "glacial-acetic-acid-001",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "glacial-acetic-acid-002",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "metronidazole",
+		"cate": "pharmaceuticals-and-biochemicals-api-antiparasitic"
+	},
+	{
+		"id": "trimethoprim",
+		"cate": "pharmaceuticals-and-biochemicals-api-anti-inflammatory-drugs"
+	},
+	{
+		"id": "povidone-iodine",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "thymol",
+		"cate": "pharmaceuticals-and-biochemicals-api-skin"
+	},
+	{
+		"id": "magnolol",
+		"cate": "plant-extracts-polyphenols"
+	},
+	{
+		"id": "glutaraldehyde-sterilizing-agent",
+		"cate": "pharmaceuticals-and-biochemicals-api-others"
+	},
+	{
+		"id": "sodium-permanganate-aqueous-solution",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "nicotinamide",
+		"cate": "pharmaceuticals-and-biochemicals-api-skin"
+	},
+	{
+		"id": "l-asparagine-monohydrate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-histidine",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-histidine-dihydrochloride",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-carnitine",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "inosine",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "glucosedextrose",
+		"cate": "pharmaceuticals-and-biochemicals-api-others"
+	},
+	{
+		"id": "glucose-002",
+		"cate": "pharmaceuticals-and-biochemicals-api-others"
+	},
+	{
+		"id": "glucose-001",
+		"cate": "pharmaceuticals-and-biochemicals-api-others"
+	},
+	{
+		"id": "erythromycin",
+		"cate": "pharmaceuticals-and-biochemicals-api-others"
+	},
+	{
+		"id": "2-ethoxy-34-dihydro-2h-pyran",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "2-pyrrolidone",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "34-dihydro-2-methoxy-2h-pyran",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "3-chloro-2-hydrazinopyridine",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "3-cyclohexen-carboxylic-acid",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "3-cyclohexene-1-carboxylic-acid-3-cyclohexene-1-ylmethyl-ester",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "3-cyclohexene-1-methanol",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "acetic-anhydride",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "acetyl-chloride",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "acetyl-ketene",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "acrolein-diethyl-acetal",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "acrolein-dimethyl-acetal",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "adenosine",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "adipic-acid-01",
+		"cate": "rubber-raw-materials-plastics-raw-materials-engineering-plastics-raw-material"
+	},
+	{
+		"id": "adipic-acid-02",
+		"cate": "rubber-raw-materials-plastics-raw-materials-engineering-plastics-raw-material"
+	},
+	{
+		"id": "aneurine-hydrochloride-vb1",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "artemisinin",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-biological-products"
+	},
+	{
+		"id": "baicalin",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "belladonna-liquid-extract",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "borneol-api",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "borneol-first-grade",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "borneol-second-grade",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "camphor-syn-second-grade",
+		"cate": "pharmaceuticals-and-biochemicals-api-nervous-system-brain"
+	},
+	{
+		"id": "camphor-syn-epgmp",
+		"cate": "pharmaceuticals-and-biochemicals-api-nervous-system-brain"
+	},
+	{
+		"id": "camphor-syn-usp",
+		"cate": "pharmaceuticals-and-biochemicals-api-nervous-system-brain"
+	},
+	{
+		"id": "camphor-syn-cp",
+		"cate": "pharmaceuticals-and-biochemicals-api-nervous-system-brain"
+	},
+	{
+		"id": "camphor-syn-dab-10",
+		"cate": "pharmaceuticals-and-biochemicals-api-nervous-system-brain"
+	},
+	{
+		"id": "camphor-syn-dab-6",
+		"cate": "pharmaceuticals-and-biochemicals-api-nervous-system-brain"
+	},
+	{
+		"id": "camphor-syn-dab-8",
+		"cate": "pharmaceuticals-and-biochemicals-api-nervous-system-brain"
+	},
+	{
+		"id": "camphor-syn-epbp",
+		"cate": "pharmaceuticals-and-biochemicals-api-nervous-system-brain"
+	},
+	{
+		"id": "camphor-syn-first-grade",
+		"cate": "pharmaceuticals-and-biochemicals-api-nervous-system-brain"
+	},
+	{
+		"id": "camphor-syn-jp",
+		"cate": "pharmaceuticals-and-biochemicals-api-nervous-system-brain"
+	},
+	{
+		"id": "caprolactam",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "carbasalate-calcium",
+		"cate": "pharmaceuticals-and-biochemicals-api-nervous-system-brain"
+	},
+	{
+		"id": "ceftriaxone-sodium",
+		"cate": "pharmaceuticals-and-biochemicals-api-respiratory-system"
+	},
+	{
+		"id": "chloroacetic-acid",
+		"cate": "organic-intermediates-agrochemical-intermediates"
+	},
+	{
+		"id": "cimetidine-ab",
+		"cate": "pharmaceuticals-and-biochemicals-api-digestive-system"
+	},
+	{
+		"id": "cinnamon-oil",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "copovidone",
+		"cate": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-coating-substance"
+	},
+	{
+		"id": "crosslinked-polyvinlypyrrolidone",
+		"cate": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-solubilizer"
+	},
+	{
+		"id": "diethylene-glycol-dimethyl-ether",
+		"cate": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-solubilizer"
+	},
+	{
+		"id": "dl-alanine",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "doxycycline-hcl",
+		"cate": "pharmaceuticals-and-biochemicals-api-respiratory-system"
+	},
+	{
+		"id": "d-xylose",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "ethyl-cellulose-001",
+		"cate": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-coating-substance"
+	},
+	{
+		"id": "ethyl-cellulose-002",
+		"cate": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-coating-substance"
+	},
+	{
+		"id": "ethyl-l-thiazolidine-4-carboxylate-hydrochloride",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "ethyl-vinyl-ether",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "ethylene-diamine-tetra-methylene-phosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "eucalyptus-oil-001",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "extractum-glycyrrhizae",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "ferrous-fumarate-001",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "ferrous-fumarate-002",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "fumaric-acid-001",
+		"cate": "food-feed-additives-food-ingredients-acidity-regulators"
+	},
+	{
+		"id": "garlic-oil",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "ginger-oil",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "glycerol-pharmaceutical",
+		"cate": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-solubilizer"
+	},
+	{
+		"id": "grape-seed-extractopc95",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "guaiacol",
+		"cate": "pharmaceuticals-and-biochemicals-api-respiratory-system"
+	},
+	{
+		"id": "guanosine",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "hexafluoropropylene",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "honeysuckle-extract",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "hydroxypropyl-methyl-cellulose-pharmaceutical",
+		"cate": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-coating-substance"
+	},
+	{
+		"id": "inositol",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-ornithine-hydrochloride",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-aspartic-acid-002",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-carnitine-hydrochloride",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-citrulline",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-cysteine",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-cystine",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-glutamine-003",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-glutamine-usp-grade",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "liquid-ammonia",
+		"cate": "inorganic-chemicals-others"
+	},
+	{
+		"id": "l-isoleucine",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-isoleucine-pharmaceutical-grade",
+		"cate": "pharmaceuticals-and-biochemicals-api-digestive-system"
+	},
+	{
+		"id": "l-phenylalanine",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-proline",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "l-proline-pharmaceutical-grade",
+		"cate": "pharmaceuticals-and-biochemicals-api-digestive-system"
+	},
+	{
+		"id": "l-valine-pharmaceutical-grade",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "menthol-001",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "menthol-002",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "menthyl-lactate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "methyldopa",
+		"cate": "pharmaceuticals-and-biochemicals-api-circulatory-system"
+	},
+	{
+		"id": "m-nitrochlorobenzene",
+		"cate": "organic-chemicals-aroma-compounds-benzene-series"
+	},
+	{
+		"id": "monomethylamine",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "monomethylamine-40",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "dmac",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "dmac-01",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "nn-dimethylaminoacrylaldehyde",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-aldehydes"
+	},
+	{
+		"id": "dmf",
+		"cate": "organic-chemicals-nitrogen-compounds-others"
+	},
+	{
+		"id": "n-acetyl-dl-tryptophan",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "n-acetyl-l-cysteine",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "nicotinic-acid",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "oleanolic-acid",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "o-nitrochlorobenzene",
+		"cate": "organic-chemicals-aroma-compounds-benzene-series"
+	},
+	{
+		"id": "oxalic-acid",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "oxalic-acid-01",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "paeonal",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "para-cymene",
+		"cate": "organic-chemicals-aroma-compounds-benzene-series"
+	},
+	{
+		"id": "paracetamol",
+		"cate": "pharmaceuticals-and-biochemicals-api-circulatory-system"
+	},
+	{
+		"id": "paraldehyde",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "peppermint-oil-001",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "pharmaceutical-barium-sulfate",
+		"cate": "pharmaceuticals-and-biochemicals-api-digestive-system"
+	},
+	{
+		"id": "p-hydroxybenzoic-acid",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "p-methoxybenzoic-acid",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "p-nitrochlorobenzene",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "polyvinylpyrrolidone",
+		"cate": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-coating-substance"
+	},
+	{
+		"id": "pullulan",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "pyrimidine",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "s-methyl-l-cysteine",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "starch",
+		"cate": "food-feed-additives-food-ingredients-thickeners"
+	},
+	{
+		"id": "succinic-anhydride-01",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "succinic-anhydride-02",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "thiocarbamide",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "trimethyl-phosphate-tmp",
+		"cate": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-solubilizer"
+	},
+	{
+		"id": "ursolic-acid",
+		"cate": "pharmaceuticals-and-biochemicals-herbal-extracts-biological-products-herbal-extract"
+	},
+	{
+		"id": "vanillin-001",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "vanillin-004",
+		"cate": "food-feed-additives-food-ingredients-flavour-enhancers"
+	},
+	{
+		"id": "vitamin-a-acetate-002",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "vitamin-a-acetate-001",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "vitamin-a-acetate-crytal-powder",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "vitamin-a-acetate-powder",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "vitamin-a-palmitate",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "vitamin-a-palmitate-powder",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "vitamin-b1-001",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "vitamin-b1-002",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "vitamin-b2-001",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "vitamin-b2-002",
+		"cate": "pharmaceuticals-and-biochemicals-api-vitamins-minerals"
+	},
+	{
+		"id": "zinc-gluconate",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "alanine",
+		"cate": "food-feed-additives-food-ingredients-nutrition-enhancers"
+	},
+	{
+		"id": "butyrolactonegbl",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "16-hexanediol-diacrylate-hdda",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "2-ethylhexyl-acrylate-001",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "2-ethylhexyl-acrylate-002",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "butyl-acrylate-001",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "butyl-acrylate-002",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "dipropylene-glycol-diacrylate-dpgda",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "eo3-tmpta",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "ethoxy-ethoxyethyl-acrylate-eoeoea",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "ethyl-acrylate-001",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "ethyl-acrylate-002",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "glacial-acrylic-acid",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "glacial-acrylic-acid-gaa",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "hydroxyethyl-acrylatehea",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "hydroxyethyl-methylacrylate",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "hydroxypropyl-acrylate",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "methyl-acrylate",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "methyl-acrylate-ma",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "neopentyl-glycol-diacrylate-npgda",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "pentaerythritol-triacrylate-peta",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "phthalate-diethylene-glycol-diacrylate-pdda",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "propoxylated-neopentyl-glycol-diacrylatepo2-npgda",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "pure-acrylic-latex",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "silicone-acrylic-emulsion-xl-788",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "styrene-acrylic-latex-001",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-ar931",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "trimethylolpropane-triacrylate-tmpta",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "trimethylolpropane-trimethacrylate-tmptma",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "tripropylene-glycol-diacrylate-tpgda",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "vinyl-acetate-acrylic-emulsion-xl-3000",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "16-dihydroxy-25-dioxyhexane",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-ethers"
+	},
+	{
+		"id": "dimethyl-diallyl-ammonium-chloride",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
+	},
+	{
+		"id": "n-octyltriethoxysilane-rj-otes",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "polyether-polyol-rc-330n",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-ethers"
+	},
+	{
+		"id": "triisobutyl-phosphate-tibp",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-others"
+	},
+	{
+		"id": "organic-bentonite-rc708a",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "organic-bentonite-rc708h",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "organic-bentonite-rc708y",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "organic-bentonite-rc708yb",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "organic-bentonite-rc738",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "organic-bentonite-rc738a",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "organic-bentonite-rc738h",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "organic-bentonite-rc738y",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "organic-bentonite-rc758",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "organic-bentonite-rc778",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "ethyl-methyl-ketone-oxime",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "alcohol-ester-12ea-12",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "barium-sulphate-precipitated",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "isobornyl-methacrylate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "nitrocelluloseh12b",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "nitrocelluloseh300",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "nitrocelluloseink-grade",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "reactive-diluentxy746",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silane-coupling-agent-rj-171",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silane-coupling-agent-rj-550",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silane-coupling-agent-rj-560",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silane-coupling-agent-rj-570",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silane-coupling-agent-rj-mtms",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "sodium-silicate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "superfine-silicon-micropowder",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "tetraethoxysilane-rj-si28",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "water-reducing-agentrc5060",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "water-based-bentonite",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "3-hydroxyethoxy-1-hydroxyethylbenzendietherherl",
+		"cate": "paint-and-coatings-paints-polyurethane-paints"
+	},
+	{
+		"id": "44-methylenebis26-diethylaniline",
+		"cate": "paint-and-coatings-paints-polyurethane-paints"
+	},
+	{
+		"id": "44-methylenebis2-ethyl-6-methylaniline",
+		"cate": "paint-and-coatings-paints-polyurethane-paints"
+	},
+	{
+		"id": "44-methylenebis2-ethylbenzenamine",
+		"cate": "paint-and-coatings-paints-polyurethane-paints"
+	},
+	{
+		"id": "benzyl-alcohol-003",
+		"cate": "organic-chemicals-aroma-compounds-benzene-series"
+	},
+	{
+		"id": "curing-agent-haahh8080",
+		"cate": "paint-and-coatings-paints-polyurethane-paints"
+	},
+	{
+		"id": "curing-agent-haahh8081",
+		"cate": "paint-and-coatings-paints-polyurethane-paints"
+	},
+	{
+		"id": "diethyl-methyl-benzene-diaminedetda",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "dimethyl-thio-toluene-diaminedmtda",
+		"cate": "paint-and-coatings-paints-polyurethane-paints"
+	},
+	{
+		"id": "epoxy-curing-agent-ls-593",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "herhydroxyethyl-ether-of-resocinol",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "high-temperature-resistant-particle-moca",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "hqee-l-liquid-hqee",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "ls-d302-01",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "ls-d308-01",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "matt-hardener-hc55",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "m-cdea",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "ml200",
+		"cate": "paint-and-coatings-paints-polyurethane-paints"
+	},
+	{
+		"id": "moca-i",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "modified-aliphatic-amine-hardener-kb-5-2",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "modified-aliphatic-amine-hardener-kb-nf",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "modified-fatty-amine-hardener-kb-811",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "modified-fatty-amines-hardener-kb-6-2",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "phenolic-ammonia-curing-agent-a-500",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "polyamide-curing-agent-km-115",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "polyamide-curing-agent-km-140",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "polyamide-curing-agent-km-320",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "triglycidyl-isocyanurate-electronic-grade",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-rubber-chemicals"
+	},
+	{
+		"id": "triglycidyl-isocyanurate-powder-coating-grade",
+		"cate": "paint-and-coatings-paints-polyester-paints"
+	},
+	{
+		"id": "zinc-chloride",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "benzyl-benzoate",
+		"cate": "organic-chemicals-aroma-compounds-benzene-series"
+	},
+	{
+		"id": "dispersant-agent-rc-5050",
+		"cate": "dyes-and-pigments-dyes-disperse-dyes"
+	},
+	{
+		"id": "dispersant-cnf",
+		"cate": "dyes-and-pigments-dyes-disperse-dyes"
+	},
+	{
+		"id": "dispersant-mf",
+		"cate": "dyes-and-pigments-dyes-disperse-dyes"
+	},
+	{
+		"id": "dispersant-nno",
+		"cate": "dyes-and-pigments-dyes-disperse-dyes"
+	},
+	{
+		"id": "dispersant-nno-for-paints",
+		"cate": "dyes-and-pigments-dyes-disperse-dyes"
+	},
+	{
+		"id": "antimony-trioxide-001",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "antimony-trioxide-002",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "bisphenol-a-bisdiphenyl-phosphate",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-others"
+	},
+	{
+		"id": "bisphosphate-esterpx-220",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-others"
+	},
+	{
+		"id": "cresyl-diphenyl-phosphatecdp",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-others"
+	},
+	{
+		"id": "halogen-free-flame-retardant-rc-app",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-others"
+	},
+	{
+		"id": "halogen-free-flame-retardant-rc-app104mf",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-others"
+	},
+	{
+		"id": "n-vinylpyrrolidone",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "tetraphenyl-resorcinol-bisdiphenyl-phosphate",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
+	},
+	{
+		"id": "tricresyl-phosphatetcp",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
+	},
+	{
+		"id": "triphenyl-phosphatetpp",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
+	},
+	{
+		"id": "tris2-chloroethyl-phosphate-tcep",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
+	},
+	{
+		"id": "trixylyl-phosphatetxp",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
+	},
+	{
+		"id": "zinc-borate",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
+	},
+	{
+		"id": "coating-leveling-agent-rj-9612",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "hydrophilic-fumed-silica",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-rubber-chemicals"
+	},
+	{
+		"id": "leveling-agent-for-coating-rj-9612",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "leveling-agent-for-coating-rj-9621",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "leveling-agent-rj-9611",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "levelling-agent-hl988",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "uv1130",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-rubber-chemicals"
+	},
+	{
+		"id": "uv123",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-rubber-chemicals"
+	},
+	{
+		"id": "uv292",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-rubber-chemicals"
+	},
+	{
+		"id": "uv328",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-rubber-chemicals"
+	},
+	{
+		"id": "fused-silicon-powder",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "low-temperature-and-fast-curing-agent-hc31",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "matt-hardener-hc68",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "matting-agent-for-industrial-paint",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "matting-agent-for-wood-coating",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "outdoor-matting-agent-hm3326",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "outdoor-matting-agent-hm3328",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "outdoor-matting-agent-hm3329",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silica-sol",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "bisphenol-a-epoxy-resin-sm828-01",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "photoinitiator-1173",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "photoinitiator-184",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "photoinitiator-819",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "photoinitiator-tpo",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "photoinitiator907",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "photoinitiatoritx",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "zinc-oxide-coating-and-paint-grade",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "isooctyl-acetate",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "pentaerythritol-002",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "triethyl-phosphate-tep",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-rubber-chemicals"
+	},
+	{
+		"id": "trimethylolpropane",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
+	},
+	{
+		"id": "tris2-chloroisopropylphosphate-tcpp",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
+	},
+	{
+		"id": "benzyl-glycidyl-ether",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-others"
+	},
+	{
+		"id": "nitrocellulosecoating-grade",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "organic-bentonite-yh938",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "methyl-hydrogen-silicone-fluid-rj-202",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "nano-tech-water-repellent-rj-wp21",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "polymethyl-phenyl-siloxane-fluid-rj-255",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "sericite-coating-grade",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silane-emulsion-rj-wp08e",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silanesiloxane-concentrate-rj-wp18",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silanesiloxane-powder-rj-h80",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silicone-architectural-coating-rj-dn121",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silicone-emulsion-rj-wp20e",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silicone-water-repellent-rj-wp01-42",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silicone-water-repellent-rj-wp01-52",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "silicone-water-repellent-rj-wp03e",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "universal-waterproof-emulsion-xl-402k",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "waterproof-emulsion-xl-402",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "14-butanediol-diglycidyl-ether",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "1-4-butanediol-diglycidyl-ether",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "16-hexanedioldi-glycidyl-ether",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "accelerating-wet-agent-hl701",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "alkyl-c12-c14-glycidyl-ether",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "alkyl-glycidyl-ether-01",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "n-butyl-glycidyl-ether",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "neopentane-glycol-diglycidyl-ether",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "2-hydroxyethyl-acrylate",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "2-hydroxypropyl-acrylate",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "2-hydroxyethyl-metgacrylate-hema",
+		"cate": "paint-and-coatings-paints-polyurethane-paints"
+	},
+	{
+		"id": "acrylic-resin-for-wood-paint-bs965",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-wood-paint-bs965-2",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-wood-paint-bs965-5",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-wood-paint-bs965-10",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-wood-paint-bs9960",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-wood-paint-bs960",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-wood-paint-bs113",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-wood-paint-s-8070",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-wood-paint-s-8061",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-wood-paint-s-8060",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-wood-paint-s-8050",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplatic-acrylic-resin-for-wood-and-ratlan-article-coating-s-2060",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplatic-acrylic-resin-for-wood-and-ratlan-article-coating-s-2050",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplatic-acrylic-resin-for-wood-and-ratlan-article-coating-bs103",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplatic-acrylic-resin-for-wood-and-ratlan-article-coating-bs103-p",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplatic-acrylic-resin-for-wood-and-ratlan-article-coating-bs115",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-solvent-borne-enterior-coating-bs121",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-solvent-borne-enterior-coating-bs1996",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-solvent-borne-enterior-coating-bs116",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-solvent-borne-enterior-coating-bs2050",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-solvent-borne-enterior-coating-bs962",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "acrylic-resin-for-solvent-borne-enterior-coating-bs985",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "alkyd-resin344-2",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin3247",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-343-3",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-354-3",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-364-3",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-389-5",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-389-8",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-3402",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin3136",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-3404",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-3150",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin3231",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-3139",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-a30-1",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-311",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-312",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-355",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin397",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-3370",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "trimethylolpropanetmp",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-industrial-baking-paint3430",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-industrial-baking-paint344-2",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-industrial-baking-paint344-2a",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-industrial-baking-paint3222",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-industrial-baking-paint3355",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-industrial-baking-paint3902",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-industrial-baking-paint3250",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-air-drying-paint-389-8",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-air-drying-paint-389-9",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-air-drying-paint-3850",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-air-drying-paint3501-5",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-air-drying-paint-1350",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-air-drying-paint-7352",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-urethane-coating-3880",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-urethane-coating-3670",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-urethane-coating-3370c",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-urethane-coating-3818-70",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-urethane-coating-344-2",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-urethane-coating-1170e",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-nitrocellulose-lacquer-3370d",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-nitrocellulose-lacquer-3404",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-nitrocellulose-lacquer-3402",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-nitrocellulose-lacquer-3139",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-nitrocellulose-lacquer-3247",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-for-nitrocellulose-lacquer-3670",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "saturated-polyester-resin-for-coil-coating-3911",
+		"cate": "paint-and-coatings-paints-polyester-paints"
+	},
+	{
+		"id": "saturated-polyester-resin-for-coil-coating-3912",
+		"cate": "paint-and-coatings-paints-polyester-paints"
+	},
+	{
+		"id": "saturated-polyester-resin-for-coil-coating-3922",
+		"cate": "paint-and-coatings-paints-polyester-paints"
+	},
+	{
+		"id": "saturated-polyester-resin-for-coil-coating-3933",
+		"cate": "paint-and-coatings-paints-polyester-paints"
+	},
+	{
+		"id": "saturated-polyester-resin-for-coil-coating-3944",
+		"cate": "paint-and-coatings-paints-polyester-paints"
+	},
+	{
+		"id": "saturated-polyester-resin-for-coil-coating-3188",
+		"cate": "paint-and-coatings-paints-polyester-paints"
+	},
+	{
+		"id": "saturated-polyester-resin-for-industrial-baking-paint-3890m-1",
+		"cate": "paint-and-coatings-paints-polyester-paints"
+	},
+	{
+		"id": "saturated-polyester-resin-for-industrial-baking-paint-3200",
+		"cate": "paint-and-coatings-paints-polyester-paints"
+	},
+	{
+		"id": "saturated-polyester-resin-for-industrial-baking-paint-3820",
+		"cate": "paint-and-coatings-paints-polyester-paints"
+	},
+	{
+		"id": "saturated-polyester-resin-for-industrial-baking-paint-310",
+		"cate": "paint-and-coatings-paints-polyester-paints"
+	},
+	{
+		"id": "saturated-polyester-resin-for-powder-coating-5085",
+		"cate": "paint-and-coatings-paints-polyester-paints"
+	},
+	{
+		"id": "saturated-polyester-resin-for-powder-coating-2400",
+		"cate": "paint-and-coatings-paints-polyester-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-101",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-102",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-103",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-104",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-104-2",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-105",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-105-1",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-108",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-109",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-109-60",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-121",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-116",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-121-3f",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-1201a",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-1201",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-1201f",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-1209",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-1966",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-1996",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-113",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs2350",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs2460",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs1604",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs1650",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-2040-a",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-2050",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-2060",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs-2092",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermoplastic-acrylic-resin-bs2150",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermosetting-acrylic-resin-bs-8155",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermosetting-acrylic-resin-bs-970",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermosetting-acrylic-resin-bs-960",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermosetting-acrylic-resin-bs-985",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermosetting-acrylic-resin-bs-987-1",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermosetting-acrylic-resin-bs-988-2",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermosetting-acrylic-resin-bs-991",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermosetting-acrylic-resin-bs-9960",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermosetting-acrylic-resin-bs-9770",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermosetting-acrylic-resin-bs-9970",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermosetting-acrylic-resin-bs-8260",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermosetting-acrylic-resin-bs-9360",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "thermosetting-acrylic-resin-bs-9760",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "alkyd-resin-used-for-polyester-paint-1170d",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-used-for-polyester-paint-1170f",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-used-for-polyester-paint-3370f",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-used-for-polyester-paint-3801-70",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-used-for-polyester-paint-3735-70",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-used-for-polyester-paint-3738-70",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-used-for-polyester-pain-12-70a",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-used-for-polyester-pain-12-70b",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-used-for-polyester-pain-3880",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-used-for-polyester-pain-3370c",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-used-for-polyester-pain-3670",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "alkyd-resin-used-for-polyester-paint-3860-70",
+		"cate": "paint-and-coatings-paints-alkyd-resin-paints"
+	},
+	{
+		"id": "the-methoxylation-amino-resin",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "partially-methoxylation-amino-resin",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "butylated-melamine-formaldehyde-resin",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "polytetramethyleneoxide-di-p-aminobenzoatep1000",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "butylated-and-isobutylated-amino-resin-5860",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "butylated-and-isobutylated-amino-resin-5862",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "butylated-and-isobutylated-amino-resin-5872",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "butylated-and-isobutylated-amino-resin-5865",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "butylated-and-isobutylated-amino-resin-5869",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "butylated-and-isobutylated-amino-resin-582",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "butylated-and-isobutylated-amino-resin-582-001",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "butylated-and-isobutylated-amino-resin-590-3",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "butylated-and-isobutylated-amino-resin-582-3",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "butylated-and-isobutylated-amino-resin-585-1",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "methylated-amino-resin-sm5717",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "methylated-amino-resin-sm5747",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "methylated-amino-resin-sm5386",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "urea-for-maldehyde-resin-5260",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "urea-for-maldehyde-resin-5265",
+		"cate": "paint-and-coatings-paints-amino-resin-paints"
+	},
+	{
+		"id": "bisphenol-a-type-epoxy-resin-e-51",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "bisphenol-a-type-epoxy-resin-e-44",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "bisphenol-a-type-epoxy-resin-e-42",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "bisphenol-a-type-epoxy-resin-e-20",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "bisphenol-a-type-epoxy-resin-e-12",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "ceramic-silicone-rubber-jt-d-1870",
+		"cate": "rubber-raw-materials-rubber-raw-materials-silicone-rubber"
+	},
+	{
+		"id": "epoxy-resin-sm828-biphend-a-type",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-601-e-20-biphend-a-type",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "34-epoxycyclohexanecarboxylic-acid-methyl-ester",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "3-vinyl-7-oxabicyclo410heptane",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "bis34-epoxycyclohexylmethyladipate",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "34-epoxycyclohexylmethyl-34-epoxycyclohexanecarboxylate",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "dicyclopentadiene",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-biphend-a-type-sm826",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-biphend-a-type-sm828",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-biphend-a-type-sm618",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-biphend-a-type-sm634",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-biphend-a-type-e-39d",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-biphend-a-type-601-e-20",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-biphend-a-type-604-e12",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-biphend-a-type-607-e06",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-biphend-a-type-609-e-03",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-for-powder-coating-e-12",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-brominated-epoxy-ex-20",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-brominated-epoxy-ex-25",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-brominated-epoxy-ex-40",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-brominated-epoxy-ex-48",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-brominated-epoxy-ex-23-a-80",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-f-type-epoxy-phenolic-resin-f-51",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-f-type-epoxy-phenolic-resin-f-54",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-f-type-epoxy-phenolic-resin-f-48",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "epoxy-resin-f-type-epoxy-phenolic-resin-f-44",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "curing-agent-for-epoxy-resin-t-31",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "curing-agent-for-epoxy-resin-593",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "curing-agent-for-epoxy-resin-ty-650",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "curing-agent-for-epoxy-resin-ty-300",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "curing-agent-for-epoxy-resin-ty-651",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "curing-agent-for-epoxy-resin-h-113",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "curing-agent-for-epoxy-resin-686",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "epoxy-resin-biphend-a-type-sm6101",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "oligomers-epoxy-acrylate-6104",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "oligomers-epoxy-acrylate-6104-85",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "oligomers-epoxy-acrylate-6104-80",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "oligomers-epoxy-acrylate-6109",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "oligomers-epoxy-acrylate-6104d",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "oligomers-epoxy-acrylate-6105-80d",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "oligomers-epoxy-acrylate-6118",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "oligomers-epoxy-acrylate-6116",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "oligomers-amino-acrylate-6117",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "oligomers-amino-acrylate-6116",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "oligomers-urethane-acrylate-sm6201",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "oligomers-urethane-acrylate-sm6318",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "c9-petroleum-resin",
+		"cate": "paint-and-coatings-coatings-road-coatings"
+	},
+	{
+		"id": "polyurethane-resin-rc-pur-002",
+		"cate": "paint-and-coatings-paints-polyurethane-paints"
+	},
+	{
+		"id": "acrylic-polyurethane-resinhk-1018",
+		"cate": "paint-and-coatings-paints-polyurethane-paints"
+	},
+	{
+		"id": "tdi-8020",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "polymeric-mdi-44v20l",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "polymeric-mdi-pm-200",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "polymeric-mdi-m-200",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "rosin-resin-pe100",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "glycerol-ester-of-maleic-rosin",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "disproportionated-rosin",
+		"cate": "daily-chemicals-detergent-sapones"
+	},
+	{
+		"id": "gum-rosin",
+		"cate": "daily-chemicals-detergent-sapones"
+	},
+	{
+		"id": "pentaerythritol-ester-of-gum-rosin",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "glycerol-ester-of-gum-rosin",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "butylated-urea-resin",
+		"cate": "paint-and-coatings-paints-others"
+	},
+	{
+		"id": "formaldehyde",
+		"cate": "organic-chemicals-aldehydes-ketones---quinones-aldehydes"
+	},
+	{
+		"id": "bisphenol-a-epoxy-resin-sm601-01",
+		"cate": "paint-and-coatings-paints-epoxy-resin-paints"
+	},
+	{
+		"id": "iron-oxide-yellow-y42-01",
+		"cate": "dyes-and-pigments-pigments-pigment-yellow"
+	},
+	{
+		"id": "iron-oxide-yellow-y313",
+		"cate": "dyes-and-pigments-pigments-pigment-yellow"
+	},
+	{
+		"id": "iron-oxide-red-r110",
+		"cate": "dyes-and-pigments-pigments-pigment-red"
+	},
+	{
+		"id": "iron-oxide-red-r120",
+		"cate": "dyes-and-pigments-pigments-pigment-red"
+	},
+	{
+		"id": "iron-oxide-red-r130",
+		"cate": "dyes-and-pigments-pigments-pigment-red"
+	},
+	{
+		"id": "pigment-yellow-3",
+		"cate": "dyes-and-pigments-pigments-pigment-yellow"
+	},
+	{
+		"id": "pigment-yellow-65",
+		"cate": "dyes-and-pigments-pigments-pigment-yellow"
+	},
+	{
+		"id": "pigment-red-254",
+		"cate": "dyes-and-pigments-pigments-pigment-red"
+	},
+	{
+		"id": "pigment-yellow-83",
+		"cate": "dyes-and-pigments-pigments-pigment-yellow"
+	},
+	{
+		"id": "pigment-orange-13",
+		"cate": "dyes-and-pigments-pigments-pigment-orange"
+	},
+	{
+		"id": "pigment-orange-34",
+		"cate": "dyes-and-pigments-pigments-pigment-orange"
+	},
+	{
+		"id": "pigment-red-482",
+		"cate": "dyes-and-pigments-pigments-pigment-red"
+	},
+	{
+		"id": "pigment-red-112",
+		"cate": "dyes-and-pigments-pigments-pigment-red"
+	},
+	{
+		"id": "ci-pigment-red-484",
+		"cate": "dyes-and-pigments-pigments-pigment-red"
+	},
+	{
+		"id": "ultra-fine-aluminum-silicate",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "pigment-red-571",
+		"cate": "dyes-and-pigments-pigments-pigment-red"
+	},
+	{
+		"id": "rutile-titanium-dioxide-r818",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "rutile-titanium-dioxide-r838",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "rutile-titanium-dioxide-blr-895",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "rutile-titanium-dioxide-blr-896",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "rutile-titanium-dioxide-r868",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "rutile-titanium-dioxide-r878",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "anatase-titanium-dioxide-a1",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "rutile-titanium-dioxide-rc-919",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "titanium-dioxide-rc-708",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "titanium-dioxide-rc-618",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "rutile-titanium-dioxide-rc-635",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "titanium-dioxide-rc-101",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "titanium-dioxide-r-217",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "titanium-dioxide-r-2196",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "titanium-dioxide-r-216",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "heat-stable-iron-oxide-brown-rc645",
+		"cate": "dyes-and-pigments-pigments-pigment-brown"
+	},
+	{
+		"id": "pigment-yellow-74",
+		"cate": "dyes-and-pigments-pigments-pigment-yellow"
+	},
+	{
+		"id": "iron-oxide-red",
+		"cate": "dyes-and-pigments-pigments-pigment-red"
+	},
+	{
+		"id": "iron-oxide-yellow",
+		"cate": "dyes-and-pigments-pigments-pigment-yellow"
+	},
+	{
+		"id": "titanium-dioxide-b101",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "zine-chloride-anhy-98",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
+	},
+	{
+		"id": "titanium-dioxide-r-215",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "industrial-grade-light-calcium-carbonate",
+		"cate": "paint-and-coatings-putties"
+	},
+	{
+		"id": "zinc-oxide-chemical-grade",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "diatomite",
+		"cate": "agrochemicals-pesticides-herbicides"
+	},
+	{
+		"id": "zinc-oxide-for-arrester-purpose",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "water-resistant-material-talc-powder",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "painting-talc-powder",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "rutile-titanium-dioxide-rc901",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "infrared-reflecting-tio2-ir1000",
+		"cate": "dyes-and-pigments-pigments-pigment-white"
+	},
+	{
+		"id": "soda-ash-dense",
+		"cate": "dyes-and-pigments-dyes-basic-dyes"
+	},
+	{
+		"id": "ethyl-acetoacetate",
+		"cate": "flavour-fragrance-flavors-and-essences-water-soluble-flavors"
+	},
+	{
+		"id": "diethylene-glycol-monobutyl-ether-acetate",
+		"cate": "paint-and-coatings-inks"
+	},
+	{
+		"id": "ethylene-glycol-monobutyl-ether-acetate",
+		"cate": "paint-and-coatings-inks"
+	},
+	{
+		"id": "propyl-propionate",
+		"cate": "paint-and-coatings-inks"
+	},
+	{
+		"id": "n-methylpyrrolidonenmp",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
+	},
+	{
+		"id": "methyl-isobutyl-ketone-oxime",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "benzyl-alcohol-001",
+		"cate": "flavour-fragrance-flavors-and-essences-water-soluble-flavors"
+	},
+	{
+		"id": "cyclohexane",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "cyclohexanone-001",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "benzyl-alcohol-002",
+		"cate": "flavour-fragrance-flavors-and-essences-water-soluble-flavors"
+	},
+	{
+		"id": "dichloromethane",
+		"cate": "pharmaceuticals-and-biochemicals-pharmaceutical-excipients-others"
+	},
+	{
+		"id": "n-propyl-acetate",
+		"cate": "paint-and-coatings-inks"
+	},
+	{
+		"id": "trichloromethane-001",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "dimethyl-formamide",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "methyl-chloride",
+		"cate": "organic-chemicals-halides-chlorine-containing-organic-compounds"
+	},
+	{
+		"id": "n-n-dimethylformamide",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "cyclohexanone-002",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "n-butyl-acetate",
+		"cate": "flavour-fragrance-spices-synthetic-spices"
+	},
+	{
+		"id": "ethyl-acetate",
+		"cate": "flavour-fragrance-flavors-and-essences-oil-soluble-flavors"
+	},
+	{
+		"id": "propyl-acetate",
+		"cate": "flavour-fragrance-flavors-and-essences-oil-soluble-flavors"
+	},
+	{
+		"id": "propylene-glycol-monomethyl-ether",
+		"cate": "paint-and-coatings-inks"
+	},
+	{
+		"id": "propylene-glycol-monomethyl-ether-acetate",
+		"cate": "paint-and-coatings-coatings-car-paint"
+	},
+	{
+		"id": "2-methoxy-1-propanol",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "ethylene-glycol-dimethyl-ether",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "ethylene-glycol-monomethyl-ether",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "diethylene-glycol-monomethyl-ether",
+		"cate": "paint-and-coatings-inks"
+	},
+	{
+		"id": "ethyl-acetate-001",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "bdo",
+		"cate": "rubber-raw-materials-plastics-raw-materials-engineering-plastics-raw-material"
+	},
+	{
+		"id": "butyl-acetate-01",
+		"cate": "flavour-fragrance-flavors-and-essences-oil-soluble-flavors"
+	},
+	{
+		"id": "methylene-chloride",
+		"cate": "organic-chemicals-halides-chlorine-containing-organic-compounds"
+	},
+	{
+		"id": "dicotyl-terephthalate-dotp",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "diocty-adipate-doa",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "adipic-acid",
+		"cate": "rubber-raw-materials-plastics-raw-materials-engineering-plastics-raw-material"
+	},
+	{
+		"id": "n-butyl-alcohol-002",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "diocty-sebacatedos",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "isooctyl-alcohol",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "tributyl-citratetbc",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "n-butyl-stearate",
+		"cate": "rubber-raw-materials-auxiliaries-lubricant"
+	},
+	{
+		"id": "methyl-vinyl-ether",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "isopropyl-vinyl-ether",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "n-butyl-vinyl-ether",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "isobutyl-vinyl-ether",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "tert-butyl-vinyl-ether",
+		"cate": "chemical-reagents-high-purity-organic-reagents"
+	},
+	{
+		"id": "cyclohexyl-vinyl-ether",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "ethylene-glycol-monovinyl-ether",
+		"cate": "organic-intermediates-syntheses-material-intermediates"
+	},
+	{
+		"id": "diethylene-glycol-monovinyl-ether",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "methyl-cyclopentadiene",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "14-butanediol-monovinyl-ether",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-surfactants"
+	},
+	{
+		"id": "diethylene-glycol-divinyl-ether",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "14-butylene-glycol-divinyl-ether",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-surfactants"
+	},
+	{
+		"id": "phosphorous-acid-01",
+		"cate": "organic-intermediates-agrochemical-intermediates"
+	},
+	{
+		"id": "c5-petroleum-resin",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "diglycidyl-45-epoxycyclohexane-12-dicarboxylate-002",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "polylactic-acid",
+		"cate": "others"
+	},
+	{
+		"id": "pla-3d-printing",
+		"cate": "others"
+	},
+	{
+		"id": "trioctyl-trimellitate-002",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "polyester-chiptle-102",
+		"cate": "others"
+	},
+	{
+		"id": "compound-ufc-grain-material",
+		"cate": "rubber-raw-materials-plastics-raw-materials-alloy-plastics"
+	},
+	{
+		"id": "polycaprolactone",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "powdered-nitrile-butadiene-rubber",
+		"cate": "rubber-raw-materials-rubber-raw-materials-nbr"
+	},
+	{
+		"id": "black-masterbatch-02",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
+	},
+	{
+		"id": "black-masterbatch-04",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
+	},
+	{
+		"id": "black-masterbatch-05",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
+	},
+	{
+		"id": "foam-grade-poly",
+		"cate": "others"
+	},
+	{
+		"id": "methyl-methacrylate-mma-01",
+		"cate": "rubber-raw-materials-plastics-raw-materials-others"
+	},
+	{
+		"id": "ultraviolet-absorbent-uv-0",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "light-stabilizing-agent-622",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "light-stabilizing-agent-770",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "light-stabilizing-agent-944",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "light-stabilizing-agent-802",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "ultraviolet-absorbent-uv-9",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "ultraviolet-absorbent-uv-p",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "ultraviolet-absorbent-uv-326",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "ultraviolet-absorber-uv328",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "ultraviolet-absorbent-uv-329",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "ultraviolet-absorbent-uv-t",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "ultraviolet-absorbent-uv-234",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "ultraviolet-absorbent-uv-531",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "ultraviolet-absorbent-uv-571",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "ultraviolet-absorbent-uv-320",
+		"cate": "rubber-raw-materials-auxiliaries-light-stabilizer"
+	},
+	{
+		"id": "triphenyl-phosphite-tppi",
+		"cate": "rubber-raw-materials-auxiliaries-antioxidant"
+	},
+	{
+		"id": "silicone-surfactant-sd-901",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-surfactants"
+	},
+	{
+		"id": "silicone-surfactant-sd-905",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-surfactants"
+	},
+	{
+		"id": "silicone-surfactant-sd-801",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-surfactants"
+	},
+	{
+		"id": "silicone-surfactant-sd-906",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-surfactants"
+	},
+	{
+		"id": "silicone-surfactant-sd-907",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-surfactants"
+	},
+	{
+		"id": "silicone-surfactant-sd-922",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-surfactants"
+	},
+	{
+		"id": "polyether-modified-polysiloxane",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-surfactants"
+	},
+	{
+		"id": "epoxidized-soybean-oil",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "thiourea-dioxide",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-plastic-additives"
+	},
+	{
+		"id": "industrial-grade-heavy-calcium-carbonate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "dioctyl-sebacate",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "cyclohexylaminecha",
+		"cate": "rubber-raw-materials-auxiliaries-antistatic-agent"
+	},
+	{
+		"id": "mda-and-sodium-chloride",
+		"cate": "rubber-raw-materials-auxiliaries-antioxidant"
+	},
+	{
+		"id": "mica-rubber-grade",
+		"cate": "rubber-raw-materials-auxiliaries-filler"
+	},
+	{
+		"id": "rubber-talc-powder",
+		"cate": "rubber-raw-materials-auxiliaries-filler"
+	},
+	{
+		"id": "dimethylamine-002",
+		"cate": "organic-intermediates-agrochemical-intermediates"
+	},
+	{
+		"id": "dimethylamine-40",
+		"cate": "organic-intermediates-agrochemical-intermediates"
+	},
+	{
+		"id": "liquid-conductive-silicone-rubber-rj-0331ab",
+		"cate": "rubber-raw-materials-rubber-raw-materials-silicone-rubber"
+	},
+	{
+		"id": "silicone-rubber-rj-0110",
+		"cate": "rubber-raw-materials-rubber-raw-materials-silicone-rubber"
+	},
+	{
+		"id": "silicone-rubber-for-cable-accessories-rj-0235ab",
+		"cate": "rubber-raw-materials-rubber-raw-materials-silicone-rubber"
+	},
+	{
+		"id": "high-transparent-lsr-jt-m-6160",
+		"cate": "rubber-raw-materials-rubber-raw-materials-silicone-rubber"
+	},
+	{
+		"id": "extruded-normal-electric-silicone-rubber-jt-d-3460",
+		"cate": "rubber-raw-materials-rubber-raw-materials-silicone-rubber"
+	},
+	{
+		"id": "liquid-conductive-silicone-rubber-rj-0432ab",
+		"cate": "rubber-raw-materials-rubber-raw-materials-silicone-rubber"
+	},
+	{
+		"id": "hydroquinone-bis-2-hydroxyethyl-ether",
+		"cate": "rubber-raw-materials-auxiliaries-rubber-ingredient"
+	},
+	{
+		"id": "dioctyl-adipate",
+		"cate": "rubber-raw-materials-auxiliaries-plasticizer"
+	},
+	{
+		"id": "trimethylamine-001",
+		"cate": "chemical-reagents-general-analytical-reagent"
+	},
+	{
+		"id": "isobutyraldehyde-001",
+		"cate": "flavour-fragrance-flavors-and-essences-oil-soluble-flavors"
+	},
+	{
+		"id": "trimethylamine-002",
+		"cate": "chemical-reagents-general-analytical-reagent"
+	},
+	{
+		"id": "trimethylamine-40",
+		"cate": "chemical-reagents-general-analytical-reagent"
+	},
+	{
+		"id": "trimethylamine-30",
+		"cate": "chemical-reagents-general-analytical-reagent"
+	},
+	{
+		"id": "isobutyraldehyde-002",
+		"cate": "flavour-fragrance-flavors-and-essences-oil-soluble-flavors"
+	},
+	{
+		"id": "edta-4na-01",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
+	},
+	{
+		"id": "lsr-for-injection-molding-rj-0433ab",
+		"cate": "rubber-raw-materials-rubber-raw-materials-silicone-rubber"
+	},
+	{
+		"id": "acrylonitrile-butadiene-copolymer-latex",
+		"cate": "rubber-raw-materials-auxiliaries-flame-retardant"
+	},
+	{
+		"id": "dimethylamine-001",
+		"cate": "organic-intermediates-agrochemical-intermediates"
+	},
+	{
+		"id": "sulfur",
+		"cate": "inorganic-chemicals-elementary-substances"
+	},
+	{
+		"id": "dicyclohexylaminedcha",
+		"cate": "organic-intermediates-dyestuff-intermediates"
+	},
+	{
+		"id": "ordinary-silicon-micropowder",
+		"cate": "rubber-raw-materials-auxiliaries-filler"
+	},
+	{
+		"id": "zinc-oxide-rubber-grade",
+		"cate": "rubber-raw-materials-auxiliaries-filler"
+	},
+	{
+		"id": "fumed-silica-hx-150",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "fumed-silica-hx-200",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "sec-butyl-acetate-sbac-01",
+		"cate": "paint-and-coatings-paints-others"
+	},
+	{
+		"id": "methyl-ethyl-ketone-mek-01",
+		"cate": "paint-and-coatings-paints-others"
+	},
+	{
+		"id": "benzyl-alcohol-01",
+		"cate": "organic-chemicals-aroma-compounds-benzene-series"
+	},
+	{
+		"id": "formic-acid-002",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "formic-acid-industry-grade",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "formic-acid-anhydrous",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "formic-acid-003",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "trimethylchlorosilane",
+		"cate": "organic-chemicals-elemento-organic-compounds-organosilicon-compounds"
+	},
+	{
+		"id": "anhydrous-sodium-sulfate",
+		"cate": "dyes-and-pigments-dyes-sulphur-dyes"
+	},
+	{
+		"id": "formic-acid-001",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
+	},
+	{
+		"id": "glyceryl-monooleate",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-surfactants"
+	},
+	{
+		"id": "anhydrous-sodium-acetate-first-grade",
+		"cate": "food-feed-additives-food-ingredients-others"
+	},
+	{
+		"id": "sodium-acetate-trihydrate-super-grade",
+		"cate": "food-feed-additives-food-ingredients-others"
+	},
+	{
+		"id": "sodium-acetate-trihydrate-second-grade",
+		"cate": "food-feed-additives-food-ingredients-others"
+	},
+	{
+		"id": "pyrrolidinone-p",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "silane-coupling-agent-rj-otes",
+		"cate": "adhesives-inorganic-adhesives-silicates"
+	},
+	{
+		"id": "acrylic-acid-001",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "ammonium-fluoride",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "polyether-polyol-rc-4110",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
+	},
+	{
+		"id": "polyether-polyol-rc-3045",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
+	},
+	{
+		"id": "polyether-polyol-rc-3013",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
+	},
+	{
+		"id": "polyether-polyol-rc-3031",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
+	},
+	{
+		"id": "smooth-elastic-silicone-oiltextile-softener-rj-8036b",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
+	},
+	{
+		"id": "hydrophilic-silicone-emulsiontextile-softener-rj-3053",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
+	},
+	{
+		"id": "sodium-chlorite-powder",
+		"cate": "water-treatment-chemicals-bactericides-and-algicides"
+	},
+	{
+		"id": "disodium-hydrogen-phosphate",
+		"cate": "food-feed-additives-food-ingredients-humectants"
+	},
+	{
+		"id": "acrylic-acid-002",
+		"cate": "paint-and-coatings-paints-acrylic-paints"
+	},
+	{
+		"id": "sodium-chlorite",
+		"cate": "water-treatment-chemicals-bactericides-and-algicides"
+	},
+	{
+		"id": "dicyandiamide01",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "hydrogen-peroxide-001",
+		"cate": "water-treatment-chemicals-bactericides-and-algicides"
+	},
+	{
+		"id": "hydrogen-peroxide-002",
+		"cate": "water-treatment-chemicals-bactericides-and-algicides"
+	},
+	{
+		"id": "anhydrous-sodium-acetate-super-grade",
+		"cate": "food-feed-additives-food-ingredients-others"
+	},
+	{
+		"id": "ammonium-dihydrogen-phosphate-technical-grade",
+		"cate": "agrochemicals-fertilizers-phosphorus-fertilizers"
+	},
+	{
+		"id": "sodium-acetate-trihydrate-first-grade",
+		"cate": "food-feed-additives-food-ingredients-others"
+	},
+	{
+		"id": "isodecyl-diphenyl-phosphite",
+		"cate": "organic-intermediates-pharmaceutical-intermediates"
+	},
+	{
+		"id": "o-chloroaniline",
+		"cate": "organic-intermediates-agrochemical-intermediates"
+	},
+	{
+		"id": "methyldichlorosilane",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
+	},
+	{
+		"id": "amino-trimethylene-phosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "ethylene-diamine-tetra-methylene-phosphonic-acid-sodium-salt",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "diethylene-triamine-penta-methylene-phosphonic-acid-002",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "monosodium-of-1-hydroxy-ethylidene-11-diphosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "trimellitic-anhydride",
+		"cate": "paint-and-coatings-others"
+	},
+	{
+		"id": "sodium-carboxymethyl-cellulose-cmc-na-dyeing-grade",
+		"cate": "catalyst-and-auxiliary-chemical-auxiliary-agent-textile-auxiliaries"
+	},
+	{
+		"id": "sodium-metasilicate-pentahydrate",
+		"cate": "daily-chemicals-detergent-cleaning-agent"
+	},
+	{
+		"id": "potassium-permanganate",
+		"cate": "water-treatment-chemicals-bactericides-and-algicides"
+	},
+	{
+		"id": "polyhydroxyalkanoates",
+		"cate": "rubber-raw-materials-plastics-raw-materials-others"
+	},
+	{
+		"id": "amino-trimethylene-phosphonic-acid-50",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "sulphamic-acid",
+		"cate": "water-treatment-chemicals-cleaning-agents"
+	},
+	{
+		"id": "cationic-polyacrylamide-001",
+		"cate": "water-treatment-chemicals-flocculants"
+	},
+	{
+		"id": "ferrous-sulfate-industrial-waste-water-treatme",
+		"cate": "water-treatment-chemicals-flocculants"
+	},
+	{
+		"id": "polyhydric-alcohol-phosphate-ester",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "2-hydroxy-phosphonoacetic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "hexamethylenediaminetetra-methylenephosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "polyamino-polyether-methylene-phosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "hydroxyethylamino-dimethylene-phosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "sodium-salt-of-triethylene-tetramine-hexmethanephonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "penta-sodium-salt-of-amino-trimethylene-phosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "disodium-salt-of-1-hydroxy-ethylidene-11-diphosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "tetra-sodium-salt-of-1-hydroxy-ethylidene-11-diphosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "potassium-salt-of-1-hydroxy-ethylidene-11-diphosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "pentasodium-salt-of-ethylene-diamine-tetra-methylene-phosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "sodium-salt-of-diethylene-triamine-penta-methylene-phosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "2-phosphonobutane-124-tricarboxylic-acid-sodium-salt",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "tolyltriazole",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "sodium-salt-of-tolyltriazole",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "123-benzotriazole",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "sodium-salt-of-123-benzotriazole",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "2-mercaptobenzothiazole",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "sodium-salt-of-2-mercaptobenzothiazole",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "corrosion-inhibitor-for-hydrochloric-acidic-cleaning",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "1-hydroxy-ethylidene-1-1-diphosphonic-acid-50-01",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "barium-chloride-dihydrate",
+		"cate": "water-treatment-chemicals-bactericides-and-algicides"
+	},
+	{
+		"id": "trichloroisocyanuric-acid-001",
+		"cate": "water-treatment-chemicals-bactericides-and-algicides"
+	},
+	{
+		"id": "trichloroisocyanuric-acid-002",
+		"cate": "water-treatment-chemicals-bactericides-and-algicides"
+	},
+	{
+		"id": "sodium-dichloroisocyanurate",
+		"cate": "water-treatment-chemicals-bactericides-and-algicides"
+	},
+	{
+		"id": "benzalkonium-chloride-80-01",
+		"cate": "water-treatment-chemicals-bactericides-and-algicides"
+	},
+	{
+		"id": "diethylene-triamine-penta-methylene-phosphonic-acid-001",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "1-hydroxyethylidene-11-diphosphonic-acid-001",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "hedp2k",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "1-hydroxyethylidene-11-diphosphonic-acid-002",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "potassium-salt-of-hexamethylenediaminetetra-methylenephosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "partially-neutralized-sodium-salt-of-bis-hexamethylene-triamine-penta-methylene-phosphonic-acid",
+		"cate": "water-treatment-chemicals-corrosion-inhibitors"
+	},
+	{
+		"id": "polyacrylic-acid-50",
+		"cate": "water-treatment-chemicals-dispersants"
+	},
+	{
+		"id": "polyacrylic-acid-63",
+		"cate": "water-treatment-chemicals-dispersants"
+	},
+	{
+		"id": "polyacrylic-acid-sodium-salt-50",
+		"cate": "water-treatment-chemicals-dispersants"
+	},
+	{
+		"id": "polyacrylic-acid-sodium-salt-solid-90",
+		"cate": "water-treatment-chemicals-dispersants"
+	},
+	{
+		"id": "hydrolyzed-polymaleic-anhydride",
+		"cate": "water-treatment-chemicals-dispersants"
+	},
+	{
+		"id": "copolymer-of-maleic-and-acrylic-acid",
+		"cate": "water-treatment-chemicals-dispersants"
+	},
+	{
+		"id": "acrylic-acid-2-acrylamido-2-methylpropane-sulfonic-acid-copolymer",
+		"cate": "water-treatment-chemicals-dispersants"
+	},
+	{
+		"id": "acrylic-acid-2-hydroxypropyl-acrylate-copolymer",
+		"cate": "water-treatment-chemicals-dispersants"
+	},
+	{
+		"id": "acrylic-acidacrylatephosphonic-acidsulfosalt-tetra-copolymer",
+		"cate": "water-treatment-chemicals-dispersants"
+	},
+	{
+		"id": "acrylic-acrylate-sulfosalt-copolymers",
+		"cate": "water-treatment-chemicals-dispersants"
+	},
+	{
+		"id": "phosphino-carboxylic-acid",
+		"cate": "water-treatment-chemicals-dispersants"
+	},
+	{
+		"id": "edta-acid-01",
+		"cate": "water-treatment-chemicals-dispersants"
+	},
+	{
+		"id": "6-hydroxy-2-naphthoic-acid26-bon",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "butanediol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "silicone-powder-rj-s260a",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "silicone-masterbatch-rj-s53c",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "silicone-powder-rj-s270",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "silicone-masterbatch-rj-s536s",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "silicone-masterbatch-rj-s536",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "chlorinated-paraffin52",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkanes"
+	},
+	{
+		"id": "bisphenol-a-bisdiphenyl-phosphate-bdp",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "flexible-halogen-free-flame-resistant-tpe-rc-333w",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkynes"
+	},
+	{
+		"id": "flexible-halogen-free-flame-retardant-tpu-compound",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "flexible-halogen-free-flame-resistant-tpe-rc-fr331",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkynes"
+	},
+	{
+		"id": "uv-resistantgrade-halogen-free-flame-resistanttpe",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "intumescent-flame-retardant-masterbatch-rc-mb52c",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkynes"
+	},
+	{
+		"id": "polycarbonate",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "polytetrafluoroethylene",
+		"cate": "organic-chemicals-halides-fluorine-containing-organic-compounds"
+	},
+	{
+		"id": "diglycidyl-45-epoxycyclohexane-12-dicarboxylate-001",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "chlorinated-polyvinyl-chloride-001",
+		"cate": "organic-chemicals-halides-chlorine-containing-organic-compounds"
+	},
+	{
+		"id": "chlorinated-polyvinyl-chloride-002",
+		"cate": "organic-chemicals-halides-chlorine-containing-organic-compounds"
+	},
+	{
+		"id": "ditrimethylolpropaneditmp",
+		"cate": "organic-chemicals-hydrocarbon-derivatives-alkanes"
+	},
+	{
+		"id": "brominated-polystyrene-b901",
+		"cate": "organic-chemicals-halides-bromine-containing-organic-compounds"
+	},
+	{
+		"id": "antioxidant-264",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-ethers"
+	},
+	{
+		"id": "antioxidant-1098",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-phenols"
+	},
+	{
+		"id": "antioxidant-2246",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-phenols"
+	},
+	{
+		"id": "antioxidant-300",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-phenols"
+	},
+	{
+		"id": "antioxidant-b102",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-phenols"
+	},
+	{
+		"id": "antioxidant-dltp",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-phenols"
+	},
+	{
+		"id": "antioxidant-1010",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-ethers"
+	},
+	{
+		"id": "antioxidant-1076",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-ethers"
+	},
+	{
+		"id": "antioxidant-168",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-ethers"
+	},
+	{
+		"id": "antioxidant-dstp",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-phenols"
+	},
+	{
+		"id": "diol-of-tetrabromophthalic-anhydride-b627mv",
+		"cate": "organic-chemicals-halides-bromine-containing-organic-compounds"
+	},
+	{
+		"id": "diol-of-tetrabromophthalic-anhydride-b627-lv",
+		"cate": "organic-chemicals-halides-bromine-containing-organic-compounds"
+	},
+	{
+		"id": "diol-of-tetrabromophthalic-anhydride-b627-hv",
+		"cate": "organic-chemicals-halides-bromine-containing-organic-compounds"
+	},
+	{
+		"id": "tetrabromophthalic-anhydride",
+		"cate": "organic-chemicals-halides-bromine-containing-organic-compounds"
+	},
+	{
+		"id": "brominated-polystyrene-b701",
+		"cate": "organic-chemicals-halides-bromine-containing-organic-compounds"
+	},
+	{
+		"id": "brominated-polystyrene-b301",
+		"cate": "organic-chemicals-halides-bromine-containing-organic-compounds"
+	},
+	{
+		"id": "poly-pentabromobenzyl-acrylate",
+		"cate": "organic-chemicals-halides-bromine-containing-organic-compounds"
+	},
+	{
+		"id": "primary-antioxidant-1010",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "antioxidant-rca-168",
+		"cate": "rubber-raw-materials-auxiliaries-antioxidant"
+	},
+	{
+		"id": "asntioxidant-rca-626",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "antioxidant-rca-dltdp",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "antioxidant-rca-dstdf",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "antioxidant-rca-215",
+		"cate": "rubber-raw-materials-auxiliaries-antioxidant"
+	},
+	{
+		"id": "antioxidant-rca-220",
+		"cate": "rubber-raw-materials-auxiliaries-antioxidant"
+	},
+	{
+		"id": "antioxidant-rac-225",
+		"cate": "rubber-raw-materials-auxiliaries-antioxidant"
+	},
+	{
+		"id": "antioxidant-rca-561",
+		"cate": "rubber-raw-materials-auxiliaries-antioxidant"
+	},
+	{
+		"id": "antioxidant-rca-900",
+		"cate": "rubber-raw-materials-auxiliaries-antioxidant"
+	},
+	{
+		"id": "antioxidant-rca-911",
+		"cate": "rubber-raw-materials-auxiliaries-antioxidant"
+	},
+	{
+		"id": "antioxidant-rca-921",
+		"cate": "rubber-raw-materials-auxiliaries-antioxidant"
+	},
+	{
+		"id": "antioxidant-rca-6011",
+		"cate": "rubber-raw-materials-auxiliaries-antioxidant"
+	},
+	{
+		"id": "antioxidant-rca-6021",
+		"cate": "rubber-raw-materials-auxiliaries-antioxidant"
+	},
+	{
+		"id": "antioxidant-rca-245",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "antioxidant-rca-1010",
+		"cate": "organic-chemicals-aroma-compounds-others"
+	},
+	{
+		"id": "antioxidant-rca-1035",
+		"cate": "organic-chemicals-aroma-compounds-others"
+	},
+	{
+		"id": "antioxidant-rca-1076",
+		"cate": "organic-chemicals-aroma-compounds-others"
+	},
+	{
+		"id": "antioxidant-rca-1135",
+		"cate": "organic-chemicals-aroma-compounds-others"
+	},
+	{
+		"id": "antioxidant-rca-1330",
+		"cate": "organic-chemicals-aroma-compounds-others"
+	},
+	{
+		"id": "antioxidant-rca-3114",
+		"cate": "organic-chemicals-aroma-compounds-others"
+	},
+	{
+		"id": "ci-pigment-yellow-62",
+		"cate": "dyes-and-pigments-pigments-pigment-yellow"
+	},
+	{
+		"id": "powdered-carbon-black",
+		"cate": "inorganic-chemicals-elementary-substances"
+	},
+	{
+		"id": "granular-carbon-black",
+		"cate": "inorganic-chemicals-elementary-substances"
+	},
+	{
+		"id": "halogen-free-flame-retardant-nylon-masterbatch",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "flame-retardant-polyolefin-masterbatch-002",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "flame-retardant-polyolefin-masterbatch-003",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "flame-retardant-polyolefin-masterbatch-001",
+		"cate": "organic-chemicals-others"
+	},
+	{
+		"id": "chlorinated-paraffin-52",
+		"cate": "organic-chemicals-halides-chlorine-containing-organic-compounds"
+	},
+	{
+		"id": "sodium-antimonate",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "calcium-stearate",
+		"cate": "organic-chemicals-organic-salts-organic-calcium-salts"
+	},
+	{
+		"id": "barium-stearate",
+		"cate": "organic-chemicals-organic-salts-others"
+	},
+	{
+		"id": "lead-stearate",
+		"cate": "organic-chemicals-organic-salts-others"
+	},
+	{
+		"id": "plastic-talc-powder",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "calcium-stearate-100-pure-01",
+		"cate": "organic-chemicals-organic-salts-organic-calcium-salts"
+	},
+	{
+		"id": "n-capylic-acid",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "n-capric-acid",
+		"cate": "organic-chemicals-carboxylic-acids-derivatives-carboxylic-acids"
+	},
+	{
+		"id": "neopentyl-glycol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "pentaerythritol-001",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "acetyl-trioctyl-citrate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "acetyl-trihexyl-citrate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "butyryl-tri-n-hexyl",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "triethyl-citrate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "acetyl-triethyl-citrat",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "tributyl-citrate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "acetyl-tributyl-citrate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "dioctyl-terephthalate-citrate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "glycerol-triacetate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "trisbutoxyethylphosphate-tbep",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "epoxy-soybean-oil",
+		"cate": "organic-chemicals-nitrogen-compounds-amino-compounds"
+	},
+	{
+		"id": "phthalic-anhydride-pa",
+		"cate": "organic-chemicals-aroma-compounds-benzene-series"
+	},
+	{
+		"id": "dibutyl-phthalatedbp",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "phosphorous-acid-h3po3",
+		"cate": "inorganic-chemicals-inorganic-acids"
+	},
+	{
+		"id": "phosphorus-oxychloridepocl3-001",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "tributyl-acetyl-citrateatbc",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "dioctyl-phthalatedop",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "dioctyl-terephthalate",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "epoxy-fatty-acids-methyl-ester",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "trioctyl-trimellitate-001",
+		"cate": "organic-chemicals-ester-derivatives-organic-acid-esters"
+	},
+	{
+		"id": "n-butyl-alcohol-001",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "2-ethylhexanol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	},
+	{
+		"id": "phosphorus-oxychloridepocl3-002",
+		"cate": "inorganic-chemicals-inorganic-salts"
+	},
+	{
+		"id": "ethylene-glycol",
+		"cate": "organic-chemicals-alcohols-phenols---ethers-alcohols"
+	}]
+}
