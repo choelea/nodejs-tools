@@ -13,6 +13,7 @@
     "excel-as-json": "^2.0.2",
     "excel-to-json": "^1.0.0",
     "iconv-lite": "^0.4.17",
+    "sharp": "^0.21.0",
     "to-utf-8": "^1.3.0",
     "uuid": "^3.1.0",
     "yargs": "^7.1.0"
