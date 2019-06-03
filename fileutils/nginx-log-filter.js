@@ -16,12 +16,12 @@ var argv = require('yargs')
 var lineReader = readline.createInterface({
     input: fs.createReadStream("" + argv.file)
 });
-// var writable = fs.createWriteStream('D:\\tmp\\' + uuid());
+var writable = fs.createWriteStream('D:\\tmp\\' + uuid());
 console.log(`Starting to filter out the lines and print out those lines that contain ${argv.targetStr} and DO NOT contain ${argv.filteredStr}`)
 lineReader.on('line', function (line) {
     if ((!argv.targetStr || line.indexOf(argv.targetStr) > -1) && (!argv.filteredStr || line.indexOf(argv.filteredStr) === -1)) {
         console.log(line + "\n");
-        // writable.write(line + "\n");
+        writable.write(line + "\n");
     }
 }
 );
