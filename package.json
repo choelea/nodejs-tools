@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "collections": "^5.1.13",
     "convert-excel-to-json": "^1.3.0",
     "excel-as-json": "^2.0.2",
     "excel-to-json": "^1.0.0",
